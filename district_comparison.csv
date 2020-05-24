@@ -1,0 +1,574 @@
+"DISTRICT","Concern.Status","n"
+"Tinsukia","High",33
+"Baksa","High",32
+"Golaghat","High",32
+"Jalpaiguri","High",31
+"Lower Dibang Valley","High",31
+"Nainital","High",30
+"Bharatpur","High",28
+"Coimbatore","High",28
+"Dehradun","High",28
+"Raigarh","High",27
+"Kachchh","High",26
+"Nagaon","High",26
+"The Nilgiris","High",26
+"Chamrajnagar","High",25
+"Garhwal","High",25
+"Junagadh","High",25
+"Mysore","High",25
+"Palakkad","High",25
+"Sonitpur","High",25
+"Thane","High",25
+"Agra","High",24
+"Amravati","High",24
+"Bangalore","High",24
+"Gurgaon","High",24
+"Mumbai Suburban","High",24
+"Nagpur","High",24
+"Pune","High",24
+"Rangareddy","High",24
+"Sawai Madhopur","High",24
+"West Kameng","High",24
+"Ahmadabad","High",23
+"Kannur","High",23
+"Kheri","High",23
+"Kodagu","High",23
+"Mahesana","High",23
+"North Goa","High",23
+"Raipur","High",23
+"Udaipur","High",23
+"Chirang","High",22
+"East Godavari","High",22
+"Gautam Buddha Nagar","High",22
+"Hardwar","High",22
+"Hoshangabad","High",22
+"Medak","High",22
+"North","High",22
+"Seoni","High",22
+"South 24 Parganas","High",22
+"Uttara Kannada","High",22
+"Visakhapatnam","High",22
+"Bhavnagar","High",21
+"Darjiling","High",21
+"Idukki","High",21
+"Jabalpur","High",21
+"Jamnagar","High",21
+"Kancheepuram","High",21
+"Mahbubnagar","High",21
+"Nashik","High",21
+"South","High",21
+"Surendranagar","High",21
+"Tumkur","High",21
+"Udham Singh Nagar","High",21
+"Wayanad","High",21
+"Balaghat","High",20
+"Bastar","High",20
+"Bikaner","High",20
+"Bilaspur","High",20
+"Chandrapur","High",20
+"Chikmagalur","High",20
+"Churu","High",20
+"Dharwad","High",20
+"Erode","High",20
+"Jaipur","High",20
+"Kamrup Metropolitan","High",20
+"Kangra","High",20
+"Khordha","High",20
+"Kolhapur","High",20
+"Kurnool","High",20
+"Rajkot","High",20
+"Ramanagara","High",20
+"Satara","High",20
+"Sindhudurg","High",20
+"South West","High",20
+"Thiruvananthapuram","High",20
+"Vadodara","High",20
+"Almora","High",19
+"Amreli","High",19
+"Barddhaman","High",19
+"Bhilwara","High",19
+"Bijapur","High",19
+"Changlang","High",19
+"Gondiya","High",19
+"Jalgaon","High",19
+"Jorhat","High",19
+"Lucknow","High",19
+"Mandla","High",19
+"Sri Potti Sriramulu Nellore","High",19
+"Surat","High",19
+"Tarn Taran","High",19
+"Ajmer","High",18
+"Akola","High",18
+"Anand","High",18
+"Aurangabad","High",18
+"Barpeta","High",18
+"Bharuch","High",18
+"Chhindwara","High",18
+"Dhaulpur","High",18
+"Dibrugarh","High",18
+"Gandhinagar","High",18
+"Jodhpur","High",18
+"Kheda","High",18
+"Malappuram","High",18
+"Mandya","High",18
+"North 24 Parganas","High",18
+"Pali","High",18
+"Pilibhit","High",18
+"Shimoga","High",18
+"Sidhi","High",18
+"Sirmaur","High",18
+"Sirohi","High",18
+"South Goa","High",18
+"Theni","High",18
+"Thrissur","High",18
+"Udupi","High",18
+"Umaria","High",18
+"Y.s.r.","High",18
+"Adilabad","High",17
+"Anantapur","High",17
+"Belgaum","High",17
+"Bellary","High",17
+"Bhopal","High",17
+"Chhatarpur","High",17
+"Chittaurgarh","High",17
+"Dakshina Kannada","High",17
+"Damoh","High",17
+"Darrang","High",17
+"Dhamtari","High",17
+"Durg","High",17
+"Ernakulam","High",17
+"Hyderabad","High",17
+"Jhajjar","High",17
+"Kozhikode","High",17
+"Navsari","High",17
+"Pathanamthitta","High",17
+"Shivpuri","High",17
+"Thiruvallur","High",17
+"Tirunelveli","High",17
+"Tiruppur","High",17
+"Virudunagar","High",17
+"Warangal","High",17
+"Yavatmal","High",17
+"Bahraich","High",16
+"Baleshwar","High",16
+"Chittoor","High",16
+"Indore","High",16
+"Jaisalmer","High",16
+"Kabeerdham","High",16
+"Kollam","High",16
+"Kota","High",16
+"Mahasamund","High",16
+"Mayurbhanj","High",16
+"Muzaffarnagar","High",16
+"Neemuch","High",16
+"Rajsamand","High",16
+"Viluppuram","High",16
+"Wardha","High",16
+"Banas Kantha","High",15
+"Bangalore Rural","High",15
+"Bidar","High",15
+"Bulandshahr","High",15
+"Dhule","High",15
+"Faridabad","High",15
+"Gwalior","High",15
+"Hassan","High",15
+"Haveri","High",15
+"Kamrup","High",15
+"Koriya","High",15
+"Mandsaur","High",15
+"Narmada","High",15
+"New Delhi","High",15
+"Salem","High",15
+"Solapur","High",15
+"South Andaman","High",15
+"The Dangs","High",15
+"Thoothukkudi","High",15
+"Tiruvannamalai","High",15
+"Varanasi","High",15
+"Vellore","High",15
+"West Godavari","High",15
+"Ahmadnagar","High",14
+"Alwar","High",14
+"Chennai","High",14
+"Chikkaballapura","High",14
+"Dindigul","High",14
+"Dohad","High",14
+"East","High",14
+"East Nimar","High",14
+"Jammu","High",14
+"Jhunjhunun","High",14
+"Kanniyakumari","High",14
+"Kottayam","High",14
+"Lohit","High",14
+"Marigaon","High",14
+"Narsimhapur","High",14
+"Panna","High",14
+"Puri","High",14
+"Rajnandgaon","High",14
+"Ratnagiri","High",14
+"Rohtak","High",14
+"Sahibzada Ajit Singh Nagar","High",14
+"Sheopur","High",14
+"Singrauli","High",14
+"Anugul","High",13
+"Balrampur","High",13
+"Betul","High",13
+"Bhagalpur","High",13
+"Chandigarh","High",13
+"Chitradurga","High",13
+"Dewas","High",13
+"East Kameng","High",13
+"Etawah","High",13
+"Katni","High",13
+"Kendrapara","High",13
+"Khammam","High",13
+"Koch Bihar","High",13
+"Koraput","High",13
+"Krishna","High",13
+"Krishnagiri","High",13
+"Mathura","High",13
+"Morena","High",13
+"Nandurbar","High",13
+"Nizamabad","High",13
+"North & Middle Andaman","High",13
+"Panch Mahals","High",13
+"Panchkula","High",13
+"Pashchim Medinipur","High",13
+"Patan","High",13
+"Puruliya","High",13
+"Raichur","High",13
+"Sagar","High",13
+"Saharanpur","High",13
+"Sangli","High",13
+"Satna","High",13
+"Sehore","High",13
+"Sonipat","High",13
+"Uttar Bastar Kanker","High",13
+"Ariyalur","High",12
+"Bankura","High",12
+"Bareilly","High",12
+"Barmer","High",12
+"Bhandara","High",12
+"Birbhum","High",12
+"Cuttack","High",12
+"East Khasi Hills","High",12
+"Hoshiarpur","High",12
+"Hugli","High",12
+"Janjgir-champa","High",12
+"Jhansi","High",12
+"Kapurthala","High",12
+"Kasaragod","High",12
+"Kolar","High",12
+"Madurai","High",12
+"Mahamaya Nagar","High",12
+"Mumbai","High",12
+"North East","High",12
+"North West","High",12
+"Pashchim Champaran","High",12
+"Porbandar","High",12
+"Puducherry","High",12
+"Raisen","High",12
+"Ranchi","High",12
+"Ratlam","High",12
+"Rewa","High",12
+"Rewari","High",12
+"Rudraprayag","High",12
+"Rupnagar","High",12
+"Shrawasti","High",12
+"Thiruvarur","High",12
+"Unnao","High",12
+"Aligarh","High",11
+"Anuppur","High",11
+"Ashoknagar","High",11
+"Bhind","High",11
+"Bijnor","High",11
+"Bishnupur","High",11
+"Bundi","High",11
+"Central","High",11
+"Dindori","High",11
+"East Siang","High",11
+"Ganjam","High",11
+"Gulbarga","High",11
+"Hazaribagh","High",11
+"Jalor","High",11
+"Kanpur Nagar","High",11
+"Karauli","High",11
+"Kokrajhar","High",11
+"Kolkata","High",11
+"Kullu","High",11
+"Nadia","High",11
+"Nagappattinam","High",11
+"Nalgonda","High",11
+"Narayanpur","High",11
+"Palwal","High",11
+"Patna","High",11
+"Prakasam","High",11
+"Rajgarh","High",11
+"Shahdol","High",11
+"Shimla","High",11
+"Sikar","High",11
+"Surguja","High",11
+"Tehri Garhwal","High",11
+"Ujjain","High",11
+"Allahabad","High",10
+"Bhiwani","High",10
+"Buldana","High",10
+"Cachar","High",10
+"Cuddalore","High",10
+"Datia","High",10
+"Dhar","High",10
+"Dharmapuri","High",10
+"Dhenkanal","High",10
+"Etah","High",10
+"Faizabad","High",10
+"Firozpur","High",10
+"Garhchiroli","High",10
+"Gurdaspur","High",10
+"Hisar","High",10
+"Jashpur","High",10
+"Jhalawar","High",10
+"Koppal","High",10
+"Korba","High",10
+"Mainpuri","High",10
+"Maldah","High",10
+"Nagaur","High",10
+"Pudukkottai","High",10
+"Sabar Kantha","High",10
+"Samba","High",10
+"Shahjahanpur","High",10
+"Sivaganga","High",10
+"Solan","High",10
+"Thanjavur","High",10
+"Tiruchirappalli","High",10
+"Tonk","High",10
+"West","High",10
+"West Nimar","High",10
+"Yamunanagar","High",10
+"Alappuzha","High",9
+"Bara Banki","High",9
+"Bid","High",9
+"Dakshin Bastar Dantewada","High",9
+"Dausa","High",9
+"Davanagere","High",9
+"Ghaziabad","High",9
+"Haora","High",9
+"Kathua","High",9
+"Nanded","High",9
+"Nayagarh","High",9
+"Purba Medinipur","High",9
+"Rae Bareli","High",9
+"Saraikela-kharsawan","High",9
+"Sivasagar","High",9
+"Tikamgarh","High",9
+"Washim","High",9
+"West Tripura","High",9
+"Bagalkot","High",8
+"Bageshwar","High",8
+"Guntur","High",8
+"Jyotiba Phule Nagar","High",8
+"Karbi Anglong","High",8
+"Karimganj","High",8
+"Karimnagar","High",8
+"Kohima","High",8
+"Lalitpur","High",8
+"Mahendragarh","High",8
+"Mandi","High",8
+"Meerut","High",8
+"Nicobar","High",8
+"Osmanabad","High",8
+"Pratapgarh","High",8
+"Purbi Singhbhum","High",8
+"Purnia","High",8
+"Ramanathapuram","High",8
+"Tapi","High",8
+"Uttarkashi","High",8
+"Vidisha","High",8
+"Vizianagaram","High",8
+"Baramula","High",7
+"Bargarh","High",7
+"Bathinda","High",7
+"Chamoli","High",7
+"Darbhanga","High",7
+"Data Not Available","High",7
+"Gadag","High",7
+"Hardoi","High",7
+"Kannauj","High",7
+"Kendujhar","High",7
+"Lower Subansiri","High",7
+"Mamit","High",7
+"Mirzapur","High",7
+"Murshidabad","High",7
+"Namakkal","High",7
+"Pashchimi Singhbhum","High",7
+"Peren","High",7
+"Rampur","High",7
+"Ri Bhoi","High",7
+"Senapati","High",7
+"South Tripura","High",7
+"Srinagar","High",7
+"Udalguri","High",7
+"Ukhrul","High",7
+"Valsad","High",7
+"Yadgir","High",7
+"Amritsar","High",6
+"Banswara","High",6
+"Bongaigaon","High",6
+"Chitrakoot","High",6
+"Dhubri","High",6
+"Jajapur","High",6
+"Jalandhar","High",6
+"Jalaun","High",6
+"Kaithal","High",6
+"Kiphire","High",6
+"Kishtwar","High",6
+"Latur","High",6
+"Madhubani","High",6
+"Malkangiri","High",6
+"Nabarangapur","High",6
+"Parbhani","High",6
+"Pithoragarh","High",6
+"Rayagada","High",6
+"Reasi","High",6
+"Saiha","High",6
+"Sultanpur","High",6
+"Udhampur","High",6
+"Una","High",6
+"Vaishali","High",6
+"Aizawl","High",5
+"Alirajpur","High",5
+"Balangir","High",5
+"Baran","High",5
+"Chamba","High",5
+"Dadra & Nagar Haveli","High",5
+"Dhanbad","High",5
+"Diu","High",5
+"Dungarpur","High",5
+"Faridkot","High",5
+"Imphal East","High",5
+"Jagatsinghapur","High",5
+"Jhabua","High",5
+"Lakhimpur","High",5
+"Latehar","High",5
+"Ludhiana","High",5
+"Nalanda","High",5
+"Punch","High",5
+"Sambalpur","High",5
+"Sirsa","High",5
+"South Garo Hills","High",5
+"Srikakulam","High",5
+"Subarnapur","High",5
+"Badgam","High",4
+"Bandipore","High",4
+"Bhadrak","High",4
+"Champawat","High",4
+"Dima Hasao","High",4
+"Doda","High",4
+"Firozabad","High",4
+"Gaya","High",4
+"Gorakhpur","High",4
+"Guna","High",4
+"Hanumangarh","High",4
+"Hingoli","High",4
+"Jalna","High",4
+"Jharsuguda","High",4
+"Kalahandi","High",4
+"Kanpur Dehat","High",4
+"Karur","High",4
+"Lakshadweep","High",4
+"Leh (ladakh)","High",4
+"Moradabad","High",4
+"Patiala","High",4
+"Shajapur","High",4
+"Sundargarh","High",4
+"Tamenglong","High",4
+"Uttar Dinajpur","High",4
+"West Siang","High",4
+"Wokha","High",4
+"Zunheboto","High",4
+"Ambala","High",3
+"Anantnag","High",3
+"Anjaw","High",3
+"Barwani","High",3
+"Begusarai","High",3
+"Budaun","High",3
+"Burhanpur","High",3
+"Champhai","High",3
+"Dakshin Dinajpur","High",3
+"Dhemaji","High",3
+"East Garo Hills","High",3
+"Ganderbal","High",3
+"Goalpara","High",3
+"Gonda","High",3
+"Hamirpur","High",3
+"Kinnaur","High",3
+"Lohardaga","High",3
+"Maharajganj","High",3
+"Nalbari","High",3
+"Panipat","High",3
+"Perambalur","High",3
+"Phek","High",3
+"Rajouri","High",3
+"Saharsa","High",3
+"Sahibganj","High",3
+"Tawang","High",3
+"Upper Siang","High",3
+"West Garo Hills","High",3
+"Ambedkar Nagar","High",2
+"Auraiya","High",2
+"Banda","High",2
+"Chandauli","High",2
+"Debagarh","High",2
+"Dibang Valley","High",2
+"Farrukhabad","High",2
+"Fatehabad","High",2
+"Gajapati","High",2
+"Ganganagar","High",2
+"Giridih","High",2
+"Jaunpur","High",2
+"Kargil","High",2
+"Karnal","High",2
+"Kolasib","High",2
+"Mansa","High",2
+"Mewat","High",2
+"Munger","High",2
+"Sangrur","High",2
+"Sant Kabir Nagar","High",2
+"Shahid Bhagat Singh Nagar","High",2
+"Siddharth Nagar","High",2
+"Supaul","High",2
+"Thoubal","High",2
+"Baghpat","High",1
+"Bokaro","High",1
+"Chandel","High",1
+"Chatra","High",1
+"Daman","High",1
+"Dimapur","High",1
+"Dumka","High",1
+"Fatehgarh Sahib","High",1
+"Fatehpur","High",1
+"Hailakandi","High",1
+"Harda","High",1
+"Jaintia Hills","High",1
+"Jamui","High",1
+"Jind","High",1
+"Karaikal","High",1
+"Katihar","High",1
+"Kaushambi","High",1
+"Khagaria","High",1
+"Kishanganj","High",1
+"Kupwara","High",1
+"Kurukshetra","High",1
+"Kurung Kumey","High",1
+"Mahe","High",1
+"Mahoba","High",1
+"Mokokchung","High",1
+"Muzaffarpur","High",1
+"North Tripura","High",1
+"Nuapada","High",1
+"Papum Pare","High",1
+"Ramban","High",1
+"Ramgarh","High",1
+"Samastipur","High",1
+"Sitapur","High",1
+"Sonbhadra","High",1
+"Tirap","High",1
