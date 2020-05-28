@@ -4,7 +4,7 @@
 ## place raw txt file (India download) in working directory 
 
 readcleanrawdata = function(rawpath = "ebd_IN_relApr-2020.txt", 
-                            sensitivepath = "Sensitive_India_may 2019.csv")
+                            sensitivepath = "ebd_relApr-2020_sensitive.txt")
 {
   require(lubridate)
   require(tidyverse)
@@ -33,29 +33,21 @@ readcleanrawdata = function(rawpath = "ebd_IN_relApr-2020.txt",
   nms[!(nms %in% preimp)] = "NULL"
   nms[nms %in% preimp] = NA
   
+  nms1 = read.delim(sensitivepath, nrows = 1, sep = "\t", header = T, quote = "", stringsAsFactors = F, 
+                    na.strings = c(""," ",NA))
+  nms1 = names(nms1)
+  nms1[!(nms1 %in% preimp)] = "NULL"
+  nms1[nms1 %in% preimp] = NA
+  
   # read data from certain columns only
   data = read.delim(rawpath, colClasses = nms, sep = "\t", header = T, quote = "", 
                     stringsAsFactors = F, na.strings = c(""," ",NA))
   
+  sesp = read.delim(sensitivepath, colClasses = nms1, sep = "\t", header = T, quote = "", 
+                     stringsAsFactors = F, na.strings = c(""," ",NA))
+  
   # read sensitive species data
-  nms = nms[-47]
-  sesp = read.csv(sensitivepath, colClasses = nms, stringsAsFactors = F)
-  
-  stdformat = data.frame(date = as.character(sesp$OBSERVATION.DATE))
-  stdformat = stdformat %>%
-    separate(date, c("month","day","year"), "/")
-  stdformat$year = as.numeric(stdformat$year)
-  sesp$OBSERVATION.DATE = paste(stdformat$year,"-",stdformat$month,"-",stdformat$day, sep = "")
-  sesp = sesp %>% mutate(GROUP.IDENTIFIER = ifelse(GROUP.IDENTIFIER == "", NA, GROUP.IDENTIFIER))
-  
-  stdformat = data.frame(date = as.character(sesp$LAST.EDITED.DATE))
-  stdformat = stdformat %>%
-    separate(date, c("date","time"), " ") %>%
-    select(-time)
-  stdformat = stdformat %>%
-    separate(date, c("month","day","year"), "/")
-  stdformat$year = as.numeric(stdformat$year)
-  sesp$LAST.EDITED.DATE = paste(stdformat$year,"-",stdformat$month,"-",stdformat$day, sep = "")
+
   
   # merge both data frames
   data = rbind(data,sesp)

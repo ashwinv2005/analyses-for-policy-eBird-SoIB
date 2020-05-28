@@ -1,8 +1,8 @@
-source('~/GitHub/vulture-analysis/functions.R')
+source('~/GitHub/analyses-for-policy-eBird-SoIB/functions.R')
 createmaps()
-source('~/GitHub/vulture-analysis/functions.R')
-readcleanrawdata("ebd_IN_relApr-2020.txt","Sensitive_India_may 2019.csv") 
-source('~/GitHub/vulture-analysis/functions.R')
+source('~/GitHub/analyses-for-policy-eBird-SoIB/functions.R')
+readcleanrawdata("ebd_IN_relApr-2020.txt","ebd_relApr-2020_sensitive.txt") 
+source('~/GitHub/analyses-for-policy-eBird-SoIB/functions.R')
 addmapvars()
 
 

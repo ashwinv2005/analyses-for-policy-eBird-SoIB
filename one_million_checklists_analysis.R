@@ -1,3 +1,6 @@
+#font_import(paths = NULL, recursive = TRUE, prompt = TRUE,pattern = NULL)
+#extrafont::loadfonts(device="win")
+
 require(tidyverse)
 load("data_till_may2020.RData")
 media = read.csv("ebird_media.csv")

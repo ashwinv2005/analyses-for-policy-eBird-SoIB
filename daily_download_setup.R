@@ -4,11 +4,11 @@ require(tidyverse)
 load("may2020.RData")
 art = as.data.frame(art)
 
-inject.dots <- function(df) {names(df) <- sub(" ", ".", names(df));df}
-art = inject.dots(art)
-art = inject.dots(art)
+#inject.dots <- function(df) {names(df) <- sub(" ", ".", names(df));df}
+#art = inject.dots(art)
+#art = inject.dots(art)
 
-art$LAST.EDITED.DATE = "2020-05-10"
+art$LAST.EDITED.DATE = "2020-05-15"
 
 imp = c("GLOBAL.UNIQUE.IDENTIFIER","CATEGORY","COMMON.NAME","OBSERVATION.COUNT",
         "LOCALITY.ID", "REVIEWED","VALID","SAMPLING.EVENT.IDENTIFIER","LAST.EDITED.DATE",
@@ -30,7 +30,7 @@ art = art %>%
 
 art = art %>%
   #group_by(group.id,COMMON.NAME) %>% slice(1) %>% ungroup %>%
-  dplyr::select(imp) %>%
+  dplyr::select(all_of(imp)) %>%
   mutate(OBSERVATION.DATE = as.Date(OBSERVATION.DATE), 
          month = month(OBSERVATION.DATE),
          day = day(OBSERVATION.DATE) + cdays[month],
