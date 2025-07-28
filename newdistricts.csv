@@ -1,0 +1,736 @@
+COUNTY,STATE
+Kupwara,JAMMU & KASHMIR
+Bandipore,JAMMU & KASHMIR
+Baramula,JAMMU & KASHMIR
+Ganderbal,JAMMU & KASHMIR
+Anantnag,JAMMU & KASHMIR
+Kishtwar,JAMMU & KASHMIR
+Srinagar,JAMMU & KASHMIR
+Badgam,JAMMU & KASHMIR
+Pulwama,JAMMU & KASHMIR
+Punch,JAMMU & KASHMIR
+Shupiyan,JAMMU & KASHMIR
+Kulgam,JAMMU & KASHMIR
+Rajouri,JAMMU & KASHMIR
+Ramban,JAMMU & KASHMIR
+Reasi,JAMMU & KASHMIR
+Doda,JAMMU & KASHMIR
+Jammu,JAMMU & KASHMIR
+Kathua,JAMMU & KASHMIR
+Udhampur,JAMMU & KASHMIR
+Samba,JAMMU & KASHMIR
+Muzaffarabad,JAMMU & KASHMIR
+Mirpur,JAMMU & KASHMIR
+Lahul & Spiti,HIMACHAL PRADESH
+Chamba,HIMACHAL PRADESH
+Kangra,HIMACHAL PRADESH
+Kullu,HIMACHAL PRADESH
+Mandi,HIMACHAL PRADESH
+Kinnaur,HIMACHAL PRADESH
+Una,HIMACHAL PRADESH
+Shimla,HIMACHAL PRADESH
+Solan,HIMACHAL PRADESH
+Sirmaur,HIMACHAL PRADESH
+Hamirpur,HIMACHAL PRADESH
+Bilaspur,HIMACHAL PRADESH
+Gurdaspur,PUNJAB
+Hoshiarpur,PUNJAB
+Amritsar,PUNJAB
+Jalandhar,PUNJAB
+Tarn Taran,PUNJAB
+Rupnagar,PUNJAB
+Shahid Bhagat Singh Nagar,PUNJAB
+Fazilka,PUNJAB
+Moga,PUNJAB
+Ludhiana,PUNJAB
+Sahibzada Ajit Singh Nagar,PUNJAB
+Faridkot,PUNJAB
+Fatehgarh Sahib,PUNJAB
+Sri Muktsar Sahib,PUNJAB
+Sangrur,PUNJAB
+Barnala,PUNJAB
+Bathinda,PUNJAB
+Patiala,PUNJAB
+Mansa,PUNJAB
+Firozpur,PUNJAB
+Pathankot,PUNJAB
+Kapurthala,PUNJAB
+Chandigarh,CHANDIGARH
+Uttarkashi,UTTARAKHAND
+Chamoli,UTTARAKHAND
+Dehradun,UTTARAKHAND
+Tehri Garhwal,UTTARAKHAND
+Rudraprayag,UTTARAKHAND
+Pithoragarh,UTTARAKHAND
+Bageshwar,UTTARAKHAND
+Hardwar,UTTARAKHAND
+Garhwal,UTTARAKHAND
+Almora,UTTARAKHAND
+Nainital,UTTARAKHAND
+Champawat,UTTARAKHAND
+Udham Singh Nagar,UTTARAKHAND
+Jhajjar,HARYANA
+Gurugram,HARYANA
+Faridabad,HARYANA
+Mahendragarh,HARYANA
+Rewari,HARYANA
+Nuh,HARYANA
+Palwal,HARYANA
+Charki Dadri,HARYANA
+Yamunanagar,HARYANA
+Kurukshetra,HARYANA
+Kaithal,HARYANA
+Sirsa,HARYANA
+Karnal,HARYANA
+Jind,HARYANA
+Fatehabad,HARYANA
+Hisar,HARYANA
+Panipat,HARYANA
+Sonipat,HARYANA
+Bhiwani,HARYANA
+Rohtak,HARYANA
+Panchkula,HARYANA
+Ambala,HARYANA
+North,DELHI
+North East,DELHI
+West,DELHI
+East,DELHI
+South West,DELHI
+Central,DELHI
+New Delhi,DELHI
+South,DELHI
+Shahdara,DELHI
+South East,DELHI
+North West,DELHI
+Churu,RAJASTHAN
+Jhunjhunun,RAJASTHAN
+Jaisalmer,RAJASTHAN
+Sikar,RAJASTHAN
+Alwar,RAJASTHAN
+Jaipur,RAJASTHAN
+Jodhpur,RAJASTHAN
+Bharatpur,RAJASTHAN
+Nagaur,RAJASTHAN
+Dausa,RAJASTHAN
+Karauli,RAJASTHAN
+Dhaulpur,RAJASTHAN
+Barmer,RAJASTHAN
+Sawai Madhopur,RAJASTHAN
+Tonk,RAJASTHAN
+Pali,RAJASTHAN
+Bhilwara,RAJASTHAN
+Jalor,RAJASTHAN
+Bundi,RAJASTHAN
+Kota,RAJASTHAN
+Sirohi,RAJASTHAN
+Baran,RAJASTHAN
+Udaipur,RAJASTHAN
+Jhalawar,RAJASTHAN
+Dungarpur,RAJASTHAN
+Banswara,RAJASTHAN
+Ajmer,RAJASTHAN
+Rajsamand,RAJASTHAN
+Chittaurgarh,RAJASTHAN
+Ganganagar,RAJASTHAN
+Hanumangarh,RAJASTHAN
+Bikaner,RAJASTHAN
+Pratapgarh,RAJASTHAN
+Amroha,UTTAR PRADESH
+Hapur,UTTAR PRADESH
+Bareilly,UTTAR PRADESH
+Pilibhit,UTTAR PRADESH
+Bulandshahr,UTTAR PRADESH
+Gautam Buddha Nagar,UTTAR PRADESH
+Kheri,UTTAR PRADESH
+Budaun,UTTAR PRADESH
+Bahraich,UTTAR PRADESH
+Shahjahanpur,UTTAR PRADESH
+Aligarh,UTTAR PRADESH
+Kasganj,UTTAR PRADESH
+Mathura,UTTAR PRADESH
+Shrawasti,UTTAR PRADESH
+Sitapur,UTTAR PRADESH
+Hathras,UTTAR PRADESH
+Etah,UTTAR PRADESH
+Hardoi,UTTAR PRADESH
+Farrukhabad,UTTAR PRADESH
+Firozabad,UTTAR PRADESH
+Siddharthnagar,UTTAR PRADESH
+Mainpuri,UTTAR PRADESH
+Mahrajganj,UTTAR PRADESH
+Agra,UTTAR PRADESH
+Gonda,UTTAR PRADESH
+Bara Banki,UTTAR PRADESH
+Kushinagar,UTTAR PRADESH
+Kannauj,UTTAR PRADESH
+Lucknow,UTTAR PRADESH
+Basti,UTTAR PRADESH
+Gorakhpur,UTTAR PRADESH
+Sant Kabir Nagar,UTTAR PRADESH
+Unnao,UTTAR PRADESH
+Etawah,UTTAR PRADESH
+Kanpur Nagar,UTTAR PRADESH
+Auraiya,UTTAR PRADESH
+Faizabad,UTTAR PRADESH
+Kanpur Dehat,UTTAR PRADESH
+Deoria,UTTAR PRADESH
+Sultanpur,UTTAR PRADESH
+Ambedkar Nagar,UTTAR PRADESH
+Rae Bareli,UTTAR PRADESH
+Jalaun,UTTAR PRADESH
+Azamgarh,UTTAR PRADESH
+Mau,UTTAR PRADESH
+Fatehpur,UTTAR PRADESH
+Ballia,UTTAR PRADESH
+Jaunpur,UTTAR PRADESH
+Jhansi,UTTAR PRADESH
+Banda,UTTAR PRADESH
+Ghazipur,UTTAR PRADESH
+Kaushambi,UTTAR PRADESH
+Prayagraj,UTTAR PRADESH
+Varanasi,UTTAR PRADESH
+Chitrakoot,UTTAR PRADESH
+Chandauli,UTTAR PRADESH
+Bhadohi,UTTAR PRADESH
+Mirzapur,UTTAR PRADESH
+Lalitpur,UTTAR PRADESH
+Sonbhadra,UTTAR PRADESH
+Amethi,UTTAR PRADESH
+Ghaziabad,UTTAR PRADESH
+Sambhal,UTTAR PRADESH
+Mahoba,UTTAR PRADESH
+Saharanpur,UTTAR PRADESH
+Bijnor,UTTAR PRADESH
+Muzaffarnagar,UTTAR PRADESH
+Baghpat,UTTAR PRADESH
+Meerut,UTTAR PRADESH
+Moradabad,UTTAR PRADESH
+Rampur,UTTAR PRADESH
+Shamli,UTTAR PRADESH
+Balrampur,UTTAR PRADESH
+Hamirpur,UTTAR PRADESH
+Pratapgarh,UTTAR PRADESH
+Pashchim Champaran,BIHAR
+Purba Champaran,BIHAR
+Sitamarhi,BIHAR
+Sheohar,BIHAR
+Gopalganj,BIHAR
+Samastipur,BIHAR
+Katihar,BIHAR
+Khagaria,BIHAR
+Bhojpur,BIHAR
+Buxar,BIHAR
+Darbhanga,BIHAR
+Saharsa,BIHAR
+Kaimur (bhabua),BIHAR
+Rohtas,BIHAR
+Jamui,BIHAR
+Banka,BIHAR
+Nawada,BIHAR
+Gaya,BIHAR
+Munger,BIHAR
+Vaishali,BIHAR
+Begusarai,BIHAR
+Bhagalpur,BIHAR
+Lakhisarai,BIHAR
+Sheikhpura,BIHAR
+Arwal,BIHAR
+Jehanabad,BIHAR
+Nalanda,BIHAR
+Patna,BIHAR
+Saran,BIHAR
+Siwan,BIHAR
+Muzaffarpur,BIHAR
+Madhepura,BIHAR
+Araria,BIHAR
+Supaul,BIHAR
+Madhubani,BIHAR
+Purnia,BIHAR
+Kishanganj,BIHAR
+Aurangabad,BIHAR
+North District,SIKKIM
+West District,SIKKIM
+South District,SIKKIM
+East District,SIKKIM
+Upper Subansiri,ARUNACHAL PRADESH
+Anjaw,ARUNACHAL PRADESH
+Changlang,ARUNACHAL PRADESH
+Tawang,ARUNACHAL PRADESH
+Papum Pare,ARUNACHAL PRADESH
+Tirap,ARUNACHAL PRADESH
+East Siang,ARUNACHAL PRADESH
+Lohit,ARUNACHAL PRADESH
+Kurung Kumey,ARUNACHAL PRADESH
+Lower Subansiri,ARUNACHAL PRADESH
+East Kameng,ARUNACHAL PRADESH
+West Kameng,ARUNACHAL PRADESH
+Kra Daadi,ARUNACHAL PRADESH
+Namsai,ARUNACHAL PRADESH
+Longding,ARUNACHAL PRADESH
+Upper Siang,ARUNACHAL PRADESH
+Lower Siang,ARUNACHAL PRADESH
+Upper Dibang Valley,ARUNACHAL PRADESH
+Lower Dibang Valley,ARUNACHAL PRADESH
+Siang,ARUNACHAL PRADESH
+Shi Yomi,ARUNACHAL PRADESH
+Pakke Kessang,ARUNACHAL PRADESH
+West Siang,ARUNACHAL PRADESH
+Lepa Rada,ARUNACHAL PRADESH
+Kamle,ARUNACHAL PRADESH
+Mon,NAGALAND
+Longleng,NAGALAND
+Mokokchung,NAGALAND
+Tuensang,NAGALAND
+Kiphire,NAGALAND
+Peren,NAGALAND
+Wokha,NAGALAND
+Zunheboto,NAGALAND
+Phek,NAGALAND
+Kohima,NAGALAND
+Dimapur,NAGALAND
+Kamjong,MANIPUR
+Senapati,MANIPUR
+Tamenglong,MANIPUR
+Imphal West,MANIPUR
+Kakching,MANIPUR
+Bishnupur,MANIPUR
+Chandel,MANIPUR
+Churachandpur,MANIPUR
+Imphal East,MANIPUR
+Jiribam,MANIPUR
+Kangpokpi,MANIPUR
+Thoubal,MANIPUR
+Tengnoupal,MANIPUR
+Ukhrul,MANIPUR
+Noney,MANIPUR
+Pherzawl,MANIPUR
+Kolasib,MIZORAM
+Mamit,MIZORAM
+Serchhip,MIZORAM
+Lunglei,MIZORAM
+Saiha,MIZORAM
+Lawngtlai,MIZORAM
+Hnahthial,MIZORAM
+Saitual,MIZORAM
+Aizawl,MIZORAM
+Champhai,MIZORAM
+Khawzawl,MIZORAM
+North Tripura,TRIPURA
+Dhalai,TRIPURA
+Sipahijala,TRIPURA
+Gomati,TRIPURA
+Khowai,TRIPURA
+West Tripura,TRIPURA
+South Tripura,TRIPURA
+Unokoti,TRIPURA
+Ribhoi,MEGHALAYA
+West Khasi Hills,MEGHALAYA
+East Jaintia Hills,MEGHALAYA
+East Khasi Hills,MEGHALAYA
+South Garo Hills,MEGHALAYA
+West Garo Hills,MEGHALAYA
+East Garo Hills,MEGHALAYA
+West Jaintia Hills,MEGHALAYA
+South West Khasi Hills,MEGHALAYA
+North Garo Hills,MEGHALAYA
+South West Garo Hills,MEGHALAYA
+Tinsukia,ASSAM
+Dhemaji,ASSAM
+Dibrugarh,ASSAM
+Lakhimpur,ASSAM
+Sivasagar,ASSAM
+Jorhat,ASSAM
+Sonitpur,ASSAM
+Golaghat,ASSAM
+Udalguri,ASSAM
+Chirang,ASSAM
+Baksa,ASSAM
+Nagaon,ASSAM
+Kokrajhar,ASSAM
+Darrang,ASSAM
+Barpeta,ASSAM
+Nalbari,ASSAM
+Morigaon,ASSAM
+Kamrup,ASSAM
+Bongaigaon,ASSAM
+Dhubri,ASSAM
+Kamrup Metropolitan,ASSAM
+Goalpara,ASSAM
+Dima Hasao,ASSAM
+Cachar,ASSAM
+Karimganj,ASSAM
+Hailakandi,ASSAM
+Charaideo,ASSAM
+Majuli,ASSAM
+Biswanath,ASSAM
+Hojai,ASSAM
+South Salmara Mancachar,ASSAM
+Karbi Anglong,ASSAM
+West Karbi Anglong,ASSAM
+South Twenty Four Parganas,WEST BENGAL
+Darjiling,WEST BENGAL
+Jalpaiguri,WEST BENGAL
+Dakshin Dinajpur,WEST BENGAL
+Maldah,WEST BENGAL
+Murshidabad,WEST BENGAL
+Birbhum,WEST BENGAL
+Nadia,WEST BENGAL
+Purba Bardhaman,WEST BENGAL
+Puruliya,WEST BENGAL
+Bankura,WEST BENGAL
+North Twenty Four Parganas,WEST BENGAL
+Hooghly,WEST BENGAL
+Medinipur West,WEST BENGAL
+Howrah,WEST BENGAL
+Kolkata,WEST BENGAL
+Purba Medinipur,WEST BENGAL
+Alipurduar,WEST BENGAL
+Paschim Bardhaman,WEST BENGAL
+Kalimpong,WEST BENGAL
+Jhargram,WEST BENGAL
+Cooch Behar,WEST BENGAL
+Uttar Dinajpur,WEST BENGAL
+Sahibganj,JHARKHAND
+Godda,JHARKHAND
+Pakur,JHARKHAND
+Giridih,JHARKHAND
+Dumka,JHARKHAND
+Deoghar,JHARKHAND
+Palamu,JHARKHAND
+Chatra,JHARKHAND
+Garhwa,JHARKHAND
+Jamtara,JHARKHAND
+Dhanbad,JHARKHAND
+Latehar,JHARKHAND
+Bokaro,JHARKHAND
+Ramgarh,JHARKHAND
+Ranchi,JHARKHAND
+Lohardaga,JHARKHAND
+Gumla,JHARKHAND
+Khunti,JHARKHAND
+Saraikela-kharsawan,JHARKHAND
+Purbi Singhbhum,JHARKHAND
+Pashchimi Singhbhum,JHARKHAND
+Simdega,JHARKHAND
+Kodarma,JHARKHAND
+Hazaribagh,JHARKHAND
+Bhadrak,ODISHA
+Dhenkanal,ODISHA
+Jajapur,ODISHA
+Subarnapur,ODISHA
+Nuapada,ODISHA
+Balangir,ODISHA
+Baudh,ODISHA
+Cuttack,ODISHA
+Kandhamal,ODISHA
+Nayagarh,ODISHA
+Khordha,ODISHA
+Kalahandi,ODISHA
+Jagatsinghapur,ODISHA
+Puri,ODISHA
+Nabarangapur,ODISHA
+Rayagada,ODISHA
+Koraput,ODISHA
+Malkangiri,ODISHA
+Anugul,ODISHA
+Kendrapara,ODISHA
+Ganjam,ODISHA
+Gajapati,ODISHA
+Mayurbhanj,ODISHA
+Sundargarh,ODISHA
+Kendujhar,ODISHA
+Baleshwar,ODISHA
+Jharsuguda,ODISHA
+Bargarh,ODISHA
+Debagarh,ODISHA
+Sambalpur,ODISHA
+Mahasamund,CHHATTISGARH
+Uttar Bastar Kanker,CHHATTISGARH
+Narayanpur,CHHATTISGARH
+Dakshin Bastar Dantewada,CHHATTISGARH
+Bastar,CHHATTISGARH
+Kondagaon,CHHATTISGARH
+Gariaband,CHHATTISGARH
+Raipur,CHHATTISGARH
+Durg,CHHATTISGARH
+Dhamtari,CHHATTISGARH
+Balod,CHHATTISGARH
+Koriya,CHHATTISGARH
+Jashpur,CHHATTISGARH
+Korba,CHHATTISGARH
+Kabeerdham,CHHATTISGARH
+Janjgir - Champa,CHHATTISGARH
+Bametara,CHHATTISGARH
+Rajnandgaon,CHHATTISGARH
+Surajpur,CHHATTISGARH
+Baloda Bazar,CHHATTISGARH
+Mungeli,CHHATTISGARH
+Surguja,CHHATTISGARH
+Balrampur,CHHATTISGARH
+Bijapur,CHHATTISGARH
+Raigarh,CHHATTISGARH
+Bilaspur,CHHATTISGARH
+Sukma,CHHATTISGARH
+Burhanpur,MADHYA PRADESH
+Morena,MADHYA PRADESH
+Bhind,MADHYA PRADESH
+Gwalior,MADHYA PRADESH
+Sheopur,MADHYA PRADESH
+Shivpuri,MADHYA PRADESH
+Tikamgarh,MADHYA PRADESH
+Neemuch,MADHYA PRADESH
+Rewa,MADHYA PRADESH
+Satna,MADHYA PRADESH
+Guna,MADHYA PRADESH
+Ashoknagar,MADHYA PRADESH
+Mandsaur,MADHYA PRADESH
+Singrauli,MADHYA PRADESH
+Sidhi,MADHYA PRADESH
+Sagar,MADHYA PRADESH
+Damoh,MADHYA PRADESH
+Shajapur,MADHYA PRADESH
+Vidisha,MADHYA PRADESH
+Rajgarh,MADHYA PRADESH
+Shahdol,MADHYA PRADESH
+Katni,MADHYA PRADESH
+Umaria,MADHYA PRADESH
+Ratlam,MADHYA PRADESH
+Bhopal,MADHYA PRADESH
+Ujjain,MADHYA PRADESH
+Raisen,MADHYA PRADESH
+Sehore,MADHYA PRADESH
+Jabalpur,MADHYA PRADESH
+Dewas,MADHYA PRADESH
+Anuppur,MADHYA PRADESH
+Jhabua,MADHYA PRADESH
+Dindori,MADHYA PRADESH
+Narsimhapur,MADHYA PRADESH
+Dhar,MADHYA PRADESH
+Indore,MADHYA PRADESH
+Mandla,MADHYA PRADESH
+Hoshangabad,MADHYA PRADESH
+Seoni,MADHYA PRADESH
+Alirajpur,MADHYA PRADESH
+Chhindwara,MADHYA PRADESH
+Harda,MADHYA PRADESH
+West Nimar,MADHYA PRADESH
+East Nimar,MADHYA PRADESH
+Balaghat,MADHYA PRADESH
+Barwani,MADHYA PRADESH
+Agar Malwa,MADHYA PRADESH
+Datia,MADHYA PRADESH
+Chhatarpur,MADHYA PRADESH
+Panna,MADHYA PRADESH
+Betul,MADHYA PRADESH
+Niwari,MADHYA PRADESH
+Valsad,GUJARAT
+Amreli,GUJARAT
+The Dangs,GUJARAT
+Banas Kantha,GUJARAT
+Patan,GUJARAT
+Mahesana,GUJARAT
+Gandhinagar,GUJARAT
+Ahmadabad,GUJARAT
+Panch Mahals,GUJARAT
+Dohad,GUJARAT
+Vadodara,GUJARAT
+Bharuch,GUJARAT
+Porbandar,GUJARAT
+Narmada,GUJARAT
+Surat,GUJARAT
+Tapi,GUJARAT
+Aravalli,GUJARAT
+Botad,GUJARAT
+Chota Udaipur,GUJARAT
+Mahisagar,GUJARAT
+Gir Somnath,GUJARAT
+Sabar Kantha,GUJARAT
+Kachchh,GUJARAT
+Surendranagar,GUJARAT
+Rajkot,GUJARAT
+Kheda,GUJARAT
+Anand,GUJARAT
+Bhavnagar,GUJARAT
+Junagadh,GUJARAT
+Jamnagar,GUJARAT
+Devbhumi Dwarka,GUJARAT
+Morbi,GUJARAT
+Navsari,GUJARAT
+Daman,DAMAN & DIU
+Diu,DAMAN & DIU
+Dadra & Nagar Haveli,DADRA & NAGAR HAVELI
+Gondiya,MAHARASHTRA
+Bhandara,MAHARASHTRA
+Jalgaon,MAHARASHTRA
+Wardha,MAHARASHTRA
+Buldana,MAHARASHTRA
+Akola,MAHARASHTRA
+Nashik,MAHARASHTRA
+Gadchiroli,MAHARASHTRA
+Washim,MAHARASHTRA
+Chandrapur,MAHARASHTRA
+Yavatmal,MAHARASHTRA
+Jalna,MAHARASHTRA
+Ahmadnagar,MAHARASHTRA
+Hingoli,MAHARASHTRA
+Nanded,MAHARASHTRA
+Parbhani,MAHARASHTRA
+Pune,MAHARASHTRA
+Bid,MAHARASHTRA
+Mumbai,MAHARASHTRA
+Latur,MAHARASHTRA
+Osmanabad,MAHARASHTRA
+Solapur,MAHARASHTRA
+Satara,MAHARASHTRA
+Ratnagiri,MAHARASHTRA
+Sangli,MAHARASHTRA
+Kolhapur,MAHARASHTRA
+Sindhudurg,MAHARASHTRA
+Thane,MAHARASHTRA
+Palghar,MAHARASHTRA
+Nandurbar,MAHARASHTRA
+Amravati,MAHARASHTRA
+Dhule,MAHARASHTRA
+Nagpur,MAHARASHTRA
+Aurangabad,MAHARASHTRA
+Raigarh,MAHARASHTRA
+Mumbai Suburban,MAHARASHTRA
+Srikakulam,ANDHRA PRADESH
+Vizianagaram,ANDHRA PRADESH
+Visakhapatnam,ANDHRA PRADESH
+Krishna,ANDHRA PRADESH
+Guntur,ANDHRA PRADESH
+East Godavari,ANDHRA PRADESH
+Prakasam,ANDHRA PRADESH
+Kurnool,ANDHRA PRADESH
+Anantapur,ANDHRA PRADESH
+Sri Potti Sriramulu Nellore,ANDHRA PRADESH
+West Godavari,ANDHRA PRADESH
+Y.S.R.,ANDHRA PRADESH
+Chittoor,ANDHRA PRADESH
+Bidar,KARNATAKA
+Kalaburagi,KARNATAKA
+Belagavi,KARNATAKA
+Yadgir,KARNATAKA
+Bagalkote,KARNATAKA
+Raichur,KARNATAKA
+Koppal,KARNATAKA
+Gadag,KARNATAKA
+Ballari,KARNATAKA
+Dharwad,KARNATAKA
+Uttara Kannada,KARNATAKA
+Haveri,KARNATAKA
+Chitradurga,KARNATAKA
+Davanagere,KARNATAKA
+Shivamogga,KARNATAKA
+Udupi,KARNATAKA
+Chikkamagaluru,KARNATAKA
+Chikkaballapura,KARNATAKA
+Hassan,KARNATAKA
+Kolar,KARNATAKA
+Bengaluru Rural,KARNATAKA
+Dakshina Kannada,KARNATAKA
+Bangalore,KARNATAKA
+Kodagu,KARNATAKA
+Chamarajanagara,KARNATAKA
+Tumakuru,KARNATAKA
+Ramanagara,KARNATAKA
+Mandya,KARNATAKA
+Mysuru,KARNATAKA
+Vijayapura,KARNATAKA
+North Goa,GOA
+South Goa,GOA
+Lakshadweep,LAKSHADWEEP
+Kasaragod,KERALA
+Wayanad,KERALA
+Kozhikode,KERALA
+Malappuram,KERALA
+Palakkad,KERALA
+Thrissur,KERALA
+Idukki,KERALA
+Ernakulam,KERALA
+Alappuzha,KERALA
+Kottayam,KERALA
+Pathanamthitta,KERALA
+Kollam,KERALA
+Thiruvananthapuram,KERALA
+Kannur,KERALA
+Thiruvallur,TAMIL NADU
+Chennai,TAMIL NADU
+Krishnagiri,TAMIL NADU
+Tiruvannamalai,TAMIL NADU
+Dharmapuri,TAMIL NADU
+Salem,TAMIL NADU
+Erode,TAMIL NADU
+The Nilgiris,TAMIL NADU
+Namakkal,TAMIL NADU
+Perambalur,TAMIL NADU
+Coimbatore,TAMIL NADU
+Tiruchirappalli,TAMIL NADU
+Ariyalur,TAMIL NADU
+Tiruppur,TAMIL NADU
+Thanjavur,TAMIL NADU
+Karur,TAMIL NADU
+Thiruvarur,TAMIL NADU
+Dindigul,TAMIL NADU
+Madurai,TAMIL NADU
+Theni,TAMIL NADU
+Virudhunagar,TAMIL NADU
+Thoothukkudi,TAMIL NADU
+Kanniyakumari,TAMIL NADU
+Viluppuram,TAMIL NADU
+Cuddalore,TAMIL NADU
+Pudukkottai,TAMIL NADU
+Sivaganga,TAMIL NADU
+Ramanathapuram,TAMIL NADU
+Nagapattinam,TAMIL NADU
+Kallakurichi,TAMIL NADU
+Tenkasi,TAMIL NADU
+Tirunelveli,TAMIL NADU
+Vellore,TAMIL NADU
+Ranipet,TAMIL NADU
+Tirupathur,TAMIL NADU
+Kancheepuram,TAMIL NADU
+Chengalpattu,TAMIL NADU
+Puducherry,PUDUCHERRY
+Karaikal,PUDUCHERRY
+Mahe,PUDUCHERRY
+Yanam,PUDUCHERRY
+North & Middle Andaman,ANDAMAN & NICOBAR ISLANDS
+South Andaman,ANDAMAN & NICOBAR ISLANDS
+Nicobars,ANDAMAN & NICOBAR ISLANDS
+Adilabad,TELANGANA
+Hyderabad,TELANGANA
+Jagitial,TELANGANA
+Jangoan,TELANGANA
+Mulugu,TELANGANA
+Jogulamba Gadwal,TELANGANA
+Kamareddy,TELANGANA
+Karimnagar,TELANGANA
+Khammam,TELANGANA
+Kumuram Bheem Asifabad,TELANGANA
+Mahabubabad,TELANGANA
+Mahabubnagar,TELANGANA
+Mancherial,TELANGANA
+Medak,TELANGANA
+Medchal Malkajgiri,TELANGANA
+Nagarkurnool,TELANGANA
+Nalgonda,TELANGANA
+Nirmal,TELANGANA
+Nizamabad,TELANGANA
+Peddapalli,TELANGANA
+Rajanna Sircilla,TELANGANA
+Ranga Reddy,TELANGANA
+Sangareddy,TELANGANA
+Siddipet,TELANGANA
+Suryapet,TELANGANA
+Vikarabad,TELANGANA
+Wanaparthy,TELANGANA
+Warangal Rural,TELANGANA
+Warangal Urban,TELANGANA
+Yadadri Bhuvanagiri,TELANGANA
+Bhadradri Kothagudem,TELANGANA
+Jayashankar,TELANGANA
+Narayanpet,TELANGANA
+Leh,LADAKH
+Kargil,LADAKH

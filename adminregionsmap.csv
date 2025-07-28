@@ -1,0 +1,737 @@
+OLD.STATE,OLD.COUNTY,OLD.STATE.CODE,OLD.COUNTY.CODE,NEW.STATE,NEW.COUNTY,NEW.STATE.CODE,NEW.COUNTY.CODE
+Jammu & Kashmir,Kupwara,IN-JK,IN-JK-KU,Jammu & Kashmir,Kupwara,IN-JK,IN-JK-KU
+Jammu & Kashmir,Bandipore,IN-JK,IN-JK-BN,Jammu & Kashmir,Bandipore,IN-JK,IN-JK-BN
+Jammu & Kashmir,Baramula,IN-JK,IN-JK-BR,Jammu & Kashmir,Baramula,IN-JK,IN-JK-BR
+Jammu & Kashmir,Ganderbal,IN-JK,IN-JK-GN,Jammu & Kashmir,Ganderbal,IN-JK,IN-JK-GN
+Jammu & Kashmir,Anantnag,IN-JK,IN-JK-AN,Jammu & Kashmir,Anantnag,IN-JK,IN-JK-AN
+Jammu & Kashmir,Kishtwar,IN-JK,IN-JK-KS,Jammu & Kashmir,Kishtwar,IN-JK,IN-JK-KS
+Jammu & Kashmir,Srinagar,IN-JK,IN-JK-SR,Jammu & Kashmir,Srinagar,IN-JK,IN-JK-SR
+Jammu & Kashmir,Badgam,IN-JK,IN-JK-BD,Jammu & Kashmir,Badgam,IN-JK,IN-JK-BD
+Jammu & Kashmir,Pulwama,IN-JK,IN-JK-PU,Jammu & Kashmir,Pulwama,IN-JK,IN-JK-PU
+Jammu & Kashmir,Punch,IN-JK,IN-JK-PO,Jammu & Kashmir,Punch,IN-JK,IN-JK-PO
+Jammu & Kashmir,Shupiyan,IN-JK,IN-JK-SH,Jammu & Kashmir,Shupiyan,IN-JK,IN-JK-SH
+Jammu & Kashmir,Kulgam,IN-JK,IN-JK-KL,Jammu & Kashmir,Kulgam,IN-JK,IN-JK-KL
+Jammu & Kashmir,Rajouri,IN-JK,IN-JK-RA,Jammu & Kashmir,Rajouri,IN-JK,IN-JK-RA
+Jammu & Kashmir,Ramban,IN-JK,IN-JK-RM,Jammu & Kashmir,Ramban,IN-JK,IN-JK-RM
+Jammu & Kashmir,Reasi,IN-JK,IN-JK-RE,Jammu & Kashmir,Reasi,IN-JK,IN-JK-RE
+Jammu & Kashmir,Doda,IN-JK,IN-JK-DO,Jammu & Kashmir,Doda,IN-JK,IN-JK-DO
+Jammu & Kashmir,Jammu,IN-JK,IN-JK-JA,Jammu & Kashmir,Jammu,IN-JK,IN-JK-JA
+Jammu & Kashmir,Kathua,IN-JK,IN-JK-KT,Jammu & Kashmir,Kathua,IN-JK,IN-JK-KT
+Jammu & Kashmir,Udhampur,IN-JK,IN-JK-UD,Jammu & Kashmir,Udhampur,IN-JK,IN-JK-UD
+Jammu & Kashmir,Samba,IN-JK,IN-JK-SA,Jammu & Kashmir,Samba,IN-JK,IN-JK-SA
+NA,NA,NA,NA,Jammu & Kashmir,Muzaffarabad,IN-JK,NA
+NA,NA,NA,NA,Jammu & Kashmir,Mirpur,IN-JK,NA
+Himachal Pradesh,Lahul and Spiti,IN-HP,IN-HP-LS,Himachal Pradesh,Lahul & Spiti,IN-HP,IN-HP-LS
+Himachal Pradesh,Chamba,IN-HP,IN-HP-CH,Himachal Pradesh,Chamba,IN-HP,IN-HP-CH
+Himachal Pradesh,Kangra,IN-HP,IN-HP-KA,Himachal Pradesh,Kangra,IN-HP,IN-HP-KA
+Himachal Pradesh,Kullu,IN-HP,IN-HP-KU,Himachal Pradesh,Kullu,IN-HP,IN-HP-KU
+Himachal Pradesh,Mandi,IN-HP,IN-HP-MA,Himachal Pradesh,Mandi,IN-HP,IN-HP-MA
+Himachal Pradesh,Kinnaur,IN-HP,IN-HP-KI,Himachal Pradesh,Kinnaur,IN-HP,IN-HP-KI
+Himachal Pradesh,Una,IN-HP,IN-HP-UN,Himachal Pradesh,Una,IN-HP,IN-HP-UN
+Himachal Pradesh,Shimla,IN-HP,IN-HP-SH,Himachal Pradesh,Shimla,IN-HP,IN-HP-SH
+Himachal Pradesh,Solan,IN-HP,IN-HP-SO,Himachal Pradesh,Solan,IN-HP,IN-HP-SO
+Himachal Pradesh,Sirmaur,IN-HP,IN-HP-SI,Himachal Pradesh,Sirmaur,IN-HP,IN-HP-SI
+Himachal Pradesh,Hamirpur,IN-HP,IN-HP-HA,Himachal Pradesh,Hamirpur,IN-HP,IN-HP-HA
+Himachal Pradesh,Bilaspur,IN-HP,IN-HP-BI,Himachal Pradesh,Bilaspur,IN-HP,IN-HP-BI
+Punjab,Gurdaspur,IN-PB,IN-PB-GU,Punjab,Gurdaspur,IN-PB,IN-PB-GU
+Punjab,Hoshiarpur,IN-PB,IN-PB-HO,Punjab,Hoshiarpur,IN-PB,IN-PB-HO
+Punjab,Amritsar,IN-PB,IN-PB-AM,Punjab,Amritsar,IN-PB,IN-PB-AM
+Punjab,Jalandhar,IN-PB,IN-PB-JA,Punjab,Jalandhar,IN-PB,IN-PB-JA
+Punjab,Tarn Taran,IN-PB,IN-PB-TA,Punjab,Tarn Taran,IN-PB,IN-PB-TA
+Punjab,Rupnagar,IN-PB,IN-PB-RU,Punjab,Rupnagar,IN-PB,IN-PB-RU
+Punjab,Shahid Bhagat Singh Nagar,IN-PB,IN-PB-NS,Punjab,Shahid Bhagat Singh Nagar,IN-PB,IN-PB-NS
+NA,NA,NA,NA,Punjab,Fazilka,IN-PB,NA
+Punjab,Moga,IN-PB,IN-PB-MO,Punjab,Moga,IN-PB,IN-PB-MO
+Punjab,Ludhiana,IN-PB,IN-PB-LU,Punjab,Ludhiana,IN-PB,IN-PB-LU
+Punjab,Sahibzada Ajit Singh Nagar,IN-PB,IN-PB-SH,Punjab,Sahibzada Ajit Singh Nagar,IN-PB,IN-PB-SH
+Punjab,Faridkot,IN-PB,IN-PB-FR,Punjab,Faridkot,IN-PB,IN-PB-FR
+Punjab,Fatehgarh Sahib,IN-PB,IN-PB-FT,Punjab,Fatehgarh Sahib,IN-PB,IN-PB-FT
+NA,NA,NA,NA,Punjab,Sri Muktsar Sahib,IN-PB,NA
+Punjab,Sangrur,IN-PB,IN-PB-SA,Punjab,Sangrur,IN-PB,IN-PB-SA
+Punjab,Barnala,IN-PB,IN-PB-BR,Punjab,Barnala,IN-PB,IN-PB-BR
+Punjab,Bathinda,IN-PB,IN-PB-BA,Punjab,Bathinda,IN-PB,IN-PB-BA
+Punjab,Patiala,IN-PB,IN-PB-PA,Punjab,Patiala,IN-PB,IN-PB-PA
+Punjab,Mansa,IN-PB,IN-PB-MA,Punjab,Mansa,IN-PB,IN-PB-MA
+Punjab,Firozpur,IN-PB,IN-PB-FI,Punjab,Firozpur,IN-PB,IN-PB-FI
+NA,NA,NA,NA,Punjab,Pathankot,IN-PB,NA
+Punjab,Kapurthala,IN-PB,IN-PB-KA,Punjab,Kapurthala,IN-PB,IN-PB-KA
+Chandigarh,Chandigarh,IN-CH,IN-CH-CH,Chandigarh,Chandigarh,IN-CH,IN-CH-CH
+Uttarakhand,Uttarkashi,IN-UL,IN-UL-UT,Uttarakhand,Uttarkashi,IN-UL,IN-UL-UT
+Uttarakhand,Chamoli,IN-UL,IN-UL-CL,Uttarakhand,Chamoli,IN-UL,IN-UL-CL
+Uttarakhand,Dehradun,IN-UL,IN-UL-DD,Uttarakhand,Dehradun,IN-UL,IN-UL-DD
+Uttarakhand,Tehri Garhwal,IN-UL,IN-UL-TG,Uttarakhand,Tehri Garhwal,IN-UL,IN-UL-TG
+Uttarakhand,Rudraprayag,IN-UL,IN-UL-RP,Uttarakhand,Rudraprayag,IN-UL,IN-UL-RP
+Uttarakhand,Pithoragarh,IN-UL,IN-UL-PI,Uttarakhand,Pithoragarh,IN-UL,IN-UL-PI
+Uttarakhand,Bageshwar,IN-UL,IN-UL-BA,Uttarakhand,Bageshwar,IN-UL,IN-UL-BA
+Uttarakhand,Hardwar,IN-UL,IN-UL-HA,Uttarakhand,Hardwar,IN-UL,IN-UL-HA
+Uttarakhand,Garhwal,IN-UL,IN-UL-PG,Uttarakhand,Garhwal,IN-UL,IN-UL-PG
+Uttarakhand,Almora,IN-UL,IN-UL-AL,Uttarakhand,Almora,IN-UL,IN-UL-AL
+Uttarakhand,Nainital,IN-UL,IN-UL-NA,Uttarakhand,Nainital,IN-UL,IN-UL-NA
+Uttarakhand,Champawat,IN-UL,IN-UL-CP,Uttarakhand,Champawat,IN-UL,IN-UL-CP
+Uttarakhand,Udham Singh Nagar,IN-UL,IN-UL-US,Uttarakhand,Udham Singh Nagar,IN-UL,IN-UL-US
+Haryana,Jhajjar,IN-HR,IN-HR-JH,Haryana,Jhajjar,IN-HR,IN-HR-JH
+Haryana,Gurgaon,IN-HR,IN-HR-GU,Haryana,Gurugram,IN-HR,IN-HR-GU
+Haryana,Faridabad,IN-HR,IN-HR-FR,Haryana,Faridabad,IN-HR,IN-HR-FR
+Haryana,Mahendragarh,IN-HR,IN-HR-MA,Haryana,Mahendragarh,IN-HR,IN-HR-MA
+Haryana,Rewari,IN-HR,IN-HR-RE,Haryana,Rewari,IN-HR,IN-HR-RE
+Haryana,Mewat,IN-HR,IN-HR-ME,Haryana,Nuh,IN-HR,IN-HR-ME
+Haryana,Palwal,IN-HR,IN-HR-PL,Haryana,Palwal,IN-HR,IN-HR-PL
+NA,NA,NA,NA,Haryana,Charki Dadri,IN-HR,NA
+Haryana,Yamunanagar,IN-HR,IN-HR-YN,Haryana,Yamunanagar,IN-HR,IN-HR-YN
+Haryana,Kurukshetra,IN-HR,IN-HR-KU,Haryana,Kurukshetra,IN-HR,IN-HR-KU
+Haryana,Kaithal,IN-HR,IN-HR-KT,Haryana,Kaithal,IN-HR,IN-HR-KT
+Haryana,Sirsa,IN-HR,IN-HR-SI,Haryana,Sirsa,IN-HR,IN-HR-SI
+Haryana,Karnal,IN-HR,IN-HR-KR,Haryana,Karnal,IN-HR,IN-HR-KR
+Haryana,Jind,IN-HR,IN-HR-JI,Haryana,Jind,IN-HR,IN-HR-JI
+Haryana,Fatehabad,IN-HR,IN-HR-FT,Haryana,Fatehabad,IN-HR,IN-HR-FT
+Haryana,Hisar,IN-HR,IN-HR-HI,Haryana,Hisar,IN-HR,IN-HR-HI
+Haryana,Panipat,IN-HR,IN-HR-PP,Haryana,Panipat,IN-HR,IN-HR-PP
+Haryana,Sonipat,IN-HR,IN-HR-SO,Haryana,Sonipat,IN-HR,IN-HR-SO
+Haryana,Bhiwani,IN-HR,IN-HR-BH,Haryana,Bhiwani,IN-HR,IN-HR-BH
+Haryana,Rohtak,IN-HR,IN-HR-RO,Haryana,Rohtak,IN-HR,IN-HR-RO
+Haryana,Panchkula,IN-HR,IN-HR-PK,Haryana,Panchkula,IN-HR,IN-HR-PK
+Haryana,Ambala,IN-HR,IN-HR-AM,Haryana,Ambala,IN-HR,IN-HR-AM
+Delhi,North Delhi,IN-DL,IN-DL-NO,Delhi,North,IN-DL,IN-DL-NO
+Delhi,North East Delhi,IN-DL,IN-DL-NE,Delhi,North East,IN-DL,IN-DL-NE
+Delhi,West Delhi,IN-DL,IN-DL-WE,Delhi,West,IN-DL,IN-DL-WE
+Delhi,East Delhi,IN-DL,IN-DL-EA,Delhi,East,IN-DL,IN-DL-EA
+Delhi,South West Delhi,IN-DL,IN-DL-SW,Delhi,South West,IN-DL,IN-DL-SW
+Delhi,Central Delhi,IN-DL,IN-DL-CE,Delhi,Central,IN-DL,IN-DL-CE
+Delhi,New Delhi,IN-DL,IN-DL-ND,Delhi,New Delhi,IN-DL,IN-DL-ND
+Delhi,South Delhi,IN-DL,IN-DL-SO,Delhi,South,IN-DL,IN-DL-SO
+NA,NA,NA,NA,Delhi,Shahdara,IN-DL,NA
+NA,NA,NA,NA,Delhi,South East,IN-DL,NA
+Delhi,North West Delhi,IN-DL,IN-DL-NW,Delhi,North West,IN-DL,IN-DL-NW
+Rajasthan,Churu,IN-RJ,IN-RJ-CR,Rajasthan,Churu,IN-RJ,IN-RJ-CR
+Rajasthan,Jhunjhunun,IN-RJ,IN-RJ-JJ,Rajasthan,Jhunjhunun,IN-RJ,IN-RJ-JJ
+Rajasthan,Jaisalmer,IN-RJ,IN-RJ-JS,Rajasthan,Jaisalmer,IN-RJ,IN-RJ-JS
+Rajasthan,Sikar,IN-RJ,IN-RJ-SK,Rajasthan,Sikar,IN-RJ,IN-RJ-SK
+Rajasthan,Alwar,IN-RJ,IN-RJ-AL,Rajasthan,Alwar,IN-RJ,IN-RJ-AL
+Rajasthan,Jaipur,IN-RJ,IN-RJ-JP,Rajasthan,Jaipur,IN-RJ,IN-RJ-JP
+Rajasthan,Jodhpur,IN-RJ,IN-RJ-JO,Rajasthan,Jodhpur,IN-RJ,IN-RJ-JO
+Rajasthan,Bharatpur,IN-RJ,IN-RJ-BP,Rajasthan,Bharatpur,IN-RJ,IN-RJ-BP
+Rajasthan,Nagaur,IN-RJ,IN-RJ-NA,Rajasthan,Nagaur,IN-RJ,IN-RJ-NA
+Rajasthan,Dausa,IN-RJ,IN-RJ-DA,Rajasthan,Dausa,IN-RJ,IN-RJ-DA
+Rajasthan,Karauli,IN-RJ,IN-RJ-KA,Rajasthan,Karauli,IN-RJ,IN-RJ-KA
+Rajasthan,Dhaulpur,IN-RJ,IN-RJ-DH,Rajasthan,Dhaulpur,IN-RJ,IN-RJ-DH
+Rajasthan,Barmer,IN-RJ,IN-RJ-BM,Rajasthan,Barmer,IN-RJ,IN-RJ-BM
+Rajasthan,Sawai Madhopur,IN-RJ,IN-RJ-SM,Rajasthan,Sawai Madhopur,IN-RJ,IN-RJ-SM
+Rajasthan,Tonk,IN-RJ,IN-RJ-TO,Rajasthan,Tonk,IN-RJ,IN-RJ-TO
+Rajasthan,Pali,IN-RJ,IN-RJ-PA,Rajasthan,Pali,IN-RJ,IN-RJ-PA
+Rajasthan,Bhilwara,IN-RJ,IN-RJ-BW,Rajasthan,Bhilwara,IN-RJ,IN-RJ-BW
+Rajasthan,Jalor,IN-RJ,IN-RJ-JL,Rajasthan,Jalor,IN-RJ,IN-RJ-JL
+Rajasthan,Bundi,IN-RJ,IN-RJ-BU,Rajasthan,Bundi,IN-RJ,IN-RJ-BU
+Rajasthan,Kota,IN-RJ,IN-RJ-KO,Rajasthan,Kota,IN-RJ,IN-RJ-KO
+Rajasthan,Sirohi,IN-RJ,IN-RJ-SR,Rajasthan,Sirohi,IN-RJ,IN-RJ-SR
+Rajasthan,Baran,IN-RJ,IN-RJ-BR,Rajasthan,Baran,IN-RJ,IN-RJ-BR
+Rajasthan,Udaipur,IN-RJ,IN-RJ-UD,Rajasthan,Udaipur,IN-RJ,IN-RJ-UD
+Rajasthan,Jhalawar,IN-RJ,IN-RJ-JW,Rajasthan,Jhalawar,IN-RJ,IN-RJ-JW
+Rajasthan,Dungarpur,IN-RJ,IN-RJ-DU,Rajasthan,Dungarpur,IN-RJ,IN-RJ-DU
+Rajasthan,Banswara,IN-RJ,IN-RJ-BN,Rajasthan,Banswara,IN-RJ,IN-RJ-BN
+Rajasthan,Ajmer,IN-RJ,IN-RJ-AJ,Rajasthan,Ajmer,IN-RJ,IN-RJ-AJ
+Rajasthan,Rajsamand,IN-RJ,IN-RJ-RA,Rajasthan,Rajsamand,IN-RJ,IN-RJ-RA
+Rajasthan,Chittaurgarh,IN-RJ,IN-RJ-CT,Rajasthan,Chittaurgarh,IN-RJ,IN-RJ-CT
+Rajasthan,Ganganagar,IN-RJ,IN-RJ-GA,Rajasthan,Ganganagar,IN-RJ,IN-RJ-GA
+Rajasthan,Hanumangarh,IN-RJ,IN-RJ-HA,Rajasthan,Hanumangarh,IN-RJ,IN-RJ-HA
+Rajasthan,Bikaner,IN-RJ,IN-RJ-BI,Rajasthan,Bikaner,IN-RJ,IN-RJ-BI
+Rajasthan,Pratapgarh,IN-RJ,IN-RJ-PR,Rajasthan,Pratapgarh,IN-RJ,IN-RJ-PR
+Uttar Pradesh,Jyotiba Phule Nagar,IN-UP,IN-UP-JP,Uttar Pradesh,Amroha,IN-UP,IN-UP-JP
+NA,NA,NA,NA,Uttar Pradesh,Hapur,IN-UP,NA
+Uttar Pradesh,Bareilly,IN-UP,IN-UP-BR,Uttar Pradesh,Bareilly,IN-UP,IN-UP-BR
+Uttar Pradesh,Pilibhit,IN-UP,IN-UP-PI,Uttar Pradesh,Pilibhit,IN-UP,IN-UP-PI
+Uttar Pradesh,Bulandshahr,IN-UP,IN-UP-BU,Uttar Pradesh,Bulandshahr,IN-UP,IN-UP-BU
+Uttar Pradesh,Gautam Buddha Nagar,IN-UP,IN-UP-GB,Uttar Pradesh,Gautam Buddha Nagar,IN-UP,IN-UP-GB
+Uttar Pradesh,Kheri,IN-UP,IN-UP-LK,Uttar Pradesh,Kheri,IN-UP,IN-UP-LK
+Uttar Pradesh,Budaun,IN-UP,IN-UP-BD,Uttar Pradesh,Budaun,IN-UP,IN-UP-BD
+Uttar Pradesh,Bahraich,IN-UP,IN-UP-BH,Uttar Pradesh,Bahraich,IN-UP,IN-UP-BH
+Uttar Pradesh,Shahjahanpur,IN-UP,IN-UP-SJ,Uttar Pradesh,Shahjahanpur,IN-UP,IN-UP-SJ
+Uttar Pradesh,Aligarh,IN-UP,IN-UP-AL,Uttar Pradesh,Aligarh,IN-UP,IN-UP-AL
+Uttar Pradesh,Kansiram Nagar,IN-UP,IN-UP-KM,Uttar Pradesh,Kasganj,IN-UP,IN-UP-KM
+Uttar Pradesh,Mathura,IN-UP,IN-UP-MT,Uttar Pradesh,Mathura,IN-UP,IN-UP-MT
+Uttar Pradesh,Shrawasti,IN-UP,IN-UP-SV,Uttar Pradesh,Shrawasti,IN-UP,IN-UP-SV
+Uttar Pradesh,Sitapur,IN-UP,IN-UP-SI,Uttar Pradesh,Sitapur,IN-UP,IN-UP-SI
+Uttar Pradesh,Mahamaya Nagar,IN-UP,IN-UP-HT,Uttar Pradesh,Hathras,IN-UP,IN-UP-HT
+Uttar Pradesh,Etah,IN-UP,IN-UP-ET,Uttar Pradesh,Etah,IN-UP,IN-UP-ET
+Uttar Pradesh,Hardoi,IN-UP,IN-UP-HR,Uttar Pradesh,Hardoi,IN-UP,IN-UP-HR
+Uttar Pradesh,Farrukhabad,IN-UP,IN-UP-FR,Uttar Pradesh,Farrukhabad,IN-UP,IN-UP-FR
+Uttar Pradesh,Firozabad,IN-UP,IN-UP-FI,Uttar Pradesh,Firozabad,IN-UP,IN-UP-FI
+Uttar Pradesh,Siddharth Nagar,IN-UP,IN-UP-SN,Uttar Pradesh,Siddharthnagar,IN-UP,IN-UP-SN
+Uttar Pradesh,Mainpuri,IN-UP,IN-UP-MP,Uttar Pradesh,Mainpuri,IN-UP,IN-UP-MP
+Uttar Pradesh,Maharajganj,IN-UP,IN-UP-MG,Uttar Pradesh,Mahrajganj,IN-UP,IN-UP-MG
+Uttar Pradesh,Agra,IN-UP,IN-UP-AG,Uttar Pradesh,Agra,IN-UP,IN-UP-AG
+Uttar Pradesh,Gonda,IN-UP,IN-UP-GN,Uttar Pradesh,Gonda,IN-UP,IN-UP-GN
+Uttar Pradesh,Bara Banki,IN-UP,IN-UP-BB,Uttar Pradesh,Bara Banki,IN-UP,IN-UP-BB
+Uttar Pradesh,Kushinagar,IN-UP,IN-UP-KU,Uttar Pradesh,Kushinagar,IN-UP,IN-UP-KU
+Uttar Pradesh,Kannauj,IN-UP,IN-UP-KJ,Uttar Pradesh,Kannauj,IN-UP,IN-UP-KJ
+Uttar Pradesh,Lucknow,IN-UP,IN-UP-LU,Uttar Pradesh,Lucknow,IN-UP,IN-UP-LU
+Uttar Pradesh,Basti,IN-UP,IN-UP-BS,Uttar Pradesh,Basti,IN-UP,IN-UP-BS
+Uttar Pradesh,Gorakhpur,IN-UP,IN-UP-GR,Uttar Pradesh,Gorakhpur,IN-UP,IN-UP-GR
+Uttar Pradesh,Sant Kabir Nagar,IN-UP,IN-UP-SK,Uttar Pradesh,Sant Kabir Nagar,IN-UP,IN-UP-SK
+Uttar Pradesh,Unnao,IN-UP,IN-UP-UN,Uttar Pradesh,Unnao,IN-UP,IN-UP-UN
+Uttar Pradesh,Etawah,IN-UP,IN-UP-EW,Uttar Pradesh,Etawah,IN-UP,IN-UP-EW
+Uttar Pradesh,Kanpur Nagar,IN-UP,IN-UP-KN,Uttar Pradesh,Kanpur Nagar,IN-UP,IN-UP-KN
+Uttar Pradesh,Auraiya,IN-UP,IN-UP-AU,Uttar Pradesh,Auraiya,IN-UP,IN-UP-AU
+Uttar Pradesh,Faizabad,IN-UP,IN-UP-FZ,Uttar Pradesh,Faizabad,IN-UP,IN-UP-FZ
+Uttar Pradesh,Kanpur Dehat,IN-UP,IN-UP-KD,Uttar Pradesh,Kanpur Dehat,IN-UP,IN-UP-KD
+Uttar Pradesh,Deoria,IN-UP,IN-UP-DE,Uttar Pradesh,Deoria,IN-UP,IN-UP-DE
+Uttar Pradesh,Sultanpur,IN-UP,IN-UP-SU,Uttar Pradesh,Sultanpur,IN-UP,IN-UP-SU
+Uttar Pradesh,Ambedkar Nagar,IN-UP,IN-UP-AN,Uttar Pradesh,Ambedkar Nagar,IN-UP,IN-UP-AN
+Uttar Pradesh,Rae Bareli,IN-UP,IN-UP-RB,Uttar Pradesh,Rae Bareli,IN-UP,IN-UP-RB
+Uttar Pradesh,Jalaun,IN-UP,IN-UP-JL,Uttar Pradesh,Jalaun,IN-UP,IN-UP-JL
+Uttar Pradesh,Azamgarh,IN-UP,IN-UP-AZ,Uttar Pradesh,Azamgarh,IN-UP,IN-UP-AZ
+Uttar Pradesh,Mau,IN-UP,IN-UP-MA,Uttar Pradesh,Mau,IN-UP,IN-UP-MA
+Uttar Pradesh,Fatehpur,IN-UP,IN-UP-FT,Uttar Pradesh,Fatehpur,IN-UP,IN-UP-FT
+Uttar Pradesh,Ballia,IN-UP,IN-UP-BL,Uttar Pradesh,Ballia,IN-UP,IN-UP-BL
+Uttar Pradesh,Jaunpur,IN-UP,IN-UP-JU,Uttar Pradesh,Jaunpur,IN-UP,IN-UP-JU
+Uttar Pradesh,Jhansi,IN-UP,IN-UP-JH,Uttar Pradesh,Jhansi,IN-UP,IN-UP-JH
+NA,NA,NA,NA,Uttar Pradesh,Banda,IN-UP,NA
+Uttar Pradesh,Ghazipur,IN-UP,IN-UP-GP,Uttar Pradesh,Ghazipur,IN-UP,IN-UP-GP
+Uttar Pradesh,Kaushambi,IN-UP,IN-UP-KS,Uttar Pradesh,Kaushambi,IN-UP,IN-UP-KS
+Uttar Pradesh,Allahabad,IN-UP,IN-UP-AH,Uttar Pradesh,Prayagraj,IN-UP,IN-UP-AH
+Uttar Pradesh,Varanasi,IN-UP,IN-UP-VA,Uttar Pradesh,Varanasi,IN-UP,IN-UP-VA
+Uttar Pradesh,Chitrakoot,IN-UP,IN-UP-CT,Uttar Pradesh,Chitrakoot,IN-UP,IN-UP-CT
+Uttar Pradesh,Chandauli,IN-UP,IN-UP-CD,Uttar Pradesh,Chandauli,IN-UP,IN-UP-CD
+Uttar Pradesh,Sant Ravi Das Nagar(bhadohi),IN-UP,IN-UP-SR,Uttar Pradesh,Bhadohi,IN-UP,IN-UP-SR
+Uttar Pradesh,Mirzapur,IN-UP,IN-UP-MI,Uttar Pradesh,Mirzapur,IN-UP,IN-UP-MI
+Uttar Pradesh,Lalitpur,IN-UP,IN-UP-LA,Uttar Pradesh,Lalitpur,IN-UP,IN-UP-LA
+Uttar Pradesh,Sonbhadra,IN-UP,IN-UP-SO,Uttar Pradesh,Sonbhadra,IN-UP,IN-UP-SO
+NA,NA,NA,NA,Uttar Pradesh,Amethi,IN-UP,NA
+Uttar Pradesh,Ghaziabad,IN-UP,IN-UP-GZ,Uttar Pradesh,Ghaziabad,IN-UP,IN-UP-GZ
+NA,NA,NA,NA,Uttar Pradesh,Sambhal,IN-UP,NA
+Uttar Pradesh,Mahoba,IN-UP,IN-UP-MH,Uttar Pradesh,Mahoba,IN-UP,IN-UP-MH
+Uttar Pradesh,Saharanpur,IN-UP,IN-UP-SA,Uttar Pradesh,Saharanpur,IN-UP,IN-UP-SA
+Uttar Pradesh,Bijnor,IN-UP,IN-UP-BI,Uttar Pradesh,Bijnor,IN-UP,IN-UP-BI
+Uttar Pradesh,Muzaffarnagar,IN-UP,IN-UP-MU,Uttar Pradesh,Muzaffarnagar,IN-UP,IN-UP-MU
+Uttar Pradesh,Baghpat,IN-UP,IN-UP-BG,Uttar Pradesh,Baghpat,IN-UP,IN-UP-BG
+Uttar Pradesh,Meerut,IN-UP,IN-UP-ME,Uttar Pradesh,Meerut,IN-UP,IN-UP-ME
+Uttar Pradesh,Moradabad,IN-UP,IN-UP-MO,Uttar Pradesh,Moradabad,IN-UP,IN-UP-MO
+Uttar Pradesh,Rampur,IN-UP,IN-UP-RA,Uttar Pradesh,Rampur,IN-UP,IN-UP-RA
+NA,NA,NA,NA,Uttar Pradesh,Shamli,IN-UP,NA
+Uttar Pradesh,Balrampur,IN-UP,IN-UP-BP,Uttar Pradesh,Balrampur,IN-UP,IN-UP-BP
+Uttar Pradesh,Hamirpur,IN-UP,IN-UP-HM,Uttar Pradesh,Hamirpur,IN-UP,IN-UP-HM
+Uttar Pradesh,Pratapgarh,IN-UP,IN-UP-PR,Uttar Pradesh,Pratapgarh,IN-UP,IN-UP-PR
+Bihar,Pashchim Champaran,IN-BR,IN-BR-WC,Bihar,Pashchim Champaran,IN-BR,IN-BR-WC
+Bihar,Purba Champaran,IN-BR,IN-BR-EC,Bihar,Purba Champaran,IN-BR,IN-BR-EC
+Bihar,Sitamarhi,IN-BR,IN-BR-ST,Bihar,Sitamarhi,IN-BR,IN-BR-ST
+Bihar,Sheohar,IN-BR,IN-BR-SO,Bihar,Sheohar,IN-BR,IN-BR-SO
+NA,NA,NA,NA,Bihar,Gopalganj,IN-BR,NA
+Bihar,Samastipur,IN-BR,IN-BR-SM,Bihar,Samastipur,IN-BR,IN-BR-SM
+Bihar,Katihar,IN-BR,IN-BR-KT,Bihar,Katihar,IN-BR,IN-BR-KT
+Bihar,Khagaria,IN-BR,IN-BR-KH,Bihar,Khagaria,IN-BR,IN-BR-KH
+Bihar,Bhojpur,IN-BR,IN-BR-BJ,Bihar,Bhojpur,IN-BR,IN-BR-BJ
+Bihar,Buxar,IN-BR,IN-BR-BU,Bihar,Buxar,IN-BR,IN-BR-BU
+Bihar,Darbhanga,IN-BR,IN-BR-DA,Bihar,Darbhanga,IN-BR,IN-BR-DA
+Bihar,Saharsa,IN-BR,IN-BR-SH,Bihar,Saharsa,IN-BR,IN-BR-SH
+Bihar,Kaimur (bhabua),IN-BR,IN-BR-KM,Bihar,Kaimur (bhabua),IN-BR,IN-BR-KM
+Bihar,Rohtas,IN-BR,IN-BR-RO,Bihar,Rohtas,IN-BR,IN-BR-RO
+Bihar,Jamui,IN-BR,IN-BR-JA,Bihar,Jamui,IN-BR,IN-BR-JA
+Bihar,Banka,IN-BR,IN-BR-BA,Bihar,Banka,IN-BR,IN-BR-BA
+Bihar,Nawada,IN-BR,IN-BR-NW,Bihar,Nawada,IN-BR,IN-BR-NW
+Bihar,Gaya,IN-BR,IN-BR-GA,Bihar,Gaya,IN-BR,IN-BR-GA
+Bihar,Munger,IN-BR,IN-BR-MG,Bihar,Munger,IN-BR,IN-BR-MG
+Bihar,Vaishali,IN-BR,IN-BR-VA,Bihar,Vaishali,IN-BR,IN-BR-VA
+Bihar,Begusarai,IN-BR,IN-BR-BE,Bihar,Begusarai,IN-BR,IN-BR-BE
+Bihar,Bhagalpur,IN-BR,IN-BR-BG,Bihar,Bhagalpur,IN-BR,IN-BR-BG
+Bihar,Lakhisarai,IN-BR,IN-BR-LA,Bihar,Lakhisarai,IN-BR,IN-BR-LA
+Bihar,Sheikhpura,IN-BR,IN-BR-SP,Bihar,Sheikhpura,IN-BR,IN-BR-SP
+Bihar,Arwal,IN-BR,IN-BR-AW,Bihar,Arwal,IN-BR,IN-BR-AW
+NA,NA,NA,NA,Bihar,Jehanabad,IN-BR,NA
+Bihar,Nalanda,IN-BR,IN-BR-NL,Bihar,Nalanda,IN-BR,IN-BR-NL
+Bihar,Patna,IN-BR,IN-BR-PA,Bihar,Patna,IN-BR,IN-BR-PA
+Bihar,Saran (chhapra),IN-BR,IN-BR-SR,Bihar,Saran,IN-BR,IN-BR-SR
+NA,NA,NA,NA,Bihar,Siwan,IN-BR,NA
+Bihar,Muzaffarpur,IN-BR,IN-BR-MZ,Bihar,Muzaffarpur,IN-BR,IN-BR-MZ
+Bihar,Madhepura,IN-BR,IN-BR-MP,Bihar,Madhepura,IN-BR,IN-BR-MP
+Bihar,Araria,IN-BR,IN-BR-AR,Bihar,Araria,IN-BR,IN-BR-AR
+Bihar,Supaul,IN-BR,IN-BR-SU,Bihar,Supaul,IN-BR,IN-BR-SU
+Bihar,Madhubani,IN-BR,IN-BR-MB,Bihar,Madhubani,IN-BR,IN-BR-MB
+Bihar,Purnia,IN-BR,IN-BR-PU,Bihar,Purnia,IN-BR,IN-BR-PU
+Bihar,Kishanganj,IN-BR,IN-BR-KI,Bihar,Kishanganj,IN-BR,IN-BR-KI
+Bihar,Aurangabad,IN-BR,IN-BR-AU,Bihar,Aurangabad,IN-BR,IN-BR-AU
+Sikkim,North Sikkim,IN-SK,IN-SK-NS,Sikkim,North District,IN-SK,IN-SK-NS
+Sikkim,West Sikkim,IN-SK,IN-SK-WS,Sikkim,West District,IN-SK,IN-SK-WS
+Sikkim,South Sikkim,IN-SK,IN-SK-SS,Sikkim,South District,IN-SK,IN-SK-SS
+Sikkim,East Sikkim,IN-SK,IN-SK-ES,Sikkim,East District,IN-SK,IN-SK-ES
+Arunachal Pradesh,Upper Subansiri,IN-AR,IN-AR-UB,Arunachal Pradesh,Upper Subansiri,IN-AR,IN-AR-UB
+Arunachal Pradesh,Anjaw,IN-AR,IN-AR-AN,Arunachal Pradesh,Anjaw,IN-AR,IN-AR-AN
+Arunachal Pradesh,Changlang,IN-AR,IN-AR-CH,Arunachal Pradesh,Changlang,IN-AR,IN-AR-CH
+Arunachal Pradesh,Tawang,IN-AR,IN-AR-TA,Arunachal Pradesh,Tawang,IN-AR,IN-AR-TA
+Arunachal Pradesh,Papum Pare,IN-AR,IN-AR-PA,Arunachal Pradesh,Papum Pare,IN-AR,IN-AR-PA
+Arunachal Pradesh,Tirap,IN-AR,IN-AR-TI,Arunachal Pradesh,Tirap,IN-AR,IN-AR-TI
+Arunachal Pradesh,East Siang,IN-AR,IN-AR-ES,Arunachal Pradesh,East Siang,IN-AR,IN-AR-ES
+Arunachal Pradesh,Lohit,IN-AR,IN-AR-LO,Arunachal Pradesh,Lohit,IN-AR,IN-AR-LO
+Arunachal Pradesh,Kurung Kumey,IN-AR,IN-AR-KK,Arunachal Pradesh,Kurung Kumey,IN-AR,IN-AR-KK
+Arunachal Pradesh,Lower Subansiri,IN-AR,IN-AR-LB,Arunachal Pradesh,Lower Subansiri,IN-AR,IN-AR-LB
+Arunachal Pradesh,East Kameng,IN-AR,IN-AR-EK,Arunachal Pradesh,East Kameng,IN-AR,IN-AR-EK
+Arunachal Pradesh,West Kameng,IN-AR,IN-AR-WK,Arunachal Pradesh,West Kameng,IN-AR,IN-AR-WK
+NA,NA,NA,NA,Arunachal Pradesh,Kra Daadi,IN-AR,NA
+NA,NA,NA,NA,Arunachal Pradesh,Namsai,IN-AR,NA
+NA,NA,NA,NA,Arunachal Pradesh,Longding,IN-AR,NA
+Arunachal Pradesh,Upper Siang,IN-AR,IN-AR-US,Arunachal Pradesh,Upper Siang,IN-AR,IN-AR-US
+NA,NA,NA,NA,Arunachal Pradesh,Lower Siang,IN-AR,NA
+Arunachal Pradesh,Dibang Valley,IN-AR,IN-AR-UD,Arunachal Pradesh,Upper Dibang Valley,IN-AR,IN-AR-UD
+Arunachal Pradesh,Lower Dibang Valley,IN-AR,IN-AR-LD,Arunachal Pradesh,Lower Dibang Valley,IN-AR,IN-AR-LD
+NA,NA,NA,NA,Arunachal Pradesh,Siang,IN-AR,NA
+NA,NA,NA,NA,Arunachal Pradesh,Shi Yomi,IN-AR,NA
+NA,NA,NA,NA,Arunachal Pradesh,Pakke Kessang,IN-AR,NA
+Arunachal Pradesh,West Siang,IN-AR,IN-AR-WS,Arunachal Pradesh,West Siang,IN-AR,IN-AR-WS
+NA,NA,NA,NA,Arunachal Pradesh,Lepa Rada,IN-AR,NA
+NA,NA,NA,NA,Arunachal Pradesh,Kamle,IN-AR,NA
+Nagaland,Mon,IN-NL,IN-NL-MN,Nagaland,Mon,IN-NL,IN-NL-MN
+Nagaland,Longleng,IN-NL,IN-NL-LO,Nagaland,Longleng,IN-NL,IN-NL-LO
+Nagaland,Mokokchung,IN-NL,IN-NL-MK,Nagaland,Mokokchung,IN-NL,IN-NL-MK
+Nagaland,Tuensang,IN-NL,IN-NL-TU,Nagaland,Tuensang,IN-NL,IN-NL-TU
+Nagaland,Kiphire,IN-NL,IN-NL-KI,Nagaland,Kiphire,IN-NL,IN-NL-KI
+Nagaland,Peren,IN-NL,IN-NL-PE,Nagaland,Peren,IN-NL,IN-NL-PE
+Nagaland,Wokha,IN-NL,IN-NL-WO,Nagaland,Wokha,IN-NL,IN-NL-WO
+Nagaland,Zunheboto,IN-NL,IN-NL-ZU,Nagaland,Zunheboto,IN-NL,IN-NL-ZU
+Nagaland,Phek,IN-NL,IN-NL-PH,Nagaland,Phek,IN-NL,IN-NL-PH
+Nagaland,Kohima,IN-NL,IN-NL-KO,Nagaland,Kohima,IN-NL,IN-NL-KO
+Nagaland,Dimapur,IN-NL,IN-NL-DI,Nagaland,Dimapur,IN-NL,IN-NL-DI
+NA,NA,NA,NA,Manipur,Kamjong,IN-MN,NA
+Manipur,Senapati,IN-MN,IN-MN-SE,Manipur,Senapati,IN-MN,IN-MN-SE
+Manipur,Tamenglong,IN-MN,IN-MN-TA,Manipur,Tamenglong,IN-MN,IN-MN-TA
+Manipur,Imphal West,IN-MN,IN-MN-WI,Manipur,Imphal West,IN-MN,IN-MN-WI
+NA,NA,NA,NA,Manipur,Kakching,IN-MN,NA
+Manipur,Bishnupur,IN-MN,IN-MN-BI,Manipur,Bishnupur,IN-MN,IN-MN-BI
+Manipur,Chandel,IN-MN,IN-MN-CD,Manipur,Chandel,IN-MN,IN-MN-CD
+Manipur,Churachandpur,IN-MN,IN-MN-CC,Manipur,Churachandpur,IN-MN,IN-MN-CC
+Manipur,Imphal East,IN-MN,IN-MN-EI,Manipur,Imphal East,IN-MN,IN-MN-EI
+NA,NA,NA,NA,Manipur,Jiribam,IN-MN,NA
+NA,NA,NA,NA,Manipur,Kangpokpi,IN-MN,NA
+Manipur,Thoubal,IN-MN,IN-MN-TH,Manipur,Thoubal,IN-MN,IN-MN-TH
+NA,NA,NA,NA,Manipur,Tengnoupal,IN-MN,NA
+Manipur,Ukhrul,IN-MN,IN-MN-UK,Manipur,Ukhrul,IN-MN,IN-MN-UK
+NA,NA,NA,NA,Manipur,Noney,IN-MN,NA
+NA,NA,NA,NA,Manipur,Pherzawl,IN-MN,NA
+Mizoram,Kolasib,IN-MZ,IN-MZ-KO,Mizoram,Kolasib,IN-MZ,IN-MZ-KO
+Mizoram,Mamit,IN-MZ,IN-MZ-MA,Mizoram,Mamit,IN-MZ,IN-MZ-MA
+Mizoram,Serchhip,IN-MZ,IN-MZ-SE,Mizoram,Serchhip,IN-MZ,IN-MZ-SE
+Mizoram,Lunglei,IN-MZ,IN-MZ-LU,Mizoram,Lunglei,IN-MZ,IN-MZ-LU
+Mizoram,Saiha,IN-MZ,IN-MZ-SA,Mizoram,Saiha,IN-MZ,IN-MZ-SA
+Mizoram,Lawangtlai,IN-MZ,IN-MZ-LA,Mizoram,Lawngtlai,IN-MZ,IN-MZ-LA
+NA,NA,NA,NA,Mizoram,Hnahthial,IN-MZ,NA
+NA,NA,NA,NA,Mizoram,Saitual,IN-MZ,NA
+Mizoram,Aizawl,IN-MZ,IN-MZ-AI,Mizoram,Aizawl,IN-MZ,IN-MZ-AI
+Mizoram,Champhai,IN-MZ,IN-MZ-CH,Mizoram,Champhai,IN-MZ,IN-MZ-CH
+NA,NA,NA,NA,Mizoram,Khawzawl,IN-MZ,NA
+Tripura,North Tripura,IN-TR,IN-TR-NT,Tripura,North Tripura,IN-TR,IN-TR-NT
+Tripura,Dhalai,IN-TR,IN-TR-DH,Tripura,Dhalai,IN-TR,IN-TR-DH
+NA,NA,NA,NA,Tripura,Sipahijala,IN-TR,NA
+NA,NA,NA,NA,Tripura,Gomati,IN-TR,NA
+NA,NA,NA,NA,Tripura,Khowai,IN-TR,NA
+Tripura,West Tripura,IN-TR,IN-TR-WT,Tripura,West Tripura,IN-TR,IN-TR-WT
+Tripura,South Tripura,IN-TR,IN-TR-ST,Tripura,South Tripura,IN-TR,IN-TR-ST
+NA,NA,NA,NA,Tripura,Unokoti,IN-TR,NA
+Meghalaya,Ri Bhoi,IN-ML,IN-ML-RB,Meghalaya,Ribhoi,IN-ML,IN-ML-RB
+Meghalaya,West Khasi Hills,IN-ML,IN-ML-WK,Meghalaya,West Khasi Hills,IN-ML,IN-ML-WK
+Meghalaya,Jaintia Hilla,IN-ML,IN-ML-JH,Meghalaya,East Jaintia Hills,IN-ML,IN-ML-JH
+Meghalaya,East Khasi Hills,IN-ML,IN-ML-EK,Meghalaya,East Khasi Hills,IN-ML,IN-ML-EK
+Meghalaya,South Garo Hills,IN-ML,IN-ML-SG,Meghalaya,South Garo Hills,IN-ML,IN-ML-SG
+Meghalaya,West Garo Hills,IN-ML,IN-ML-WG,Meghalaya,West Garo Hills,IN-ML,IN-ML-WG
+Meghalaya,East Garo Hills,IN-ML,IN-ML-EG,Meghalaya,East Garo Hills,IN-ML,IN-ML-EG
+NA,NA,NA,NA,Meghalaya,West Jaintia Hills,IN-ML,NA
+NA,NA,NA,NA,Meghalaya,South West Khasi Hills,IN-ML,NA
+NA,NA,NA,NA,Meghalaya,North Garo Hills,IN-ML,NA
+NA,NA,NA,NA,Meghalaya,South West Garo Hills,IN-ML,NA
+Assam,Tinsukia,IN-AS,IN-AS-TI,Assam,Tinsukia,IN-AS,IN-AS-TI
+Assam,Dhemaji,IN-AS,IN-AS-DM,Assam,Dhemaji,IN-AS,IN-AS-DM
+Assam,Dibrugarh,IN-AS,IN-AS-DI,Assam,Dibrugarh,IN-AS,IN-AS-DI
+Assam,Lakhimpur,IN-AS,IN-AS-LA,Assam,Lakhimpur,IN-AS,IN-AS-LA
+Assam,Sivasagar,IN-AS,IN-AS-SI,Assam,Sivasagar,IN-AS,IN-AS-SI
+Assam,Jorhat,IN-AS,IN-AS-JO,Assam,Jorhat,IN-AS,IN-AS-JO
+Assam,Sonitpur,IN-AS,IN-AS-SO,Assam,Sonitpur,IN-AS,IN-AS-SO
+Assam,Golaghat,IN-AS,IN-AS-GG,Assam,Golaghat,IN-AS,IN-AS-GG
+Assam,Udalguri,IN-AS,IN-AS-UD,Assam,Udalguri,IN-AS,IN-AS-UD
+Assam,Chirang,IN-AS,IN-AS-CR,Assam,Chirang,IN-AS,IN-AS-CR
+Assam,Baksa,IN-AS,IN-AS-BK,Assam,Baksa,IN-AS,IN-AS-BK
+Assam,Nagaon,IN-AS,IN-AS-NG,Assam,Nagaon,IN-AS,IN-AS-NG
+Assam,Kokrajhar,IN-AS,IN-AS-KK,Assam,Kokrajhar,IN-AS,IN-AS-KK
+Assam,Darrang,IN-AS,IN-AS-DA,Assam,Darrang,IN-AS,IN-AS-DA
+Assam,Barpeta,IN-AS,IN-AS-BA,Assam,Barpeta,IN-AS,IN-AS-BA
+Assam,Nalbari,IN-AS,IN-AS-NL,Assam,Nalbari,IN-AS,IN-AS-NL
+Assam,Marigaon,IN-AS,IN-AS-MA,Assam,Morigaon,IN-AS,IN-AS-MA
+Assam,Kamrup,IN-AS,IN-AS-KP,Assam,Kamrup,IN-AS,IN-AS-KP
+Assam,Bongaigaon,IN-AS,IN-AS-BO,Assam,Bongaigaon,IN-AS,IN-AS-BO
+Assam,Dhubri,IN-AS,IN-AS-DB,Assam,Dhubri,IN-AS,IN-AS-DB
+Assam,Kamrup Metropolitan,IN-AS,IN-AS-KM,Assam,Kamrup Metropolitan,IN-AS,IN-AS-KM
+Assam,Goalpara,IN-AS,IN-AS-GP,Assam,Goalpara,IN-AS,IN-AS-GP
+Assam,Dima Hasao,IN-AS,IN-AS-NC,Assam,Dima Hasao,IN-AS,IN-AS-NC
+Assam,Cachar,IN-AS,IN-AS-CA,Assam,Cachar,IN-AS,IN-AS-CA
+Assam,Karimganj,IN-AS,IN-AS-KR,Assam,Karimganj,IN-AS,IN-AS-KR
+Assam,Hailakandi,IN-AS,IN-AS-HA,Assam,Hailakandi,IN-AS,IN-AS-HA
+NA,NA,NA,NA,Assam,Charaideo,IN-AS,NA
+NA,NA,NA,NA,Assam,Majuli,IN-AS,NA
+NA,NA,NA,NA,Assam,Biswanath,IN-AS,NA
+NA,NA,NA,NA,Assam,Hojai,IN-AS,NA
+NA,NA,NA,NA,Assam,South Salmara Mancachar,IN-AS,NA
+Assam,Karbi Anglong,IN-AS,IN-AS-KA,Assam,Karbi Anglong,IN-AS,IN-AS-KA
+NA,NA,NA,NA,Assam,West Karbi Anglong,IN-AS,NA
+West Bengal,South 24 Parganas,IN-WB,IN-WB-PS,West Bengal,South Twenty Four Parganas,IN-WB,IN-WB-PS
+West Bengal,Darjiling,IN-WB,IN-WB-DA,West Bengal,Darjiling,IN-WB,IN-WB-DA
+West Bengal,Jalpaiguri,IN-WB,IN-WB-JA,West Bengal,Jalpaiguri,IN-WB,IN-WB-JA
+West Bengal,Dakshin Dinajpur,IN-WB,IN-WB-DD,West Bengal,Dakshin Dinajpur,IN-WB,IN-WB-DD
+West Bengal,Maldah,IN-WB,IN-WB-MA,West Bengal,Maldah,IN-WB,IN-WB-MA
+West Bengal,Murshidabad,IN-WB,IN-WB-MU,West Bengal,Murshidabad,IN-WB,IN-WB-MU
+West Bengal,Birbhum,IN-WB,IN-WB-BI,West Bengal,Birbhum,IN-WB,IN-WB-BI
+West Bengal,Nadia,IN-WB,IN-WB-NA,West Bengal,Nadia,IN-WB,IN-WB-NA
+West Bengal,Barddhaman,IN-WB,IN-WB-BR,West Bengal,Purba Bardhaman,IN-WB,IN-WB-BR
+West Bengal,Puruliya,IN-WB,IN-WB-PU,West Bengal,Puruliya,IN-WB,IN-WB-PU
+West Bengal,Bankura,IN-WB,IN-WB-BN,West Bengal,Bankura,IN-WB,IN-WB-BN
+West Bengal,North 24 Parganas,IN-WB,IN-WB-PN,West Bengal,North Twenty Four Parganas,IN-WB,IN-WB-PN
+West Bengal,Hooghly,IN-WB,IN-WB-HG,West Bengal,Hooghly,IN-WB,IN-WB-HG
+West Bengal,Pashchim Medinipur,IN-WB,IN-WB-MW,West Bengal,Medinipur West,IN-WB,IN-WB-MW
+West Bengal,Haora,IN-WB,IN-WB-HR,West Bengal,Howrah,IN-WB,IN-WB-HR
+West Bengal,Kolkata,IN-WB,IN-WB-KO,West Bengal,Kolkata,IN-WB,IN-WB-KO
+West Bengal,Purba Medinipur,IN-WB,IN-WB-ME,West Bengal,Purba Medinipur,IN-WB,IN-WB-ME
+NA,NA,NA,NA,West Bengal,Alipurduar,IN-WB,NA
+NA,NA,NA,NA,West Bengal,Paschim Bardhaman,IN-WB,NA
+NA,NA,NA,NA,West Bengal,Kalimpong,IN-WB,NA
+NA,NA,NA,NA,West Bengal,Jhargram,IN-WB,NA
+West Bengal,Koch Bihar,IN-WB,IN-WB-KB,West Bengal,Cooch Behar,IN-WB,IN-WB-KB
+West Bengal,Uttar Dinajpur,IN-WB,IN-WB-UD,West Bengal,Uttar Dinajpur,IN-WB,IN-WB-UD
+Jharkhand,Sahibganj,IN-JH,IN-JH-SA,Jharkhand,Sahibganj,IN-JH,IN-JH-SA
+Jharkhand,Godda,IN-JH,IN-JH-GO,Jharkhand,Godda,IN-JH,IN-JH-GO
+Jharkhand,Pakur,IN-JH,IN-JH-PK,Jharkhand,Pakur,IN-JH,IN-JH-PK
+Jharkhand,Giridih,IN-JH,IN-JH-GI,Jharkhand,Giridih,IN-JH,IN-JH-GI
+Jharkhand,Dumka,IN-JH,IN-JH-DU,Jharkhand,Dumka,IN-JH,IN-JH-DU
+Jharkhand,Deoghar,IN-JH,IN-JH-DE,Jharkhand,Deoghar,IN-JH,IN-JH-DE
+Jharkhand,Palamu,IN-JH,IN-JH-PL,Jharkhand,Palamu,IN-JH,IN-JH-PL
+Jharkhand,Chatra,IN-JH,IN-JH-CH,Jharkhand,Chatra,IN-JH,IN-JH-CH
+Jharkhand,Garhwa,IN-JH,IN-JH-GA,Jharkhand,Garhwa,IN-JH,IN-JH-GA
+Jharkhand,Jamtara,IN-JH,IN-JH-JA,Jharkhand,Jamtara,IN-JH,IN-JH-JA
+Jharkhand,Dhanbad,IN-JH,IN-JH-DH,Jharkhand,Dhanbad,IN-JH,IN-JH-DH
+Jharkhand,Latehar,IN-JH,IN-JH-LA,Jharkhand,Latehar,IN-JH,IN-JH-LA
+Jharkhand,Bokaro,IN-JH,IN-JH-BO,Jharkhand,Bokaro,IN-JH,IN-JH-BO
+Jharkhand,Ramgarh,IN-JH,IN-JH-RM,Jharkhand,Ramgarh,IN-JH,IN-JH-RM
+Jharkhand,Ranchi,IN-JH,IN-JH-RA,Jharkhand,Ranchi,IN-JH,IN-JH-RA
+Jharkhand,Lohardaga,IN-JH,IN-JH-LO,Jharkhand,Lohardaga,IN-JH,IN-JH-LO
+Jharkhand,Gumla,IN-JH,IN-JH-GU,Jharkhand,Gumla,IN-JH,IN-JH-GU
+Jharkhand,Khunti,IN-JH,IN-JH-KH,Jharkhand,Khunti,IN-JH,IN-JH-KH
+Jharkhand,Saraikela-kharsawan,IN-JH,IN-JH-SR,Jharkhand,Saraikela-kharsawan,IN-JH,IN-JH-SR
+Jharkhand,Purbi Singhbhum,IN-JH,IN-JH-ES,Jharkhand,Purbi Singhbhum,IN-JH,IN-JH-ES
+Jharkhand,Pashchimi Singhbhum,IN-JH,IN-JH-WS,Jharkhand,Pashchimi Singhbhum,IN-JH,IN-JH-WS
+Jharkhand,Simdega,IN-JH,IN-JH-SI,Jharkhand,Simdega,IN-JH,IN-JH-SI
+NA,NA,NA,NA,Jharkhand,Kodarma,IN-JH,NA
+Jharkhand,Hazaribagh,IN-JH,IN-JH-HA,Jharkhand,Hazaribagh,IN-JH,IN-JH-HA
+Odisha,Bhadrak,IN-OR,IN-OR-BH,Odisha,Bhadrak,IN-OR,IN-OR-BH
+Odisha,Dhenkanal,IN-OR,IN-OR-DH,Odisha,Dhenkanal,IN-OR,IN-OR-DH
+Odisha,Jajapur,IN-OR,IN-OR-JP,Odisha,Jajapur,IN-OR,IN-OR-JP
+Odisha,Subarnapur,IN-OR,IN-OR-SO,Odisha,Subarnapur,IN-OR,IN-OR-SO
+Odisha,Nuapada,IN-OR,IN-OR-NU,Odisha,Nuapada,IN-OR,IN-OR-NU
+Odisha,Balangir,IN-OR,IN-OR-BL,Odisha,Balangir,IN-OR,IN-OR-BL
+Odisha,Bauda,IN-OR,IN-OR-BD,Odisha,Baudh,IN-OR,IN-OR-BD
+Odisha,Cuttack,IN-OR,IN-OR-CU,Odisha,Cuttack,IN-OR,IN-OR-CU
+Odisha,Kandhamal,IN-OR,IN-OR-KN,Odisha,Kandhamal,IN-OR,IN-OR-KN
+Odisha,Nayagarh,IN-OR,IN-OR-NY,Odisha,Nayagarh,IN-OR,IN-OR-NY
+Odisha,Khordha,IN-OR,IN-OR-KH,Odisha,Khordha,IN-OR,IN-OR-KH
+Odisha,Kalahandi,IN-OR,IN-OR-KL,Odisha,Kalahandi,IN-OR,IN-OR-KL
+Odisha,Jagatsinghapur,IN-OR,IN-OR-JS,Odisha,Jagatsinghapur,IN-OR,IN-OR-JS
+Odisha,Puri,IN-OR,IN-OR-PU,Odisha,Puri,IN-OR,IN-OR-PU
+Odisha,Nabarangapur,IN-OR,IN-OR-NB,Odisha,Nabarangapur,IN-OR,IN-OR-NB
+Odisha,Rayagada,IN-OR,IN-OR-RA,Odisha,Rayagada,IN-OR,IN-OR-RA
+Odisha,Koraput,IN-OR,IN-OR-KO,Odisha,Koraput,IN-OR,IN-OR-KO
+Odisha,Malkangiri,IN-OR,IN-OR-ML,Odisha,Malkangiri,IN-OR,IN-OR-ML
+Odisha,Anugul,IN-OR,IN-OR-AN,Odisha,Anugul,IN-OR,IN-OR-AN
+Odisha,Kendrapara,IN-OR,IN-OR-KP,Odisha,Kendrapara,IN-OR,IN-OR-KP
+Odisha,Ganjam,IN-OR,IN-OR-GN,Odisha,Ganjam,IN-OR,IN-OR-GN
+Odisha,Gajapati,IN-OR,IN-OR-GP,Odisha,Gajapati,IN-OR,IN-OR-GP
+Odisha,Mayurbhanj,IN-OR,IN-OR-MY,Odisha,Mayurbhanj,IN-OR,IN-OR-MY
+Odisha,Sundargarh,IN-OR,IN-OR-SU,Odisha,Sundargarh,IN-OR,IN-OR-SU
+Odisha,Kendujhar,IN-OR,IN-OR-KJ,Odisha,Kendujhar,IN-OR,IN-OR-KJ
+Odisha,Baleshwar,IN-OR,IN-OR-BW,Odisha,Baleshwar,IN-OR,IN-OR-BW
+Odisha,Jharsuguda,IN-OR,IN-OR-JH,Odisha,Jharsuguda,IN-OR,IN-OR-JH
+Odisha,Bargarh,IN-OR,IN-OR-BR,Odisha,Bargarh,IN-OR,IN-OR-BR
+Odisha,Debagarh,IN-OR,IN-OR-DE,Odisha,Debagarh,IN-OR,IN-OR-DE
+Odisha,Sambalpur,IN-OR,IN-OR-SA,Odisha,Sambalpur,IN-OR,IN-OR-SA
+Chhattisgarh,Mahasamund,IN-CT,IN-CT-MA,Chhattisgarh,Mahasamund,IN-CT,IN-CT-MA
+Chhattisgarh,Uttar Bastar Kanker,IN-CT,IN-CT-KK,Chhattisgarh,Uttar Bastar Kanker,IN-CT,IN-CT-KK
+Chhattisgarh,Narayanpur,IN-CT,IN-CT-NA,Chhattisgarh,Narayanpur,IN-CT,IN-CT-NA
+Chhattisgarh,Dakshin Bastar Dantewada,IN-CT,IN-CT-DA,Chhattisgarh,Dakshin Bastar Dantewada,IN-CT,IN-CT-DA
+Chhattisgarh,Bastar,IN-CT,IN-CT-BA,Chhattisgarh,Bastar,IN-CT,IN-CT-BA
+NA,NA,NA,NA,Chhattisgarh,Kondagaon,IN-CT,NA
+NA,NA,NA,NA,Chhattisgarh,Gariaband,IN-CT,NA
+Chhattisgarh,Raipur,IN-CT,IN-CT-RP,Chhattisgarh,Raipur,IN-CT,IN-CT-RP
+Chhattisgarh,Durg,IN-CT,IN-CT-DU,Chhattisgarh,Durg,IN-CT,IN-CT-DU
+Chhattisgarh,Dhamtari,IN-CT,IN-CT-DH,Chhattisgarh,Dhamtari,IN-CT,IN-CT-DH
+NA,NA,NA,NA,Chhattisgarh,Balod,IN-CT,NA
+Chhattisgarh,Koriya,IN-CT,IN-CT-KJ,Chhattisgarh,Koriya,IN-CT,IN-CT-KJ
+Chhattisgarh,Jashpur,IN-CT,IN-CT-JA,Chhattisgarh,Jashpur,IN-CT,IN-CT-JA
+Chhattisgarh,Korba,IN-CT,IN-CT-KB,Chhattisgarh,Korba,IN-CT,IN-CT-KB
+Chhattisgarh,Kabeerdham,IN-CT,IN-CT-KW,Chhattisgarh,Kabeerdham,IN-CT,IN-CT-KW
+Chhattisgarh,Janjgir-champa,IN-CT,IN-CT-JC,Chhattisgarh,Janjgir - Champa,IN-CT,IN-CT-JC
+NA,NA,NA,NA,Chhattisgarh,Bametara,IN-CT,NA
+Chhattisgarh,Rajnandgaon,IN-CT,IN-CT-RN,Chhattisgarh,Rajnandgaon,IN-CT,IN-CT-RN
+NA,NA,NA,NA,Chhattisgarh,Surajpur,IN-CT,NA
+NA,NA,NA,NA,Chhattisgarh,Baloda Bazar,IN-CT,NA
+NA,NA,NA,NA,Chhattisgarh,Mungeli,IN-CT,NA
+Chhattisgarh,Surguja,IN-CT,IN-CT-SU,Chhattisgarh,Surguja,IN-CT,IN-CT-SU
+NA,NA,NA,NA,Chhattisgarh,Balrampur,IN-CT,NA
+Chhattisgarh,Bijapur,IN-CT,IN-CT-BJ,Chhattisgarh,Bijapur,IN-CT,IN-CT-BJ
+Chhattisgarh,Raigarh,IN-CT,IN-CT-RG,Chhattisgarh,Raigarh,IN-CT,IN-CT-RG
+Chhattisgarh,Bilaspur,IN-CT,IN-CT-BI,Chhattisgarh,Bilaspur,IN-CT,IN-CT-BI
+NA,NA,NA,NA,Chhattisgarh,Sukma,IN-CT,NA
+Madhya Pradesh,Burhanpur,IN-MP,IN-MP-BU,Madhya Pradesh,Burhanpur,IN-MP,IN-MP-BU
+Madhya Pradesh,Morena,IN-MP,IN-MP-MO,Madhya Pradesh,Morena,IN-MP,IN-MP-MO
+Madhya Pradesh,Bhind,IN-MP,IN-MP-BD,Madhya Pradesh,Bhind,IN-MP,IN-MP-BD
+Madhya Pradesh,Gwalior,IN-MP,IN-MP-GW,Madhya Pradesh,Gwalior,IN-MP,IN-MP-GW
+Madhya Pradesh,Sheopur,IN-MP,IN-MP-SP,Madhya Pradesh,Sheopur,IN-MP,IN-MP-SP
+Madhya Pradesh,Shivpuri,IN-MP,IN-MP-SV,Madhya Pradesh,Shivpuri,IN-MP,IN-MP-SV
+Madhya Pradesh,Tikamgarh,IN-MP,IN-MP-TI,Madhya Pradesh,Tikamgarh,IN-MP,IN-MP-TI
+Madhya Pradesh,Neemuch,IN-MP,IN-MP-NE,Madhya Pradesh,Neemuch,IN-MP,IN-MP-NE
+Madhya Pradesh,Rewa,IN-MP,IN-MP-RE,Madhya Pradesh,Rewa,IN-MP,IN-MP-RE
+Madhya Pradesh,Satna,IN-MP,IN-MP-ST,Madhya Pradesh,Satna,IN-MP,IN-MP-ST
+Madhya Pradesh,Guna,IN-MP,IN-MP-GU,Madhya Pradesh,Guna,IN-MP,IN-MP-GU
+Madhya Pradesh,Ashoknagar,IN-MP,IN-MP-AS,Madhya Pradesh,Ashoknagar,IN-MP,IN-MP-AS
+Madhya Pradesh,Mandsaur,IN-MP,IN-MP-MS,Madhya Pradesh,Mandsaur,IN-MP,IN-MP-MS
+Madhya Pradesh,Singrauli,IN-MP,IN-MP-SN,Madhya Pradesh,Singrauli,IN-MP,IN-MP-SN
+Madhya Pradesh,Sidhi,IN-MP,IN-MP-SI,Madhya Pradesh,Sidhi,IN-MP,IN-MP-SI
+Madhya Pradesh,Sagar,IN-MP,IN-MP-SG,Madhya Pradesh,Sagar,IN-MP,IN-MP-SG
+Madhya Pradesh,Damoh,IN-MP,IN-MP-DM,Madhya Pradesh,Damoh,IN-MP,IN-MP-DM
+Madhya Pradesh,Shajapur,IN-MP,IN-MP-SJ,Madhya Pradesh,Shajapur,IN-MP,IN-MP-SJ
+Madhya Pradesh,Vidisha,IN-MP,IN-MP-VI,Madhya Pradesh,Vidisha,IN-MP,IN-MP-VI
+Madhya Pradesh,Rajgarh,IN-MP,IN-MP-RG,Madhya Pradesh,Rajgarh,IN-MP,IN-MP-RG
+Madhya Pradesh,Shahdol,IN-MP,IN-MP-SH,Madhya Pradesh,Shahdol,IN-MP,IN-MP-SH
+Madhya Pradesh,Katni,IN-MP,IN-MP-KA,Madhya Pradesh,Katni,IN-MP,IN-MP-KA
+Madhya Pradesh,Umaria,IN-MP,IN-MP-UM,Madhya Pradesh,Umaria,IN-MP,IN-MP-UM
+Madhya Pradesh,Ratlam,IN-MP,IN-MP-RL,Madhya Pradesh,Ratlam,IN-MP,IN-MP-RL
+Madhya Pradesh,Bhopal,IN-MP,IN-MP-BP,Madhya Pradesh,Bhopal,IN-MP,IN-MP-BP
+Madhya Pradesh,Ujjain,IN-MP,IN-MP-UJ,Madhya Pradesh,Ujjain,IN-MP,IN-MP-UJ
+Madhya Pradesh,Raisen,IN-MP,IN-MP-RS,Madhya Pradesh,Raisen,IN-MP,IN-MP-RS
+Madhya Pradesh,Sehore,IN-MP,IN-MP-SR,Madhya Pradesh,Sehore,IN-MP,IN-MP-SR
+Madhya Pradesh,Jabalpur,IN-MP,IN-MP-JA,Madhya Pradesh,Jabalpur,IN-MP,IN-MP-JA
+Madhya Pradesh,Dewas,IN-MP,IN-MP-DE,Madhya Pradesh,Dewas,IN-MP,IN-MP-DE
+Madhya Pradesh,Anuppur,IN-MP,IN-MP-AN,Madhya Pradesh,Anuppur,IN-MP,IN-MP-AN
+Madhya Pradesh,Jhabua,IN-MP,IN-MP-JH,Madhya Pradesh,Jhabua,IN-MP,IN-MP-JH
+Madhya Pradesh,Dindori,IN-MP,IN-MP-DI,Madhya Pradesh,Dindori,IN-MP,IN-MP-DI
+Madhya Pradesh,Narsimhapur,IN-MP,IN-MP-NA,Madhya Pradesh,Narsimhapur,IN-MP,IN-MP-NA
+Madhya Pradesh,Dhar,IN-MP,IN-MP-DH,Madhya Pradesh,Dhar,IN-MP,IN-MP-DH
+Madhya Pradesh,Indore,IN-MP,IN-MP-IN,Madhya Pradesh,Indore,IN-MP,IN-MP-IN
+Madhya Pradesh,Mandla,IN-MP,IN-MP-ML,Madhya Pradesh,Mandla,IN-MP,IN-MP-ML
+Madhya Pradesh,Hoshangabad,IN-MP,IN-MP-HO,Madhya Pradesh,Hoshangabad,IN-MP,IN-MP-HO
+Madhya Pradesh,Seoni,IN-MP,IN-MP-SO,Madhya Pradesh,Seoni,IN-MP,IN-MP-SO
+Madhya Pradesh,Alirajpur,IN-MP,IN-MP-AL,Madhya Pradesh,Alirajpur,IN-MP,IN-MP-AL
+Madhya Pradesh,Chhindwara,IN-MP,IN-MP-CN,Madhya Pradesh,Chhindwara,IN-MP,IN-MP-CN
+Madhya Pradesh,Harda,IN-MP,IN-MP-HA,Madhya Pradesh,Harda,IN-MP,IN-MP-HA
+Madhya Pradesh,West Nimar,IN-MP,IN-MP-WN,Madhya Pradesh,West Nimar,IN-MP,IN-MP-WN
+Madhya Pradesh,East Nimar,IN-MP,IN-MP-EN,Madhya Pradesh,East Nimar,IN-MP,IN-MP-EN
+Madhya Pradesh,Balaghat,IN-MP,IN-MP-BL,Madhya Pradesh,Balaghat,IN-MP,IN-MP-BL
+Madhya Pradesh,Barwani,IN-MP,IN-MP-BR,Madhya Pradesh,Barwani,IN-MP,IN-MP-BR
+NA,NA,NA,NA,Madhya Pradesh,Agar Malwa,IN-MP,NA
+Madhya Pradesh,Datia,IN-MP,IN-MP-DT,Madhya Pradesh,Datia,IN-MP,IN-MP-DT
+Madhya Pradesh,Chhatarpur,IN-MP,IN-MP-CT,Madhya Pradesh,Chhatarpur,IN-MP,IN-MP-CT
+Madhya Pradesh,Panna,IN-MP,IN-MP-PA,Madhya Pradesh,Panna,IN-MP,IN-MP-PA
+Madhya Pradesh,Betul,IN-MP,IN-MP-BE,Madhya Pradesh,Betul,IN-MP,IN-MP-BE
+NA,NA,NA,NA,Madhya Pradesh,Niwari,IN-MP,NA
+Gujarat,Valsad,IN-GJ,IN-GJ-VL,Gujarat,Valsad,IN-GJ,IN-GJ-VL
+Gujarat,Amreli,IN-GJ,IN-GJ-AM,Gujarat,Amreli,IN-GJ,IN-GJ-AM
+Gujarat,The Dangs,IN-GJ,IN-GJ-DG,Gujarat,The Dangs,IN-GJ,IN-GJ-DG
+Gujarat,Banas Kantha,IN-GJ,IN-GJ-BK,Gujarat,Banas Kantha,IN-GJ,IN-GJ-BK
+Gujarat,Patan,IN-GJ,IN-GJ-PA,Gujarat,Patan,IN-GJ,IN-GJ-PA
+Gujarat,Mahesana,IN-GJ,IN-GJ-MA,Gujarat,Mahesana,IN-GJ,IN-GJ-MA
+Gujarat,Gandhinagar,IN-GJ,IN-GJ-GA,Gujarat,Gandhinagar,IN-GJ,IN-GJ-GA
+Gujarat,Ahmadabad,IN-GJ,IN-GJ-AH,Gujarat,Ahmadabad,IN-GJ,IN-GJ-AH
+Gujarat,Panch Mahals,IN-GJ,IN-GJ-PM,Gujarat,Panch Mahals,IN-GJ,IN-GJ-PM
+Gujarat,Dohad,IN-GJ,IN-GJ-DA,Gujarat,Dohad,IN-GJ,IN-GJ-DA
+Gujarat,Vadodara,IN-GJ,IN-GJ-VD,Gujarat,Vadodara,IN-GJ,IN-GJ-VD
+Gujarat,Bharuch,IN-GJ,IN-GJ-BR,Gujarat,Bharuch,IN-GJ,IN-GJ-BR
+Gujarat,Porbandar,IN-GJ,IN-GJ-PO,Gujarat,Porbandar,IN-GJ,IN-GJ-PO
+Gujarat,Narmada,IN-GJ,IN-GJ-NR,Gujarat,Narmada,IN-GJ,IN-GJ-NR
+Gujarat,Surat,IN-GJ,IN-GJ-ST,Gujarat,Surat,IN-GJ,IN-GJ-ST
+Gujarat,Tapi,IN-GJ,IN-GJ-TA,Gujarat,Tapi,IN-GJ,IN-GJ-TA
+NA,NA,NA,NA,Gujarat,Aravalli,IN-GJ,NA
+NA,NA,NA,NA,Gujarat,Botad,IN-GJ,NA
+NA,NA,NA,NA,Gujarat,Chota Udaipur,IN-GJ,NA
+NA,NA,NA,NA,Gujarat,Mahisagar,IN-GJ,NA
+NA,NA,NA,NA,Gujarat,Gir Somnath,IN-GJ,NA
+Gujarat,Sabar Kantha,IN-GJ,IN-GJ-SK,Gujarat,Sabar Kantha,IN-GJ,IN-GJ-SK
+Gujarat,Kachchh,IN-GJ,IN-GJ-KA,Gujarat,Kachchh,IN-GJ,IN-GJ-KA
+Gujarat,Surendranagar,IN-GJ,IN-GJ-SN,Gujarat,Surendranagar,IN-GJ,IN-GJ-SN
+Gujarat,Rajkot,IN-GJ,IN-GJ-RA,Gujarat,Rajkot,IN-GJ,IN-GJ-RA
+Gujarat,Kheda,IN-GJ,IN-GJ-KH,Gujarat,Kheda,IN-GJ,IN-GJ-KH
+Gujarat,Anand,IN-GJ,IN-GJ-AN,Gujarat,Anand,IN-GJ,IN-GJ-AN
+Gujarat,Bhavnagar,IN-GJ,IN-GJ-BV,Gujarat,Bhavnagar,IN-GJ,IN-GJ-BV
+Gujarat,Junagadh,IN-GJ,IN-GJ-JU,Gujarat,Junagadh,IN-GJ,IN-GJ-JU
+Gujarat,Jamnagar,IN-GJ,IN-GJ-JA,Gujarat,Jamnagar,IN-GJ,IN-GJ-JA
+NA,NA,NA,NA,Gujarat,Devbhumi Dwarka,IN-GJ,NA
+NA,NA,NA,NA,Gujarat,Morbi,IN-GJ,NA
+Gujarat,Navsari,IN-GJ,IN-GJ-NV,Gujarat,Navsari,IN-GJ,IN-GJ-NV
+Daman & Diu,Daman,IN-DD,IN-DD-DA,Daman & Diu,Daman,IN-DD,IN-DD-DA
+Daman & Diu,Diu,IN-DD,IN-DD-DI,Daman & Diu,Diu,IN-DD,IN-DD-DI
+Dadra & Nagar Haveli,Dadra and Nagar Haveli,IN-DN,IN-DN-DN,Dadra & Nagar Haveli,Dadra & Nagar Haveli,IN-DN,IN-DN-DN
+Maharashtra,Gondiya,IN-MH,IN-MH-GO,Maharashtra,Gondiya,IN-MH,IN-MH-GO
+Maharashtra,Bhandara,IN-MH,IN-MH-BH,Maharashtra,Bhandara,IN-MH,IN-MH-BH
+Maharashtra,Jalgaon,IN-MH,IN-MH-JG,Maharashtra,Jalgaon,IN-MH,IN-MH-JG
+Maharashtra,Wardha,IN-MH,IN-MH-WR,Maharashtra,Wardha,IN-MH,IN-MH-WR
+Maharashtra,Buldana,IN-MH,IN-MH-BU,Maharashtra,Buldana,IN-MH,IN-MH-BU
+Maharashtra,Akola,IN-MH,IN-MH-AK,Maharashtra,Akola,IN-MH,IN-MH-AK
+Maharashtra,Nashik,IN-MH,IN-MH-NS,Maharashtra,Nashik,IN-MH,IN-MH-NS
+Maharashtra,Garhchiroli,IN-MH,IN-MH-GA,Maharashtra,Gadchiroli,IN-MH,IN-MH-GA
+Maharashtra,Washim,IN-MH,IN-MH-WS,Maharashtra,Washim,IN-MH,IN-MH-WS
+Maharashtra,Chandrapur,IN-MH,IN-MH-CH,Maharashtra,Chandrapur,IN-MH,IN-MH-CH
+Maharashtra,Yavatmal,IN-MH,IN-MH-YA,Maharashtra,Yavatmal,IN-MH,IN-MH-YA
+Maharashtra,Jalna,IN-MH,IN-MH-JN,Maharashtra,Jalna,IN-MH,IN-MH-JN
+Maharashtra,Ahmadnagar,IN-MH,IN-MH-AH,Maharashtra,Ahmadnagar,IN-MH,IN-MH-AH
+Maharashtra,Hingoli,IN-MH,IN-MH-HI,Maharashtra,Hingoli,IN-MH,IN-MH-HI
+Maharashtra,Nanded,IN-MH,IN-MH-ND,Maharashtra,Nanded,IN-MH,IN-MH-ND
+Maharashtra,Parbhani,IN-MH,IN-MH-PA,Maharashtra,Parbhani,IN-MH,IN-MH-PA
+Maharashtra,Pune,IN-MH,IN-MH-PU,Maharashtra,Pune,IN-MH,IN-MH-PU
+Maharashtra,Bid,IN-MH,IN-MH-BI,Maharashtra,Bid,IN-MH,IN-MH-BI
+Maharashtra,Mumbai,IN-MH,IN-MH-MC,Maharashtra,Mumbai,IN-MH,IN-MH-MC
+Maharashtra,Latur,IN-MH,IN-MH-LA,Maharashtra,Latur,IN-MH,IN-MH-LA
+Maharashtra,Osmanabad,IN-MH,IN-MH-OS,Maharashtra,Osmanabad,IN-MH,IN-MH-OS
+Maharashtra,Solapur,IN-MH,IN-MH-SO,Maharashtra,Solapur,IN-MH,IN-MH-SO
+Maharashtra,Satara,IN-MH,IN-MH-ST,Maharashtra,Satara,IN-MH,IN-MH-ST
+Maharashtra,Ratnagiri,IN-MH,IN-MH-RT,Maharashtra,Ratnagiri,IN-MH,IN-MH-RT
+Maharashtra,Sangli,IN-MH,IN-MH-SN,Maharashtra,Sangli,IN-MH,IN-MH-SN
+Maharashtra,Kolhapur,IN-MH,IN-MH-KO,Maharashtra,Kolhapur,IN-MH,IN-MH-KO
+Maharashtra,Sindhudurg,IN-MH,IN-MH-SI,Maharashtra,Sindhudurg,IN-MH,IN-MH-SI
+Maharashtra,Thane,IN-MH,IN-MH-TH,Maharashtra,Thane,IN-MH,IN-MH-TH
+NA,NA,NA,NA,Maharashtra,Palghar,IN-MH,NA
+Maharashtra,Nandurbar,IN-MH,IN-MH-NB,Maharashtra,Nandurbar,IN-MH,IN-MH-NB
+Maharashtra,Amravati,IN-MH,IN-MH-AM,Maharashtra,Amravati,IN-MH,IN-MH-AM
+Maharashtra,Dhule,IN-MH,IN-MH-DH,Maharashtra,Dhule,IN-MH,IN-MH-DH
+Maharashtra,Nagpur,IN-MH,IN-MH-NG,Maharashtra,Nagpur,IN-MH,IN-MH-NG
+Maharashtra,Aurangabad,IN-MH,IN-MH-AU,Maharashtra,Aurangabad,IN-MH,IN-MH-AU
+Maharashtra,Raigarh,IN-MH,IN-MH-RG,Maharashtra,Raigarh,IN-MH,IN-MH-RG
+Maharashtra,Mumbai Suburban,IN-MH,IN-MH-MS,Maharashtra,Mumbai Suburban,IN-MH,IN-MH-MS
+Andhra Pradesh,Srikakulam,IN-AP,IN-AP-SR,Andhra Pradesh,Srikakulam,IN-AP,IN-AP-SR
+Andhra Pradesh,Vizianagaram,IN-AP,IN-AP-VZ,Andhra Pradesh,Vizianagaram,IN-AP,IN-AP-VZ
+Andhra Pradesh,Visakhapatnam,IN-AP,IN-AP-VS,Andhra Pradesh,Visakhapatnam,IN-AP,IN-AP-VS
+Andhra Pradesh,Krishna,IN-AP,IN-AP-KR,Andhra Pradesh,Krishna,IN-AP,IN-AP-KR
+Andhra Pradesh,Guntur,IN-AP,IN-AP-GU,Andhra Pradesh,Guntur,IN-AP,IN-AP-GU
+Andhra Pradesh,East Godavari,IN-AP,IN-AP-EG,Andhra Pradesh,East Godavari,IN-AP,IN-AP-EG
+Andhra Pradesh,Prakasam,IN-AP,IN-AP-PR,Andhra Pradesh,Prakasam,IN-AP,IN-AP-PR
+Andhra Pradesh,Kurnool,IN-AP,IN-AP-KU,Andhra Pradesh,Kurnool,IN-AP,IN-AP-KU
+Andhra Pradesh,Anantapur,IN-AP,IN-AP-AN,Andhra Pradesh,Anantapur,IN-AP,IN-AP-AN
+Andhra Pradesh,Sri Potti Sriramulu Nellore,IN-AP,IN-AP-NE,Andhra Pradesh,Sri Potti Sriramulu Nellore,IN-AP,IN-AP-NE
+Andhra Pradesh,West Godavari,IN-AP,IN-AP-WG,Andhra Pradesh,West Godavari,IN-AP,IN-AP-WG
+Andhra Pradesh,Kadapa,IN-AP,IN-AP-CU,Andhra Pradesh,Y.S.R.,IN-AP,IN-AP-CU
+Andhra Pradesh,Chittoor,IN-AP,IN-AP-CH,Andhra Pradesh,Chittoor,IN-AP,IN-AP-CH
+Karnataka,Bidar,IN-KA,IN-KA-BD,Karnataka,Bidar,IN-KA,IN-KA-BD
+Karnataka,Gulbarga,IN-KA,IN-KA-GU,Karnataka,Kalaburagi,IN-KA,IN-KA-GU
+Karnataka,Belgaum,IN-KA,IN-KA-BG,Karnataka,Belagavi,IN-KA,IN-KA-BG
+Karnataka,Yadgir,IN-KA,IN-KA-YD,Karnataka,Yadgir,IN-KA,IN-KA-YD
+Karnataka,Bagalkot,IN-KA,IN-KA-BK,Karnataka,Bagalkote,IN-KA,IN-KA-BK
+Karnataka,Raichur,IN-KA,IN-KA-RA,Karnataka,Raichur,IN-KA,IN-KA-RA
+Karnataka,Koppal,IN-KA,IN-KA-KP,Karnataka,Koppal,IN-KA,IN-KA-KP
+Karnataka,Gadag,IN-KA,IN-KA-GA,Karnataka,Gadag,IN-KA,IN-KA-GA
+Karnataka,Bellary,IN-KA,IN-KA-BL,Karnataka,Ballari,IN-KA,IN-KA-BL
+Karnataka,Dharwad,IN-KA,IN-KA-DH,Karnataka,Dharwad,IN-KA,IN-KA-DH
+Karnataka,Uttara Kannada,IN-KA,IN-KA-UK,Karnataka,Uttara Kannada,IN-KA,IN-KA-UK
+Karnataka,Haveri,IN-KA,IN-KA-HV,Karnataka,Haveri,IN-KA,IN-KA-HV
+Karnataka,Chitradurga,IN-KA,IN-KA-CT,Karnataka,Chitradurga,IN-KA,IN-KA-CT
+Karnataka,Davanagere,IN-KA,IN-KA-DA,Karnataka,Davanagere,IN-KA,IN-KA-DA
+Karnataka,Shimoga,IN-KA,IN-KA-SH,Karnataka,Shivamogga,IN-KA,IN-KA-SH
+Karnataka,Udupi,IN-KA,IN-KA-UD,Karnataka,Udupi,IN-KA,IN-KA-UD
+Karnataka,Chikmagalur,IN-KA,IN-KA-CK,Karnataka,Chikkamagaluru,IN-KA,IN-KA-CK
+Karnataka,Chikkaballapura,IN-KA,IN-KA-CH,Karnataka,Chikkaballapura,IN-KA,IN-KA-CH
+Karnataka,Hassan,IN-KA,IN-KA-HS,Karnataka,Hassan,IN-KA,IN-KA-HS
+Karnataka,Kolar,IN-KA,IN-KA-KL,Karnataka,Kolar,IN-KA,IN-KA-KL
+Karnataka,Bangalore Rural,IN-KA,IN-KA-BR,Karnataka,Bengaluru Rural,IN-KA,IN-KA-BR
+Karnataka,Dakshina Kannada,IN-KA,IN-KA-DK,Karnataka,Dakshina Kannada,IN-KA,IN-KA-DK
+Karnataka,Bangalore,IN-KA,IN-KA-BN,Karnataka,Bangalore,IN-KA,IN-KA-BN
+Karnataka,Kodagu,IN-KA,IN-KA-KD,Karnataka,Kodagu,IN-KA,IN-KA-KD
+Karnataka,Chamrajnagar,IN-KA,IN-KA-CJ,Karnataka,Chamarajanagara,IN-KA,IN-KA-CJ
+Karnataka,Tumkur,IN-KA,IN-KA-TU,Karnataka,Tumakuru,IN-KA,IN-KA-TU
+Karnataka,Ramanagara,IN-KA,IN-KA-RM,Karnataka,Ramanagara,IN-KA,IN-KA-RM
+Karnataka,Mandya,IN-KA,IN-KA-MA,Karnataka,Mandya,IN-KA,IN-KA-MA
+Karnataka,Mysore,IN-KA,IN-KA-MY,Karnataka,Mysuru,IN-KA,IN-KA-MY
+Karnataka,Bijapur,IN-KA,IN-KA-BJ,Karnataka,Vijayapura,IN-KA,IN-KA-BJ
+Goa,North Goa,IN-GA,IN-GA-NG,Goa,North Goa,IN-GA,IN-GA-NG
+Goa,South Goa,IN-GA,IN-GA-SG,Goa,South Goa,IN-GA,IN-GA-SG
+Lakshadweep,Lakshadweep,IN-LD,IN-LD-LD,Lakshadweep,Lakshadweep,IN-LD,IN-LD-LD
+Kerala,Kasaragod,IN-KL,IN-KL-KS,Kerala,Kasaragod,IN-KL,IN-KL-KS
+Kerala,Wayanad,IN-KL,IN-KL-WA,Kerala,Wayanad,IN-KL,IN-KL-WA
+Kerala,Kozhikode,IN-KL,IN-KL-KZ,Kerala,Kozhikode,IN-KL,IN-KL-KZ
+Kerala,Malappuram,IN-KL,IN-KL-MA,Kerala,Malappuram,IN-KL,IN-KL-MA
+Kerala,Palakkad,IN-KL,IN-KL-PL,Kerala,Palakkad,IN-KL,IN-KL-PL
+Kerala,Thrissur,IN-KL,IN-KL-TS,Kerala,Thrissur,IN-KL,IN-KL-TS
+Kerala,Idukki,IN-KL,IN-KL-ID,Kerala,Idukki,IN-KL,IN-KL-ID
+Kerala,Ernakulam,IN-KL,IN-KL-ER,Kerala,Ernakulam,IN-KL,IN-KL-ER
+Kerala,Alappuzha,IN-KL,IN-KL-AL,Kerala,Alappuzha,IN-KL,IN-KL-AL
+Kerala,Kottayam,IN-KL,IN-KL-KT,Kerala,Kottayam,IN-KL,IN-KL-KT
+Kerala,Pathanamthitta,IN-KL,IN-KL-PT,Kerala,Pathanamthitta,IN-KL,IN-KL-PT
+Kerala,Kollam,IN-KL,IN-KL-KL,Kerala,Kollam,IN-KL,IN-KL-KL
+Kerala,Thiruvananthapuram,IN-KL,IN-KL-TV,Kerala,Thiruvananthapuram,IN-KL,IN-KL-TV
+Kerala,Kannur,IN-KL,IN-KL-KN,Kerala,Kannur,IN-KL,IN-KL-KN
+Tamil Nadu,Thiruvallur,IN-TN,IN-TN-TL,Tamil Nadu,Thiruvallur,IN-TN,IN-TN-TL
+Tamil Nadu,Chennai,IN-TN,IN-TN-CH,Tamil Nadu,Chennai,IN-TN,IN-TN-CH
+Tamil Nadu,Krishnagiri,IN-TN,IN-TN-KS,Tamil Nadu,Krishnagiri,IN-TN,IN-TN-KS
+Tamil Nadu,Tiruvannamalai,IN-TN,IN-TN-TV,Tamil Nadu,Tiruvannamalai,IN-TN,IN-TN-TV
+Tamil Nadu,Dharmapuri,IN-TN,IN-TN-DH,Tamil Nadu,Dharmapuri,IN-TN,IN-TN-DH
+Tamil Nadu,Salem,IN-TN,IN-TN-SA,Tamil Nadu,Salem,IN-TN,IN-TN-SA
+Tamil Nadu,Erode,IN-TN,IN-TN-ER,Tamil Nadu,Erode,IN-TN,IN-TN-ER
+Tamil Nadu,The Nilgiris,IN-TN,IN-TN-NI,Tamil Nadu,The Nilgiris,IN-TN,IN-TN-NI
+Tamil Nadu,Namakkal,IN-TN,IN-TN-NM,Tamil Nadu,Namakkal,IN-TN,IN-TN-NM
+Tamil Nadu,Perambalur,IN-TN,IN-TN-PE,Tamil Nadu,Perambalur,IN-TN,IN-TN-PE
+Tamil Nadu,Coimbatore,IN-TN,IN-TN-CO,Tamil Nadu,Coimbatore,IN-TN,IN-TN-CO
+Tamil Nadu,Tiruchirappalli,IN-TN,IN-TN-TC,Tamil Nadu,Tiruchirappalli,IN-TN,IN-TN-TC
+Tamil Nadu,Ariyalur,IN-TN,IN-TN-AR,Tamil Nadu,Ariyalur,IN-TN,IN-TN-AR
+Tamil Nadu,Tiruppur,IN-TN,IN-TN-TP,Tamil Nadu,Tiruppur,IN-TN,IN-TN-TP
+Tamil Nadu,Thanjavur,IN-TN,IN-TN-TJ,Tamil Nadu,Thanjavur,IN-TN,IN-TN-TJ
+Tamil Nadu,Karur,IN-TN,IN-TN-KR,Tamil Nadu,Karur,IN-TN,IN-TN-KR
+Tamil Nadu,Thiruvarur,IN-TN,IN-TN-TR,Tamil Nadu,Thiruvarur,IN-TN,IN-TN-TR
+Tamil Nadu,Dindigul,IN-TN,IN-TN-DI,Tamil Nadu,Dindigul,IN-TN,IN-TN-DI
+Tamil Nadu,Madurai,IN-TN,IN-TN-MA,Tamil Nadu,Madurai,IN-TN,IN-TN-MA
+Tamil Nadu,Theni,IN-TN,IN-TN-TH,Tamil Nadu,Theni,IN-TN,IN-TN-TH
+Tamil Nadu,Virudunagar,IN-TN,IN-TN-VR,Tamil Nadu,Virudhunagar,IN-TN,IN-TN-VR
+Tamil Nadu,Thoothukkudi,IN-TN,IN-TN-TK,Tamil Nadu,Thoothukkudi,IN-TN,IN-TN-TK
+Tamil Nadu,Kanniyakumari,IN-TN,IN-TN-KK,Tamil Nadu,Kanniyakumari,IN-TN,IN-TN-KK
+Tamil Nadu,Viluppuram,IN-TN,IN-TN-VL,Tamil Nadu,Viluppuram,IN-TN,IN-TN-VL
+Tamil Nadu,Cuddalore,IN-TN,IN-TN-CU,Tamil Nadu,Cuddalore,IN-TN,IN-TN-CU
+Tamil Nadu,Pudukkottai,IN-TN,IN-TN-PU,Tamil Nadu,Pudukkottai,IN-TN,IN-TN-PU
+Tamil Nadu,Sivaganga,IN-TN,IN-TN-SI,Tamil Nadu,Sivaganga,IN-TN,IN-TN-SI
+Tamil Nadu,Ramanathapuram,IN-TN,IN-TN-RA,Tamil Nadu,Ramanathapuram,IN-TN,IN-TN-RA
+Tamil Nadu,Nagappattinam,IN-TN,IN-TN-NG,Tamil Nadu,Nagapattinam,IN-TN,IN-TN-NG
+NA,NA,NA,NA,Tamil Nadu,Kallakurichi,IN-TN,NA
+NA,NA,NA,NA,Tamil Nadu,Tenkasi,IN-TN,NA
+Tamil Nadu,Tirunelveli,IN-TN,IN-TN-TI,Tamil Nadu,Tirunelveli,IN-TN,IN-TN-TI
+Tamil Nadu,Vellore,IN-TN,IN-TN-VE,Tamil Nadu,Vellore,IN-TN,IN-TN-VE
+NA,NA,NA,NA,Tamil Nadu,Ranipet,IN-TN,NA
+NA,NA,NA,NA,Tamil Nadu,Tirupathur,IN-TN,NA
+Tamil Nadu,Kancheepuram,IN-TN,IN-TN-KC,Tamil Nadu,Kancheepuram,IN-TN,IN-TN-KC
+NA,NA,NA,NA,Tamil Nadu,Chengalpattu,IN-TN,NA
+Puducherry,Puducherry,IN-PY,IN-PY-PO,Puducherry,Puducherry,IN-PY,IN-PY-PO
+Puducherry,Karaikal,IN-PY,IN-PY-KA,Puducherry,Karaikal,IN-PY,IN-PY-KA
+Puducherry,Mahe,IN-PY,IN-PY-MA,Puducherry,Mahe,IN-PY,IN-PY-MA
+Puducherry,Yanam,IN-PY,IN-PY-YA,Puducherry,Yanam,IN-PY,IN-PY-YA
+Andaman & Nicobar Islands,North and Middle Andaman,IN-AN,IN-AN-AN,Andaman & Nicobar Islands,North & Middle Andaman,IN-AN,IN-AN-AN
+Andaman & Nicobar Islands,South Andaman,IN-AN,IN-AN-AS,Andaman & Nicobar Islands,South Andaman,IN-AN,IN-AN-AS
+Andaman & Nicobar Islands,Nicobar,IN-AN,IN-AN-NI,Andaman & Nicobar Islands,Nicobars,IN-AN,IN-AN-NI
+Telangana,Adilabad,IN-TS,IN-TS-AD,Telangana,Adilabad,IN-TS,IN-TS-AD
+Telangana,Hyderabad,IN-TS,IN-TS-HY,Telangana,Hyderabad,IN-TS,IN-TS-HY
+NA,NA,NA,NA,Telangana,Jagitial,IN-TS,NA
+NA,NA,NA,NA,Telangana,Jangoan,IN-TS,NA
+NA,NA,NA,NA,Telangana,Mulugu,IN-TS,NA
+NA,NA,NA,NA,Telangana,Jogulamba Gadwal,IN-TS,NA
+NA,NA,NA,NA,Telangana,Kamareddy,IN-TS,NA
+Telangana,Karimnagar,IN-TS,IN-TS-KA,Telangana,Karimnagar,IN-TS,IN-TS-KA
+Telangana,Khammam,IN-TS,IN-TS-KH,Telangana,Khammam,IN-TS,IN-TS-KH
+NA,NA,NA,NA,Telangana,Kumuram Bheem Asifabad,IN-TS,NA
+NA,NA,NA,NA,Telangana,Mahabubabad,IN-TS,NA
+Telangana,Mahbubnagar,IN-TS,IN-TS-MA,Telangana,Mahabubnagar,IN-TS,IN-TS-MA
+NA,NA,NA,NA,Telangana,Mancherial,IN-TS,NA
+Telangana,Medak,IN-TS,IN-TS-ME,Telangana,Medak,IN-TS,IN-TS-ME
+NA,NA,NA,NA,Telangana,Medchal Malkajgiri,IN-TS,NA
+NA,NA,NA,NA,Telangana,Nagarkurnool,IN-TS,NA
+Telangana,Nalgonda,IN-TS,IN-TS-NA,Telangana,Nalgonda,IN-TS,IN-TS-NA
+NA,NA,NA,NA,Telangana,Nirmal,IN-TS,NA
+Telangana,Nizamabad,IN-TS,IN-TS-NI,Telangana,Nizamabad,IN-TS,IN-TS-NI
+NA,NA,NA,NA,Telangana,Peddapalli,IN-TS,NA
+NA,NA,NA,NA,Telangana,Rajanna Sircilla,IN-TS,NA
+Telangana,Rangareddy,IN-TS,IN-TS-RA,Telangana,Ranga Reddy,IN-TS,IN-TS-RA
+NA,NA,NA,NA,Telangana,Sangareddy,IN-TS,NA
+NA,NA,NA,NA,Telangana,Siddipet,IN-TS,NA
+NA,NA,NA,NA,Telangana,Suryapet,IN-TS,NA
+NA,NA,NA,NA,Telangana,Vikarabad,IN-TS,NA
+NA,NA,NA,NA,Telangana,Wanaparthy,IN-TS,NA
+NA,NA,NA,NA,Telangana,Warangal Rural,IN-TS,NA
+Telangana,Warangal,IN-TS,IN-TS-WA,Telangana,Warangal Urban,IN-TS,IN-TS-WA
+NA,NA,NA,NA,Telangana,Yadadri Bhuvanagiri,IN-TS,NA
+NA,NA,NA,NA,Telangana,Bhadradri Kothagudem,IN-TS,NA
+NA,NA,NA,NA,Telangana,Jayashankar,IN-TS,NA
+NA,NA,NA,NA,Telangana,Narayanpet,IN-TS,NA
+Jammu & Kashmir,Leh (ladakh),IN-JK,IN-JK-LE,Ladakh,Leh,NA,NA
+Jammu & Kashmir,Kargil,IN-JK,IN-JK-KR,Ladakh,Kargil,NA,NA
+Jammu & Kashmir,Pakistan-administered Kashmir,IN-JK,IN-JK-KM,NA,NA,NA,NA

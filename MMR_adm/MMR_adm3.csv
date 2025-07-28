@@ -1,0 +1,287 @@
+"OBJECTID","ID_0","ISO","NAME_0","ID_1","NAME_1","ID_2","NAME_2","ID_3","NAME_3","TYPE_3","ENGTYPE_3","NL_NAME_3","VARNAME_3"
+1,154,"MMR","Myanmar",1,"Ayeyarwady",1,"Bassein",1,"Bassein West","Village|Township","Village|Township",NA,NA
+2,154,"MMR","Myanmar",1,"Ayeyarwady",1,"Bassein",2,"Kyaunggon","Village|Township","Village|Township",NA,NA
+3,154,"MMR","Myanmar",1,"Ayeyarwady",1,"Bassein",3,"Kyonpyaw","Village|Township","Village|Township",NA,NA
+4,154,"MMR","Myanmar",1,"Ayeyarwady",1,"Bassein",4,"Ngaputaw","Village|Township","Village|Township",NA,NA
+5,154,"MMR","Myanmar",1,"Ayeyarwady",1,"Bassein",5,"Thabaung","Village|Township","Village|Township",NA,NA
+6,154,"MMR","Myanmar",1,"Ayeyarwady",1,"Bassein",6,"Yegyi","Village|Township","Village|Township",NA,NA
+7,154,"MMR","Myanmar",1,"Ayeyarwady",2,"Hinthada",7,"Danubyu","Village|Township","Village|Township",NA,NA
+8,154,"MMR","Myanmar",1,"Ayeyarwady",2,"Hinthada",8,"Henzada","Village|Township","Village|Township",NA,"Hinthada"
+9,154,"MMR","Myanmar",1,"Ayeyarwady",2,"Hinthada",9,"Ingapu","Village|Township","Village|Township",NA,NA
+10,154,"MMR","Myanmar",1,"Ayeyarwady",2,"Hinthada",10,"Kyangin","Village|Township","Village|Township",NA,"Kyankhin"
+11,154,"MMR","Myanmar",1,"Ayeyarwady",2,"Hinthada",11,"Lemyethna","Village|Township","Village|Township",NA,"Laymyethna"
+12,154,"MMR","Myanmar",1,"Ayeyarwady",2,"Hinthada",12,"Myanaung","Village|Township","Village|Township",NA,NA
+13,154,"MMR","Myanmar",1,"Ayeyarwady",2,"Hinthada",13,"Zalun","Village|Township","Village|Township",NA,NA
+14,154,"MMR","Myanmar",1,"Ayeyarwady",3,"Maubin",14,"Danubyu","Village|Township","Village|Township",NA,"Danuphyu"
+15,154,"MMR","Myanmar",1,"Ayeyarwady",3,"Maubin",15,"Irrawaddy","Village|Township","Village|Township",NA,NA
+16,154,"MMR","Myanmar",1,"Ayeyarwady",3,"Maubin",16,"Ma-Ubin","Village|Township","Village|Township",NA,"Maubin"
+17,154,"MMR","Myanmar",1,"Ayeyarwady",3,"Maubin",17,"Pantanaw","Village|Township","Village|Township",NA,NA
+18,154,"MMR","Myanmar",1,"Ayeyarwady",3,"Maubin",18,"Yandoon","Village|Township","Village|Township",NA,"Nyaungdon"
+19,154,"MMR","Myanmar",1,"Ayeyarwady",4,"Myoungmya",19,"Einme","Village|Township","Village|Township",NA,NA
+20,154,"MMR","Myanmar",1,"Ayeyarwady",4,"Myoungmya",20,"Labutta","Village|Township","Village|Township",NA,NA
+21,154,"MMR","Myanmar",1,"Ayeyarwady",4,"Myoungmya",21,"Moulmeingyun","Village|Township","Village|Township",NA,"Mawlamyinegyun"
+22,154,"MMR","Myanmar",1,"Ayeyarwady",4,"Myoungmya",22,"Myaungmya","Village|Township","Village|Township",NA,NA
+23,154,"MMR","Myanmar",1,"Ayeyarwady",4,"Myoungmya",23,"Wakema","Village|Township","Village|Township",NA,NA
+24,154,"MMR","Myanmar",1,"Ayeyarwady",5,"Pharpon",24,"Bogale","Village|Township","Village|Township",NA,"Bogalay"
+25,154,"MMR","Myanmar",1,"Ayeyarwady",5,"Pharpon",25,"Dedaye","Village|Township","Village|Township",NA,NA
+26,154,"MMR","Myanmar",1,"Ayeyarwady",5,"Pharpon",26,"Kyaiklat","Village|Township","Village|Township",NA,NA
+27,154,"MMR","Myanmar",1,"Ayeyarwady",5,"Pharpon",27,"Pyapon","Village|Township","Village|Township",NA,NA
+28,154,"MMR","Myanmar",2,"Bago",6,"Pegu",28,"Bago (Pegu)","Village|Township","Village|Township",NA,NA
+29,154,"MMR","Myanmar",2,"Bago",6,"Pegu",29,"Daik-U","Village|Township","Village|Township",NA,NA
+30,154,"MMR","Myanmar",2,"Bago",6,"Pegu",30,"Kawa","Village|Township","Village|Township",NA,NA
+31,154,"MMR","Myanmar",2,"Bago",6,"Pegu",31,"Kyauktaga","Village|Township","Village|Township",NA,NA
+32,154,"MMR","Myanmar",2,"Bago",6,"Pegu",32,"Nyaungiebin","Village|Township","Village|Township",NA,NA
+33,154,"MMR","Myanmar",2,"Bago",6,"Pegu",33,"Shwegyin","Village|Township","Village|Township",NA,NA
+34,154,"MMR","Myanmar",2,"Bago",6,"Pegu",34,"Thanatpin","Village|Township","Village|Township",NA,NA
+35,154,"MMR","Myanmar",2,"Bago",6,"Pegu",35,"Waw","Village|Township","Village|Township",NA,NA
+36,154,"MMR","Myanmar",2,"Bago",7,"Pyay",36,"Padaung","Village|Township","Village|Township",NA,NA
+37,154,"MMR","Myanmar",2,"Bago",7,"Pyay",37,"Paukkaung","Village|Township","Village|Township",NA,NA
+38,154,"MMR","Myanmar",2,"Bago",7,"Pyay",38,"Paungde","Village|Township","Village|Township",NA,NA
+39,154,"MMR","Myanmar",2,"Bago",7,"Pyay",39,"Prome","Village|Township","Village|Township",NA,NA
+40,154,"MMR","Myanmar",2,"Bago",7,"Pyay",40,"Shwedaung","Village|Township","Village|Township",NA,NA
+41,154,"MMR","Myanmar",2,"Bago",7,"Pyay",41,"Thegon","Village|Township","Village|Township",NA,NA
+42,154,"MMR","Myanmar",2,"Bago",8,"Taungoo",42,"Kyaukki","Village|Township","Village|Township",NA,NA
+43,154,"MMR","Myanmar",2,"Bago",8,"Taungoo",43,"Oktwin","Village|Township","Village|Township",NA,NA
+44,154,"MMR","Myanmar",2,"Bago",8,"Taungoo",44,"Pyu","Village|Township","Village|Township",NA,NA
+45,154,"MMR","Myanmar",2,"Bago",8,"Taungoo",45,"Tantabin","Village|Township","Village|Township",NA,NA
+46,154,"MMR","Myanmar",2,"Bago",8,"Taungoo",46,"Thoungoo","Village|Township","Village|Township",NA,NA
+47,154,"MMR","Myanmar",2,"Bago",8,"Taungoo",47,"Yedashe","Village|Township","Village|Township",NA,NA
+48,154,"MMR","Myanmar",2,"Bago",9,"Thayarwady",48,"Gyobingauk","Village|Township","Village|Township",NA,NA
+49,154,"MMR","Myanmar",2,"Bago",9,"Thayarwady",49,"Letpatan","Village|Township","Village|Township",NA,NA
+50,154,"MMR","Myanmar",2,"Bago",9,"Thayarwady",50,"Minhla","Village|Township","Village|Township",NA,NA
+51,154,"MMR","Myanmar",2,"Bago",9,"Thayarwady",51,"Monyo","Village|Township","Village|Township",NA,NA
+52,154,"MMR","Myanmar",2,"Bago",9,"Thayarwady",52,"Nattalin","Village|Township","Village|Township",NA,NA
+53,154,"MMR","Myanmar",2,"Bago",9,"Thayarwady",53,"Okpo","Village|Township","Village|Township",NA,NA
+54,154,"MMR","Myanmar",2,"Bago",9,"Thayarwady",54,"Tharrawaddy","Village|Township","Village|Township",NA,NA
+55,154,"MMR","Myanmar",2,"Bago",9,"Thayarwady",55,"Zigon","Village|Township","Village|Township",NA,NA
+56,154,"MMR","Myanmar",3,"Chin",10,"Mindat",56,"Kanpetlet","Village|Township","Village|Township",NA,NA
+57,154,"MMR","Myanmar",3,"Chin",10,"Mindat",57,"Matupi","Village|Township","Village|Township",NA,NA
+58,154,"MMR","Myanmar",3,"Chin",10,"Mindat",58,"Mindat","Village|Township","Village|Township",NA,NA
+59,154,"MMR","Myanmar",3,"Chin",10,"Mindat",59,"Paletwa","Village|Township","Village|Township",NA,NA
+60,154,"MMR","Myanmar",3,"Chin",11,"Palam",60,"Falam","Village|Township","Village|Township",NA,NA
+61,154,"MMR","Myanmar",3,"Chin",11,"Palam",61,"Haka","Village|Township","Village|Township",NA,NA
+62,154,"MMR","Myanmar",3,"Chin",11,"Palam",62,"Thlangtlang","Village|Township","Village|Township",NA,"Htlantlang"
+63,154,"MMR","Myanmar",3,"Chin",11,"Palam",63,"Tiddim","Village|Township","Village|Township",NA,"Tedim"
+64,154,"MMR","Myanmar",3,"Chin",11,"Palam",64,"Tonzang","Village|Township","Village|Township",NA,NA
+65,154,"MMR","Myanmar",4,"Kachin",12,"Bhamo",65,"Bhamo","Village|Township","Village|Township",NA,NA
+66,154,"MMR","Myanmar",4,"Kachin",12,"Bhamo",66,"Mansi","Village|Township","Village|Township",NA,NA
+67,154,"MMR","Myanmar",4,"Kachin",12,"Bhamo",67,"Momauk","Village|Township","Village|Township",NA,NA
+68,154,"MMR","Myanmar",4,"Kachin",12,"Bhamo",68,"Shwegu","Village|Township","Village|Township",NA,NA
+69,154,"MMR","Myanmar",4,"Kachin",13,"Myitkyina",69,"Chipwi","Village|Township","Village|Township",NA,NA
+70,154,"MMR","Myanmar",4,"Kachin",13,"Myitkyina",70,"Hsawlaw","Village|Township","Village|Township",NA,NA
+71,154,"MMR","Myanmar",4,"Kachin",13,"Myitkyina",71,"Kamaing","Village|Township","Village|Township",NA,NA
+72,154,"MMR","Myanmar",4,"Kachin",13,"Myitkyina",72,"Mogaung","Village|Township","Village|Township",NA,NA
+73,154,"MMR","Myanmar",4,"Kachin",13,"Myitkyina",73,"Mohnyin","Village|Township","Village|Township",NA,NA
+74,154,"MMR","Myanmar",4,"Kachin",13,"Myitkyina",74,"Myitkyina","Village|Township","Village|Township",NA,NA
+75,154,"MMR","Myanmar",4,"Kachin",13,"Myitkyina",75,"Njangyang","Village|Township","Village|Township",NA,NA
+76,154,"MMR","Myanmar",4,"Kachin",13,"Myitkyina",76,"Tanai","Village|Township","Village|Township",NA,NA
+77,154,"MMR","Myanmar",4,"Kachin",13,"Myitkyina",77,"Waingmaw","Village|Township","Village|Township",NA,NA
+78,154,"MMR","Myanmar",4,"Kachin",14,"Putao",78,"Khawbude","Village|Township","Village|Township",NA,NA
+79,154,"MMR","Myanmar",4,"Kachin",14,"Putao",79,"Machanbaw","Village|Township","Village|Township",NA,NA
+80,154,"MMR","Myanmar",4,"Kachin",14,"Putao",80,"Nogmung","Village|Township","Village|Township",NA,NA
+81,154,"MMR","Myanmar",4,"Kachin",14,"Putao",81,"Putao","Village|Township","Village|Township",NA,NA
+82,154,"MMR","Myanmar",4,"Kachin",14,"Putao",82,"Sumpranbum","Village|Township","Village|Township",NA,NA
+83,154,"MMR","Myanmar",5,"Kayah",15,"Bawlake",83,"Bawlakhe","Village|Township","Village|Township",NA,NA
+84,154,"MMR","Myanmar",5,"Kayah",15,"Bawlake",84,"Pasawng","Village|Township","Village|Township",NA,NA
+85,154,"MMR","Myanmar",5,"Kayah",16,"Loikaw",85,"Dimawhso","Village|Township","Village|Township",NA,NA
+86,154,"MMR","Myanmar",5,"Kayah",16,"Loikaw",86,"Hsataw","Village|Township","Village|Township",NA,NA
+87,154,"MMR","Myanmar",5,"Kayah",16,"Loikaw",87,"Loi-Kaw","Village|Township","Village|Township",NA,NA
+88,154,"MMR","Myanmar",5,"Kayah",16,"Loikaw",88,"Phruhso","Village|Township","Village|Township",NA,NA
+89,154,"MMR","Myanmar",6,"Kayin",17,"Hpa-an",89,"Kawkareik","Village|Township","Village|Township",NA,NA
+90,154,"MMR","Myanmar",6,"Kayin",17,"Hpa-an",90,"Kya-In Seikkyi","Village|Township","Village|Township",NA,NA
+91,154,"MMR","Myanmar",6,"Kayin",18,"Kawkareik",91,"Hlaingbwe","Village|Township","Village|Township",NA,NA
+92,154,"MMR","Myanmar",6,"Kayin",18,"Kawkareik",92,"Pa-An","Village|Township","Village|Township",NA,NA
+93,154,"MMR","Myanmar",6,"Kayin",18,"Kawkareik",93,"Papun","Village|Township","Village|Township",NA,NA
+94,154,"MMR","Myanmar",6,"Kayin",18,"Kawkareik",94,"Thandaung","Village|Township","Village|Township",NA,NA
+95,154,"MMR","Myanmar",6,"Kayin",19,"Myawady",95,"Myawadi","Village|Township","Village|Township",NA,NA
+96,154,"MMR","Myanmar",7,"Magway",20,"Magwe Minbu",96,"Chauk","Village|Township","Village|Township",NA,NA
+97,154,"MMR","Myanmar",7,"Magway",20,"Magwe Minbu",97,"Magwe","Village|Township","Village|Township",NA,NA
+98,154,"MMR","Myanmar",7,"Magway",20,"Magwe Minbu",98,"Myothit","Village|Township","Village|Township",NA,NA
+99,154,"MMR","Myanmar",7,"Magway",20,"Magwe Minbu",99,"Natmauk","Village|Township","Village|Township",NA,NA
+100,154,"MMR","Myanmar",7,"Magway",20,"Magwe Minbu",100,"Taungdwingyi","Village|Township","Village|Township",NA,NA
+101,154,"MMR","Myanmar",7,"Magway",20,"Magwe Minbu",101,"Yenangyaung","Village|Township","Village|Township",NA,NA
+102,154,"MMR","Myanmar",7,"Magway",21,"Minbu",102,"Minbu (Sagu)","Village|Township","Village|Township",NA,NA
+103,154,"MMR","Myanmar",7,"Magway",21,"Minbu",103,"Ngape","Village|Township","Village|Township",NA,NA
+104,154,"MMR","Myanmar",7,"Magway",21,"Minbu",104,"Pwinbyu","Village|Township","Village|Township",NA,NA
+105,154,"MMR","Myanmar",7,"Magway",21,"Minbu",105,"Salin","Village|Township","Village|Township",NA,NA
+106,154,"MMR","Myanmar",7,"Magway",21,"Minbu",106,"Sidoktaya","Village|Township","Village|Township",NA,NA
+107,154,"MMR","Myanmar",7,"Magway",22,"Pakokku",107,"Gangaw","Village|Township","Village|Township",NA,NA
+108,154,"MMR","Myanmar",7,"Magway",22,"Pakokku",108,"Htilin","Village|Township","Village|Township",NA,NA
+109,154,"MMR","Myanmar",7,"Magway",22,"Pakokku",109,"Myaing","Village|Township","Village|Township",NA,NA
+110,154,"MMR","Myanmar",7,"Magway",22,"Pakokku",110,"Pakokku","Village|Township","Village|Township",NA,NA
+111,154,"MMR","Myanmar",7,"Magway",22,"Pakokku",111,"Pauk","Village|Township","Village|Township",NA,NA
+112,154,"MMR","Myanmar",7,"Magway",22,"Pakokku",112,"Saw","Village|Township","Village|Township",NA,NA
+113,154,"MMR","Myanmar",7,"Magway",22,"Pakokku",113,"Seikpyu","Village|Township","Village|Township",NA,NA
+114,154,"MMR","Myanmar",7,"Magway",22,"Pakokku",114,"Yesagyo","Village|Township","Village|Township",NA,NA
+115,154,"MMR","Myanmar",7,"Magway",23,"Thayetmyo",115,"Kama","Village|Township","Village|Township",NA,NA
+116,154,"MMR","Myanmar",7,"Magway",23,"Thayetmyo",116,"Mindon","Village|Township","Village|Township",NA,NA
+117,154,"MMR","Myanmar",7,"Magway",23,"Thayetmyo",117,"Minhla","Village|Township","Village|Township",NA,NA
+118,154,"MMR","Myanmar",7,"Magway",23,"Thayetmyo",118,"Myayde (Aunglan)","Village|Township","Village|Township",NA,NA
+119,154,"MMR","Myanmar",7,"Magway",23,"Thayetmyo",119,"Sinbaungwe (Tantabin)","Village|Township","Village|Township",NA,NA
+120,154,"MMR","Myanmar",7,"Magway",23,"Thayetmyo",120,"Thayet","Village|Township","Village|Township",NA,NA
+121,154,"MMR","Myanmar",8,"Mandalay",24,"Kyaukse",121,"Kyaukse","Village|Township","Village|Township",NA,NA
+122,154,"MMR","Myanmar",8,"Mandalay",24,"Kyaukse",122,"Myitha","Village|Township","Village|Township",NA,NA
+123,154,"MMR","Myanmar",8,"Mandalay",24,"Kyaukse",123,"Singaing","Village|Township","Village|Township",NA,NA
+124,154,"MMR","Myanmar",8,"Mandalay",24,"Kyaukse",124,"Tada-U","Village|Township","Village|Township",NA,NA
+125,154,"MMR","Myanmar",8,"Mandalay",25,"Mandalay",125,"Amarapura","Village|Township","Village|Township",NA,NA
+126,154,"MMR","Myanmar",8,"Mandalay",25,"Mandalay",126,"Mandalay","Village|Township","Village|Township",NA,NA
+127,154,"MMR","Myanmar",8,"Mandalay",25,"Mandalay",127,"Maymyo","Village|Township","Village|Township",NA,NA
+128,154,"MMR","Myanmar",8,"Mandalay",25,"Mandalay",128,"Patheingyi","Village|Township","Village|Township",NA,NA
+129,154,"MMR","Myanmar",8,"Mandalay",26,"Meiktila",129,"Meiktila","Village|Township","Village|Township",NA,NA
+130,154,"MMR","Myanmar",8,"Mandalay",26,"Meiktila",130,"Pyawbwe","Village|Township","Village|Township",NA,NA
+131,154,"MMR","Myanmar",8,"Mandalay",26,"Meiktila",131,"Thazi","Village|Township","Village|Township",NA,NA
+132,154,"MMR","Myanmar",8,"Mandalay",26,"Meiktila",132,"Wudwin","Village|Township","Village|Township",NA,NA
+133,154,"MMR","Myanmar",8,"Mandalay",27,"Myingyan",133,"Kyaukpadaung","Village|Township","Village|Township",NA,NA
+134,154,"MMR","Myanmar",8,"Mandalay",27,"Myingyan",134,"Mahlaing","Village|Township","Village|Township",NA,NA
+135,154,"MMR","Myanmar",8,"Mandalay",27,"Myingyan",135,"Myingyan","Village|Township","Village|Township",NA,NA
+136,154,"MMR","Myanmar",8,"Mandalay",27,"Myingyan",136,"Natogyi","Village|Township","Village|Township",NA,NA
+137,154,"MMR","Myanmar",8,"Mandalay",27,"Myingyan",137,"Nyaungu","Village|Township","Village|Township",NA,NA
+138,154,"MMR","Myanmar",8,"Mandalay",27,"Myingyan",138,"Taungtha","Village|Township","Village|Township",NA,NA
+139,154,"MMR","Myanmar",8,"Mandalay",28,"Pyin-Oo-Lwin",139,"Madaya","Village|Township","Village|Township",NA,NA
+140,154,"MMR","Myanmar",8,"Mandalay",28,"Pyin-Oo-Lwin",140,"Mogok","Village|Township","Village|Township",NA,NA
+141,154,"MMR","Myanmar",8,"Mandalay",28,"Pyin-Oo-Lwin",141,"Singu","Village|Township","Village|Township",NA,NA
+142,154,"MMR","Myanmar",8,"Mandalay",28,"Pyin-Oo-Lwin",142,"Thabeikkyin","Village|Township","Village|Township",NA,NA
+143,154,"MMR","Myanmar",8,"Mandalay",29,"Yamethin",143,"Lewe","Village|Township","Village|Township",NA,NA
+144,154,"MMR","Myanmar",8,"Mandalay",29,"Yamethin",144,"Pyinmana","Village|Township","Village|Township",NA,NA
+145,154,"MMR","Myanmar",8,"Mandalay",29,"Yamethin",145,"Tatkon","Village|Township","Village|Township",NA,NA
+146,154,"MMR","Myanmar",8,"Mandalay",29,"Yamethin",146,"Yamethin","Village|Township","Village|Township",NA,NA
+147,154,"MMR","Myanmar",9,"Mon",30,"Mawlamyine",147,"Chaungzon","Village|Township","Village|Township",NA,NA
+148,154,"MMR","Myanmar",9,"Mon",30,"Mawlamyine",148,"Kyaikmaraw","Village|Township","Village|Township",NA,NA
+149,154,"MMR","Myanmar",9,"Mon",30,"Mawlamyine",149,"Moulmein","Village|Township","Village|Township",NA,"Mawlamyine"
+150,154,"MMR","Myanmar",9,"Mon",30,"Mawlamyine",150,"Mudon","Village|Township","Village|Township",NA,NA
+151,154,"MMR","Myanmar",9,"Mon",30,"Mawlamyine",151,"Thanbyuzayat","Village|Township","Village|Township",NA,NA
+152,154,"MMR","Myanmar",9,"Mon",30,"Mawlamyine",152,"Ye","Village|Township","Village|Township",NA,NA
+153,154,"MMR","Myanmar",9,"Mon",31,"Thaton",153,"Bilin","Village|Township","Village|Township",NA,NA
+154,154,"MMR","Myanmar",9,"Mon",31,"Thaton",154,"Kyaikto","Village|Township","Village|Township",NA,NA
+155,154,"MMR","Myanmar",9,"Mon",31,"Thaton",155,"Paung","Village|Township","Village|Township",NA,NA
+156,154,"MMR","Myanmar",9,"Mon",31,"Thaton",156,"Thaton","Village|Township","Village|Township",NA,NA
+157,154,"MMR","Myanmar",10,"Naypyitaw",32,"Naypyitaw",157,"Pyinmana","Village|Township","Village|Township",NA,NA
+158,154,"MMR","Myanmar",11,"Rakhine",33,"Buthidaung",158,"Buthidaung","Village|Township","Village|Township",NA,NA
+159,154,"MMR","Myanmar",11,"Rakhine",33,"Buthidaung",159,"Ponnagyun & Rathedaung","Village|Township","Village|Township",NA,NA
+160,154,"MMR","Myanmar",11,"Rakhine",33,"Buthidaung",160,"Sittwe (Akyab)","Village|Township","Village|Township",NA,NA
+161,154,"MMR","Myanmar",11,"Rakhine",34,"Kyaunkpyu",161,"An","Village|Township","Village|Township",NA,NA
+162,154,"MMR","Myanmar",11,"Rakhine",34,"Kyaunkpyu",162,"Kyaukpyu","Village|Township","Village|Township",NA,NA
+163,154,"MMR","Myanmar",11,"Rakhine",34,"Kyaunkpyu",163,"Man Aung","Village|Township","Village|Township",NA,NA
+164,154,"MMR","Myanmar",11,"Rakhine",34,"Kyaunkpyu",164,"Ramree","Village|Township","Village|Township",NA,NA
+165,154,"MMR","Myanmar",11,"Rakhine",35,"Maungtaw",165,"Maungdaw","Village|Township","Village|Township",NA,NA
+166,154,"MMR","Myanmar",11,"Rakhine",36,"Sittwe",166,"Kyauktaw","Village|Township","Village|Township",NA,NA
+167,154,"MMR","Myanmar",11,"Rakhine",36,"Sittwe",167,"Minbya","Village|Township","Village|Township",NA,NA
+168,154,"MMR","Myanmar",11,"Rakhine",36,"Sittwe",168,"Mrauk-Oo","Village|Township","Village|Township",NA,NA
+169,154,"MMR","Myanmar",11,"Rakhine",36,"Sittwe",169,"Myebon","Village|Township","Village|Township",NA,NA
+170,154,"MMR","Myanmar",11,"Rakhine",36,"Sittwe",170,"Pauktaw","Village|Township","Village|Township",NA,NA
+171,154,"MMR","Myanmar",11,"Rakhine",37,"Thandwe",171,"Arakan (Sandoway)","Village|Township","Village|Township",NA,NA
+172,154,"MMR","Myanmar",11,"Rakhine",37,"Thandwe",172,"Gwa","Village|Township","Village|Township",NA,NA
+173,154,"MMR","Myanmar",11,"Rakhine",37,"Thandwe",173,"Taungup","Village|Township","Village|Township",NA,NA
+174,154,"MMR","Myanmar",12,"Sagaing",38,"Hkamti",174,"Homalin","Village|Township","Village|Township",NA,NA
+175,154,"MMR","Myanmar",12,"Sagaing",38,"Hkamti",175,"Khamti","Village|Township","Village|Township",NA,NA
+176,154,"MMR","Myanmar",12,"Sagaing",38,"Hkamti",176,"Lahe","Village|Township","Village|Township",NA,NA
+177,154,"MMR","Myanmar",12,"Sagaing",38,"Hkamti",177,"Lashe","Village|Township","Village|Township",NA,NA
+178,154,"MMR","Myanmar",12,"Sagaing",38,"Hkamti",178,"Nanyun","Village|Township","Village|Township",NA,NA
+179,154,"MMR","Myanmar",12,"Sagaing",39,"Kalemyo",179,"Kale","Village|Township","Village|Township",NA,NA
+180,154,"MMR","Myanmar",12,"Sagaing",39,"Kalemyo",180,"Kalewa","Village|Township","Village|Township",NA,NA
+181,154,"MMR","Myanmar",12,"Sagaing",39,"Kalemyo",181,"Mingin","Village|Township","Village|Township",NA,NA
+182,154,"MMR","Myanmar",12,"Sagaing",40,"Katha",182,"Banmauk","Village|Township","Village|Township",NA,NA
+183,154,"MMR","Myanmar",12,"Sagaing",40,"Katha",183,"Indaw","Village|Township","Village|Township",NA,NA
+184,154,"MMR","Myanmar",12,"Sagaing",40,"Katha",184,"Katha","Village|Township","Village|Township",NA,NA
+185,154,"MMR","Myanmar",12,"Sagaing",40,"Katha",185,"Kawlin","Village|Township","Village|Township",NA,NA
+186,154,"MMR","Myanmar",12,"Sagaing",40,"Katha",186,"Pinlebu","Village|Township","Village|Township",NA,NA
+187,154,"MMR","Myanmar",12,"Sagaing",40,"Katha",187,"Tigyaing","Village|Township","Village|Township",NA,NA
+188,154,"MMR","Myanmar",12,"Sagaing",40,"Katha",188,"Wuntho","Village|Township","Village|Township",NA,NA
+189,154,"MMR","Myanmar",12,"Sagaing",41,"Mawleik",189,"Mawlaik","Village|Township","Village|Township",NA,NA
+190,154,"MMR","Myanmar",12,"Sagaing",41,"Mawleik",190,"Phaungbyin","Village|Township","Village|Township",NA,NA
+191,154,"MMR","Myanmar",12,"Sagaing",42,"Monywa",191,"Ayadaw","Village|Township","Village|Township",NA,NA
+192,154,"MMR","Myanmar",12,"Sagaing",42,"Monywa",192,"Budalin","Village|Township","Village|Township",NA,NA
+193,154,"MMR","Myanmar",12,"Sagaing",42,"Monywa",193,"Chaung-U","Village|Township","Village|Township",NA,NA
+194,154,"MMR","Myanmar",12,"Sagaing",42,"Monywa",194,"Kani","Village|Township","Village|Township",NA,NA
+195,154,"MMR","Myanmar",12,"Sagaing",42,"Monywa",195,"Monywa","Village|Township","Village|Township",NA,NA
+196,154,"MMR","Myanmar",12,"Sagaing",42,"Monywa",196,"Pale","Village|Township","Village|Township",NA,NA
+197,154,"MMR","Myanmar",12,"Sagaing",42,"Monywa",197,"Salingyi","Village|Township","Village|Township",NA,NA
+198,154,"MMR","Myanmar",12,"Sagaing",42,"Monywa",198,"Yinmabin","Village|Township","Village|Township",NA,NA
+199,154,"MMR","Myanmar",12,"Sagaing",43,"Sagaing",199,"Myaung","Village|Township","Village|Township",NA,NA
+200,154,"MMR","Myanmar",12,"Sagaing",43,"Sagaing",200,"Myinmu","Village|Township","Village|Township",NA,NA
+201,154,"MMR","Myanmar",12,"Sagaing",43,"Sagaing",201,"Ngazun","Village|Township","Village|Township",NA,NA
+202,154,"MMR","Myanmar",12,"Sagaing",43,"Sagaing",202,"Sagaing","Village|Township","Village|Township",NA,NA
+203,154,"MMR","Myanmar",12,"Sagaing",44,"Shwebo",203,"Kanbalu","Village|Township","Village|Township",NA,NA
+204,154,"MMR","Myanmar",12,"Sagaing",44,"Shwebo",204,"Khin-U","Village|Township","Village|Township",NA,NA
+205,154,"MMR","Myanmar",12,"Sagaing",44,"Shwebo",205,"Kyunhla","Village|Township","Village|Township",NA,NA
+206,154,"MMR","Myanmar",12,"Sagaing",44,"Shwebo",206,"Shwebo","Village|Township","Village|Township",NA,NA
+207,154,"MMR","Myanmar",12,"Sagaing",44,"Shwebo",207,"Tabayin","Village|Township","Village|Township",NA,NA
+208,154,"MMR","Myanmar",12,"Sagaing",44,"Shwebo",208,"Tantabin","Village|Township","Village|Township",NA,NA
+209,154,"MMR","Myanmar",12,"Sagaing",44,"Shwebo",209,"Taze","Village|Township","Village|Township",NA,NA
+210,154,"MMR","Myanmar",12,"Sagaing",44,"Shwebo",210,"Wetlet","Village|Township","Village|Township",NA,NA
+211,154,"MMR","Myanmar",12,"Sagaing",44,"Shwebo",211,"Ye-U","Village|Township","Village|Township",NA,NA
+212,154,"MMR","Myanmar",12,"Sagaing",45,"Tamu",212,"Tamu","Village|Township","Village|Township",NA,NA
+213,154,"MMR","Myanmar",13,"Shan",46,"Kengtung",213,"Keng Tung","Village|Township","Village|Township",NA,"Kengtung"
+214,154,"MMR","Myanmar",13,"Shan",46,"Kengtung",214,"Mong Yang","Village|Township","Village|Township",NA,NA
+215,154,"MMR","Myanmar",13,"Shan",46,"Kengtung",215,"Mongkhak","Village|Township","Village|Township",NA,"Mong Khet"
+216,154,"MMR","Myanmar",13,"Shan",47,"Kunlong",216,"Ho-Pang","Village|Township","Village|Township",NA,"Hopang"
+217,154,"MMR","Myanmar",13,"Shan",47,"Kunlong",217,"Kunlong","Village|Township","Village|Township",NA,NA
+218,154,"MMR","Myanmar",13,"Shan",48,"Kyaukme",218,"Hsipaw","Village|Township","Village|Township",NA,NA
+219,154,"MMR","Myanmar",13,"Shan",48,"Kyaukme",219,"Kyaukme","Village|Township","Village|Township",NA,NA
+220,154,"MMR","Myanmar",13,"Shan",48,"Kyaukme",220,"Mabein","Village|Township","Village|Township",NA,NA
+221,154,"MMR","Myanmar",13,"Shan",48,"Kyaukme",221,"Mong Mit","Village|Township","Village|Township",NA,NA
+222,154,"MMR","Myanmar",13,"Shan",48,"Kyaukme",222,"Namhsan","Village|Township","Village|Township",NA,NA
+223,154,"MMR","Myanmar",13,"Shan",48,"Kyaukme",223,"Namtu","Village|Township","Village|Township",NA,NA
+224,154,"MMR","Myanmar",13,"Shan",48,"Kyaukme",224,"Nawnghkio","Village|Township","Village|Township",NA,NA
+225,154,"MMR","Myanmar",13,"Shan",49,"Lasho",225,"Hsenwi","Village|Township","Village|Township",NA,"Hseni"
+226,154,"MMR","Myanmar",13,"Shan",49,"Lasho",226,"Lashio","Village|Township","Village|Township",NA,NA
+227,154,"MMR","Myanmar",13,"Shan",49,"Lasho",227,"Man Hpang","Village|Township","Village|Township",NA,NA
+228,154,"MMR","Myanmar",13,"Shan",49,"Lasho",228,"Mong Mao","Village|Township","Village|Township",NA,NA
+229,154,"MMR","Myanmar",13,"Shan",49,"Lasho",229,"Mong Yai","Village|Township","Village|Township",NA,NA
+230,154,"MMR","Myanmar",13,"Shan",49,"Lasho",230,"Nampan","Village|Township","Village|Township",NA,NA
+231,154,"MMR","Myanmar",13,"Shan",49,"Lasho",231,"Pang-Yang","Village|Township","Village|Township",NA,NA
+232,154,"MMR","Myanmar",13,"Shan",49,"Lasho",232,"Pangwaum","Village|Township","Village|Township",NA,NA
+233,154,"MMR","Myanmar",13,"Shan",49,"Lasho",233,"Tangyan","Village|Township","Village|Township",NA,NA
+234,154,"MMR","Myanmar",13,"Shan",50,"Lauking",234,"Kong-Kyan","Village|Township","Village|Township",NA,NA
+235,154,"MMR","Myanmar",13,"Shan",51,"Loilen",235,"Ke-Hsi","Village|Township","Village|Township",NA,NA
+236,154,"MMR","Myanmar",13,"Shan",51,"Loilen",236,"Kunhing","Village|Township","Village|Township",NA,NA
+237,154,"MMR","Myanmar",13,"Shan",51,"Loilen",237,"Lai-Hka","Village|Township","Village|Township",NA,NA
+238,154,"MMR","Myanmar",13,"Shan",51,"Loilen",238,"Langkho","Village|Township","Village|Township",NA,NA
+239,154,"MMR","Myanmar",13,"Shan",51,"Loilen",239,"Loi Lem","Village|Township","Village|Township",NA,"Loi Len"
+240,154,"MMR","Myanmar",13,"Shan",51,"Loilen",240,"Mawkmai","Village|Township","Village|Township",NA,NA
+241,154,"MMR","Myanmar",13,"Shan",51,"Loilen",241,"Mong Hsu","Village|Township","Village|Township",NA,NA
+242,154,"MMR","Myanmar",13,"Shan",51,"Loilen",242,"Mong Kung","Village|Township","Village|Township",NA,NA
+243,154,"MMR","Myanmar",13,"Shan",51,"Loilen",243,"Mong Nai","Village|Township","Village|Township",NA,NA
+244,154,"MMR","Myanmar",13,"Shan",51,"Loilen",244,"Mong Pan","Village|Township","Village|Township",NA,NA
+245,154,"MMR","Myanmar",13,"Shan",51,"Loilen",245,"Namsang","Village|Township","Village|Township",NA,"Nansang"
+246,154,"MMR","Myanmar",13,"Shan",52,"Mongphat",246,"Mong Hpayak","Village|Township","Village|Township",NA,NA
+247,154,"MMR","Myanmar",13,"Shan",52,"Mongphat",247,"Mong Yawng","Village|Township","Village|Township",NA,NA
+248,154,"MMR","Myanmar",13,"Shan",53,"Mongsat",248,"Mong Hsat","Village|Township","Village|Township",NA,NA
+249,154,"MMR","Myanmar",13,"Shan",53,"Mongsat",249,"Mong Ping","Village|Township","Village|Township",NA,NA
+250,154,"MMR","Myanmar",13,"Shan",53,"Mongsat",250,"Mong Tung","Village|Township","Village|Township",NA,NA
+251,154,"MMR","Myanmar",13,"Shan",54,"Muse",251,"Kutkai","Village|Township","Village|Township",NA,NA
+252,154,"MMR","Myanmar",13,"Shan",54,"Muse",252,"Mu-Se","Village|Township","Village|Township",NA,NA
+253,154,"MMR","Myanmar",13,"Shan",54,"Muse",253,"Namhkan","Village|Township","Village|Township",NA,NA
+254,154,"MMR","Myanmar",13,"Shan",55,"Tarchilaik",254,"Tachilek","Village|Township","Village|Township",NA,NA
+255,154,"MMR","Myanmar",13,"Shan",56,"Taunggye",255,"Ho-Pong","Village|Township","Village|Township",NA,"Hopong"
+256,154,"MMR","Myanmar",13,"Shan",56,"Taunggye",256,"Hsi Hseng","Village|Township","Village|Township",NA,NA
+257,154,"MMR","Myanmar",13,"Shan",56,"Taunggye",257,"Kalaw","Village|Township","Village|Township",NA,NA
+258,154,"MMR","Myanmar",13,"Shan",56,"Taunggye",258,"Lawksawk","Village|Township","Village|Township",NA,NA
+259,154,"MMR","Myanmar",13,"Shan",56,"Taunggye",259,"Pekhon","Village|Township","Village|Township",NA,"Pekon"
+260,154,"MMR","Myanmar",13,"Shan",56,"Taunggye",260,"Pindaya","Village|Township","Village|Township",NA,"Pingdaya"
+261,154,"MMR","Myanmar",13,"Shan",56,"Taunggye",261,"Pinlaung","Village|Township","Village|Township",NA,NA
+262,154,"MMR","Myanmar",13,"Shan",56,"Taunggye",262,"Taunggyi","Village|Township","Village|Township",NA,NA
+263,154,"MMR","Myanmar",13,"Shan",56,"Taunggye",263,"Yawunghwe","Village|Township","Village|Township",NA,"Nyaungshwe"
+264,154,"MMR","Myanmar",13,"Shan",56,"Taunggye",264,"Ye-Ngan","Village|Township","Village|Township",NA,"Ywangan"
+265,154,"MMR","Myanmar",14,"Tanintharyi",57,"Dawei",265,"Launglon","Village|Township","Village|Township",NA,NA
+266,154,"MMR","Myanmar",14,"Tanintharyi",57,"Dawei",266,"Tavoy","Village|Township","Village|Township",NA,NA
+267,154,"MMR","Myanmar",14,"Tanintharyi",57,"Dawei",267,"Thayetchaung","Village|Township","Village|Township",NA,NA
+268,154,"MMR","Myanmar",14,"Tanintharyi",57,"Dawei",268,"Yebyu","Village|Township","Village|Township",NA,NA
+269,154,"MMR","Myanmar",14,"Tanintharyi",58,"Kawthoung",269,"Bokpyin","Village|Township","Village|Township",NA,NA
+270,154,"MMR","Myanmar",14,"Tanintharyi",58,"Kawthoung",270,"Kawthaung","Village|Township","Village|Township",NA,NA
+271,154,"MMR","Myanmar",14,"Tanintharyi",59,"Mergui",271,"Mergui","Village|Township","Village|Township",NA,NA
+272,154,"MMR","Myanmar",14,"Tanintharyi",59,"Mergui",272,"Palaw","Village|Township","Village|Township",NA,NA
+273,154,"MMR","Myanmar",14,"Tanintharyi",59,"Mergui",273,"Tenasserim","Village|Township","Village|Township",NA,NA
+274,154,"MMR","Myanmar",15,"Yangon",60,"Yangon-E",274,"Yangon (Rangoon)","Village|Township","Village|Township",NA,NA
+275,154,"MMR","Myanmar",15,"Yangon",61,"Yangon-N",275,"Hlegu","Village|Township","Village|Township",NA,NA
+276,154,"MMR","Myanmar",15,"Yangon",61,"Yangon-N",276,"Hmawbi","Village|Township","Village|Township",NA,NA
+277,154,"MMR","Myanmar",15,"Yangon",61,"Yangon-N",277,"Htantabin","Village|Township","Village|Township",NA,NA
+278,154,"MMR","Myanmar",15,"Yangon",61,"Yangon-N",278,"Taikkyi","Village|Township","Village|Township",NA,NA
+279,154,"MMR","Myanmar",15,"Yangon",62,"Yangon-S",279,"Insein","Village|Township","Village|Township",NA,NA
+280,154,"MMR","Myanmar",15,"Yangon",62,"Yangon-S",280,"Kawkhmu","Village|Township","Village|Township",NA,NA
+281,154,"MMR","Myanmar",15,"Yangon",62,"Yangon-S",281,"Kayan","Village|Township","Village|Township",NA,NA
+282,154,"MMR","Myanmar",15,"Yangon",62,"Yangon-S",282,"Kungyangon","Village|Township","Village|Township",NA,NA
+283,154,"MMR","Myanmar",15,"Yangon",62,"Yangon-S",283,"Kyauktan","Village|Township","Village|Township",NA,NA
+284,154,"MMR","Myanmar",15,"Yangon",62,"Yangon-S",284,"Syriam","Village|Township","Village|Township",NA,NA
+285,154,"MMR","Myanmar",15,"Yangon",62,"Yangon-S",285,"Thongwa","Village|Township","Village|Township",NA,NA
+286,154,"MMR","Myanmar",15,"Yangon",63,"Yangon-W",286,"Yangon (Rangoon)","Village|Township","Village|Township",NA,NA

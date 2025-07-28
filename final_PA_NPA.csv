@@ -1,0 +1,82 @@
+"NAME","locations","criterion1.aggregations","criterion2.threatened","criterion3.nearthreatened"
+"Gulf of Mannar Marine","Manauli Island,Hare Island",NA,"Great Knot","Eurasian Curlew,Eurasian Oystercatcher"
+"Hastinapur","Haiderpur Wetlands and Bijnor Barrage",NA,NA,"Great Thick-knee,Eurasian Curlew,River Lapwing"
+"Kachchh Desert","Great Rann of Kachchh--Khadir Beyt Rd,Banni Grasslands--Lodai","53087,2245,5104,5123,11054","Sociable Lapwing",NA
+"Khijadia","Sachana Beach,Khijadiya Bird Sanctuary",NA,"Great Knot","Eurasian Oystercatcher,Eurasian Curlew"
+"Marine (Gulf of Kachchh)","Balachadi Beach,Khijadiya Bird Sanctuary,Marine NP--Narara,Saltpans on INS Valsura Rd,Marine NP--Pirotan Island,Saltpans on Navlakhi Port Rd","2316,2467,2465,2289,6257,2109,2466,4040,3459,3710,2168","Great Knot","Eurasian Curlew,Eurasian Oystercatcher,Great Thick-knee"
+"Nal Sarovar","Nalsarovar Bird Sanctuary","15024,2600,3355,2705","Sociable Lapwing",NA
+"Pabitora","Pobitora WLS",NA,NA,"Northern Lapwing"
+"Point Calimere","Point Calimere Wildlife Sanctuary",NA,NA,"Eurasian Curlew"
+"Pong Dam Lake","Pong Dam--Nagrota Surian,Pong Dam--Goglara",NA,NA,"River Lapwing,Great Thick-knee"
+"Pulicat Lake","Pulicat Lake","22351,3252,2434,3286,3308",NA,NA
+"Rajaji","Rajaji NP--Gohri Range,Rajaji NP--Kaudiya/Gangabhogpur",NA,NA,"River Lapwing,Great Thick-knee"
+"Ranganathittu Bird","Ranganathittu Bird Sanctuary",NA,NA,"Great Thick-knee"
+"Ranthambhore","Ranthambore NP",NA,NA,"Great Thick-knee"
+"Sajnakhali","Sunderbans Tiger Reserve",NA,NA,"Eurasian Curlew"
+"Wild Ass","Little Rann of Kachchh--Nanda East,Little Rann of Kachchh--West,Little Rann of Kachchh",NA,"Sociable Lapwing",NA
+"10161","Tuss Khadi Beach,Bhuigaon Beach,Gogte Saltpans,Datiware Beach,Agashi Suruchi",NA,"Great Knot","Eurasian Oystercatcher,Eurasian Curlew"
+"10291","Merces Beach,Bena Beach",NA,NA,"Eurasian Curlew"
+"10292","Bhandup Pumping Station,Thane creek Flamingo Sanctuary,Thane Creek","5755,3816,3541,7130,2127,3223,2029,4183,2999,2055",NA,"Eurasian Curlew"
+"10421","Sewri Jetty",NA,NA,"Eurasian Curlew"
+"10422","Panje,T.S. Chanakya Wetlands,Nerul Wetland Flamingo Point","4613,7976,2023,4182","Great Knot","Eurasian Curlew"
+"10552","Dronagiri",NA,NA,"Eurasian Curlew"
+"10681","Akshi Beach,Nagaon-Chaul Environs","2573,2460,2664","Great Knot",NA
+"11633","Kakinada Fishing Jetty","2326,4295,2802,3791","Great Knot","Eurasian Curlew"
+"11893","Magasanitippa",NA,"Great Knot",NA
+"12375","Chapora Estuary/Morjim Beach",NA,"Great Knot","Eurasian Curlew"
+"12506","Arossim Beach,Agacaim Tidal Mudflats",NA,"Great Knot",NA
+"13549","Kodi--Kundapura",NA,"Great Knot","Eurasian Curlew"
+"13679","Hoode beach,Gujjarbettu Beach,Padukere Beach,Thottam Beach,Malpe Beach",NA,"Great Knot",NA
+"13704","Pulicat Lake--Pazhaverkadu,Pulicat Lake--Annamalaicheri","2438,3785,2616,3258,3476,2107,4660,2259,2653","Great Knot","Eurasian Curlew,Asian Dowitcher"
+"13810","Chitrapu Estuary",NA,NA,"Eurasian Curlew"
+"13940","Sasihitlu Estuary",NA,"Great Knot",NA
+"13964","Adayaru Estuary,Pallikarnai Marsh,Sholinganallur/Perumbakkam Marshlands","2791,5049,3755,4409,3831,2844,3972,2836,2338,4162,2520,3539,2576,2071,2597,2805,2621,9653,3095,2283,4045,2285,2171,3020,4714,5430,2268,2053,2000",NA,NA
+"14094","Kelambakkam Backwaters,Amoor Lake,Muttukadu Backwaters,Siruthavur Lake",NA,NA,"Eurasian Curlew"
+"14353","Odiyur Lake",NA,NA,"Eurasian Curlew"
+"14482","Kaliveli Lake,Osudu / Ousteri Lake",NA,NA,"Eurasian Curlew"
+"14592","Muzhuppilangad Beach,Payyambalam Beach,Mappila Bay",NA,"Great Knot",NA
+"14593","Kizhunna Beach,Muzhappilangad Beach,Ezhara Beach",NA,"Great Knot",NA
+"14799","Jorakaan/Sippighat Wetlands,Ograbraj Wetlands",NA,NA,"Eurasian Curlew"
+"14854","Kappad--Thuvappara,Korapuzha Estuary,Kozhikode Beach",NA,"Great Knot",NA
+"14984","Kadalundy Estuary (Kadalundi Bird Sanctuary),South Beach",NA,NA,"Eurasian Curlew,Eurasian Oystercatcher"
+"15245","Edakkazhiyur Beach,Ponnani Beach,Chavakkad Puthan Kadappuram",NA,"Great Knot",NA
+"15376","Kole Wetlands--Manakodi,Kole Wetlands--Murppara,Kole Wetlands--Perumbuzha Padam (Enamavu--AWC Site),Kole Wetlands--Puzhakkal",NA,NA,"Eurasian Curlew"
+"15522","Point Calimere Wildlife Sanctuary--Saltpans,Point Calimere (Outside)",NA,NA,"Eurasian Curlew"
+"15636","Puthuvype--Beach,Vypin Beach",NA,"Great Knot",NA
+"15767","Changaram Wetlands--Ezhupunna,Kuttanad Wetlands--Poovathumkari,Kuttanadu Wetlands--Kallara--Paravanthuruthu,Kuttanadu Wetlands--Poovathikkari,Neendakara Wetlands--Ezhupunna,Pallithode wetlands--Thuravoor","2271,2079,3070,2103,4643,2574,5093,2860,2348,2539,5730,2207,2660,2175,2072,2610,2257,4960,3097,3376,2021,2412,2044,2134,2731",NA,"Eurasian Curlew"
+"15897","Kuttanad wetlands--Sasthankal,Vembanad Lake--Kollaam-Kottappuram Waterway,Vembanad Wetlands,Marari Beach","2025,5212",NA,NA
+"16027","Kuttanadu Wetlands--Kudavellari,Kuttanadu Wetlands--Melpadam,Kuttanadu Wetlands-Kudavallari,Kuttanadu Wetlands-Pallippad Parayankari Puncha,Kuttandu Wetlands--Thevarkadavu Puthanar,Thottappally Beach,Pallana Beach,Purakkadu Beach","2231,5035,3183,4951,2434,20294,2026,2222,2702,2746,2677,2421,2985,2790,4297,3487,12645,6351,5680,10961,3708,3936,15014,2418,13482,5840","Great Knot","Eurasian Curlew,Eurasian Oystercatcher"
+"16028","Kuttanadu Wetlands--Ayikkara Mukku-Vaniyamkadavu,Kuttanadu Wetlands--Vallomkadavu,Pallippad Parayankari Paddy Fields","4739,2019,10264,5120,2176,10163,2548,2319,2829,6627,7699,2269,2150,2219,40579,10205",NA,NA
+"2895","Pong Dam (Outside)",NA,NA,"River Lapwing,Great Thick-knee"
+"4205","Rampur Raighati Aht",NA,NA,"Great Thick-knee,River Lapwing"
+"4982","Surajpur Wetlands,Manjhawali",NA,NA,"River Lapwing,Eurasian Curlew"
+"5116","Ganga Khader Narora",NA,NA,"River Lapwing,Great Thick-knee"
+"5224","Jodbeer",NA,"Sociable Lapwing",NA
+"6024","National Chambal Sanctuary--Dhaulpur (RJ side),National Chambal Gharial Sanctuary--Morena (MP side)",NA,NA,"River Lapwing,Great Thick-knee"
+"6027","National Chambal Sanctuary--Jaitpur",NA,NA,"River Lapwing,Great Thick-knee"
+"6034","Ganga Shivrajpur,Ganga Hanumangarhi",NA,NA,"River Lapwing"
+"6070","Fulbari Wetlands JG",NA,NA,"Northern Lapwing"
+"6071","Gajoldoba Barrage JG",NA,NA,"Northern Lapwing,Great Thick-knee,River Lapwing"
+"7676","Banni Grasslands",NA,"Sociable Lapwing",NA
+"7677","Banni Grasslands--Hodka",NA,"Sociable Lapwing",NA
+"7805","NA",NA,"Sociable Lapwing",NA
+"7806","Banni grassland--Bhagadiya Thath,Chhari Dhandh Conservation Reserve",NA,"Sociable Lapwing",NA
+"7946","Little Rann of Kachchh--Nava Talav,Little Rann of Kachchh--Savda Talab",NA,"Sociable Lapwing",NA
+"8079","Thol Bird Sanctuary","2575,5051,2185,2190,2503",NA,NA
+"8196","Modhva Beach,Mandvi Beach,Dhrabudi Beach",NA,"Great Knot,Sociable Lapwing","Eurasian Curlew,Eurasian Oystercatcher,Great Thick-knee"
+"8198","Bhadreshwar Beach,Luni coast",NA,NA,"Eurasian Curlew,Eurasian Oystercatcher"
+"8208","Nalsarovar Outskirts--Aniyali,Nalsarovar Outskirts--Shahpur,Nal Sarovar Bird Sanctuary",NA,"Sociable Lapwing",NA
+"8209","Nalsarovar Outskirts--Changodar Area,Nalsarovar Outskirts--Adroda,Nal Sarovar Outskirts--Chhabasa,Nal Sarovar Outskirts--Jashapara",NA,"Sociable Lapwing",NA
+"8329","Balachadi Beach",NA,"Great Knot","Eurasian Curlew,Eurasian Oystercatcher"
+"8459","Bedi Port Rd",NA,"Great Knot","Eurasian Oystercatcher,Eurasian Curlew"
+"8470","Juni Akhol","4653,6107,3596,2482,4338,3143,3371",NA,NA
+"8716","Mendha Creek","5457,3000,2037",NA,NA
+"8858","Kumbharwada Wetland,Nava Bandar (New Port) Rd","2700,4279,2048,2632,5685,2800,2256,2335,2087,2379,2262,2039,3551,7106",NA,NA
+"8977","Mokarsagar Wetland Complex","3049,5690,27808,12733,2132,2490",NA,NA
+"8989","Haathab Beach,Mithi Viradi Coastal Area,Nishkalank Mahadev Beach",NA,NA,"Eurasian Curlew"
+"9054","Chandipur Beach",NA,"Great Knot","Eurasian Curlew"
+"9059","Jambudweep Sandbar",NA,NA,"Eurasian Curlew,Red Knot"
+"9060","Bakkhali Sea Beach,Kargil Sea Beach,Kalisthan Sea Beach,Henry's Island Sea Beach,Fraserganj Sargil Beach",NA,"Great Knot,Spoon-billed Sandpiper","Eurasian Curlew,Great Thick-knee"
+"9699","Mundali,Naraj",NA,NA,"River Lapwing,Great Thick-knee"
+"9900","Chinchani",NA,"Great Knot","Eurasian Curlew"
+"9957","Chilika Lake--Mangalajodi","3445,10073,2037,2738,2153,3342,2755,2052,5062,3135,2253,2084,2728,3725,2059,2083",NA,NA

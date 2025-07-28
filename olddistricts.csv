@@ -1,0 +1,636 @@
+STATE,STATE.CODE,OLD,COUNTY,COUNTY.CODE
+TAMIL NADU,IN-TN,Chennai,Chennai,IN-TN-CH
+HARYANA,IN-HR,Jhajjar,Jhajjar,IN-HR-JH
+GOA,IN-GA,North Goa,North Goa,IN-GA-NG
+TELANGANA,IN-TS,Hyderabad,Hyderabad,IN-TS-HY
+KERALA,IN-KL,Idukki,Idukki,IN-KL-ID
+KERALA,IN-KL,Thiruvananthapuram,Thiruvananthapuram,IN-KL-TV
+KARNATAKA,IN-KA,Mysore,Mysuru,IN-KA-MY
+RAJASTHAN,IN-RJ,Bhilwara,Bhilwara,IN-RJ-BW
+TELANGANA,IN-TS,Mahbubnagar,Mahabubnagar,IN-TS-MA
+MAHARASHTRA,IN-MH,Pune,Pune,IN-MH-PU
+UTTAR PRADESH,IN-UP,Agra,Agra,IN-UP-AG
+TELANGANA,IN-TS,Rangareddy,Ranga Reddy,IN-TS-RA
+JHARKHAND,IN-JH,Purbi Singhbhum,Purbi Singhbhum,IN-JH-ES
+KARNATAKA,IN-KA,Bangalore Rural,Bengaluru Rural,IN-KA-BR
+DELHI,IN-DL,South West Delhi,South West,IN-DL-SW
+KERALA,IN-KL,Malappuram,Malappuram,IN-KL-MA
+RAJASTHAN,IN-RJ,Bharatpur,Bharatpur,IN-RJ-BP
+MAHARASHTRA,IN-MH,Satara,Satara,IN-MH-ST
+KERALA,IN-KL,Palakkad,Palakkad,IN-KL-PL
+DELHI,IN-DL,South Delhi,South,IN-DL-SO
+ASSAM,IN-AS,Golaghat,Golaghat,IN-AS-GG
+WEST BENGAL,IN-WB,Darjiling,Darjiling,IN-WB-DA
+JAMMU & KASHMIR,IN-JK,Baramula,Baramula,IN-JK-BR
+CHHATTISGARH,IN-CT,Mahasamund,Mahasamund,IN-CT-MA
+TAMIL NADU,IN-TN,Nagappattinam,Nagapattinam,IN-TN-NG
+WEST BENGAL,IN-WB,Kolkata,Kolkata,IN-WB-KO
+GOA,IN-GA,South Goa,South Goa,IN-GA-SG
+MAHARASHTRA,IN-MH,Kolhapur,Kolhapur,IN-MH-KO
+MEGHALAYA,IN-ML,East Khasi Hills,East Khasi Hills,IN-ML-EK
+ARUNACHAL PRADESH,IN-AR,Changlang,Changlang,IN-AR-CH
+UTTARAKHAND,IN-UL,Hardwar,Hardwar,IN-UL-HA
+UTTAR PRADESH,IN-UP,Lucknow,Lucknow,IN-UP-LU
+TELANGANA,IN-TS,Medak,Medak,IN-TS-ME
+MAHARASHTRA,IN-MH,Mumbai,Mumbai,IN-MH-MC
+TAMIL NADU,IN-TN,Kancheepuram,Kancheepuram,IN-TN-KC
+UTTARAKHAND,IN-UL,Dehradun,Dehradun,IN-UL-DD
+RAJASTHAN,IN-RJ,Sawai Madhopur,Sawai Madhopur,IN-RJ-SM
+MADHYA PRADESH,IN-MP,Hoshangabad,Hoshangabad,IN-MP-HO
+MAHARASHTRA,IN-MH,Sangli,Sangli,IN-MH-SN
+TAMIL NADU,IN-TN,Coimbatore,Coimbatore,IN-TN-CO
+HIMACHAL PRADESH,IN-HP,Bilaspur,Bilaspur,IN-HP-BI
+DELHI,IN-DL,Central Delhi,Central,IN-DL-CE
+UTTARAKHAND,IN-UL,Nainital,Nainital,IN-UL-NA
+ARUNACHAL PRADESH,IN-AR,West Siang,West Siang,IN-AR-WS
+KERALA,IN-KL,Ernakulam,Ernakulam,IN-KL-ER
+ASSAM,IN-AS,Kamrup,Kamrup,IN-AS-KP
+MADHYA PRADESH,IN-MP,Sidhi,Sidhi,IN-MP-SI
+UTTARAKHAND,IN-UL,Chamoli,Chamoli,IN-UL-CL
+JAMMU & KASHMIR,IN-JK,Ganderbal,Ganderbal,IN-JK-GN
+TAMIL NADU,IN-TN,Tiruppur,Tiruppur,IN-TN-TP
+HARYANA,IN-HR,Gurgaon,Gurugram,IN-HR-GU
+CHHATTISGARH,IN-CT,Raigarh,Raigarh,IN-CT-RG
+BIHAR,IN-BR,Patna,Patna,IN-BR-PA
+KERALA,IN-KL,Kollam,Kollam,IN-KL-KL
+KARNATAKA,IN-KA,Mandya,Mandya,IN-KA-MA
+KARNATAKA,IN-KA,Bangalore,Bangalore,IN-KA-BN
+WEST BENGAL,IN-WB,South 24 Parganas,South Twenty Four Parganas,IN-WB-PS
+RAJASTHAN,IN-RJ,Jaisalmer,Jaisalmer,IN-RJ-JS
+GUJARAT,IN-GJ,Surendranagar,Surendranagar,IN-GJ-SN
+TAMIL NADU,IN-TN,Salem,Salem,IN-TN-SA
+UTTAR PRADESH,IN-UP,Gautam Buddha Nagar,Gautam Buddha Nagar,IN-UP-GB
+HIMACHAL PRADESH,IN-HP,Kangra,Kangra,IN-HP-KA
+JAMMU & KASHMIR,IN-JK,Anantnag,Anantnag,IN-JK-AN
+CHHATTISGARH,IN-CT,Raipur,Raipur,IN-CT-RP
+HIMACHAL PRADESH,IN-HP,Mandi,Mandi,IN-HP-MA
+UTTAR PRADESH,IN-UP,Mirzapur,Mirzapur,IN-UP-MI
+TAMIL NADU,IN-TN,Erode,Erode,IN-TN-ER
+MAHARASHTRA,IN-MH,Raigarh,Raigarh,IN-MH-RG
+GUJARAT,IN-GJ,Ahmadabad,Ahmadabad,IN-GJ-AH
+UTTARAKHAND,IN-UL,Garhwal,Garhwal,IN-UL-PG
+DELHI,IN-DL,East Delhi,East,IN-DL-EA
+KARNATAKA,IN-KA,Kodagu,Kodagu,IN-KA-KD
+MAHARASHTRA,IN-MH,Thane,Thane,IN-MH-TH
+KERALA,IN-KL,Thrissur,Thrissur,IN-KL-TS
+KERALA,IN-KL,Wayanad,Wayanad,IN-KL-WA
+TAMIL NADU,IN-TN,Thiruvallur,Thiruvallur,IN-TN-TL
+ASSAM,IN-AS,Baksa,Baksa,IN-AS-BK
+CHHATTISGARH,IN-CT,Durg,Durg,IN-CT-DU
+TAMIL NADU,IN-TN,Ramanathapuram,Ramanathapuram,IN-TN-RA
+ASSAM,IN-AS,Nagaon,Nagaon,IN-AS-NG
+WEST BENGAL,IN-WB,North 24 Parganas,North Twenty Four Parganas,IN-WB-PN
+ODISHA,IN-OR,Khordha,Khordha,IN-OR-KH
+JAMMU & KASHMIR,IN-JK,Leh (ladakh),Leh,IN-JK-LE
+HIMACHAL PRADESH,IN-HP,Kullu,Kullu,IN-HP-KU
+ASSAM,IN-AS,Tinsukia,Tinsukia,IN-AS-TI
+GUJARAT,IN-GJ,Kachchh,Kachchh,IN-GJ-KA
+CHHATTISGARH,IN-CT,Bastar,Bastar,IN-CT-BA
+KERALA,IN-KL,Kannur,Kannur,IN-KL-KN
+ASSAM,IN-AS,Sonitpur,Sonitpur,IN-AS-SO
+WEST BENGAL,IN-WB,Jalpaiguri,Jalpaiguri,IN-WB-JA
+UTTARAKHAND,IN-UL,Bageshwar,Bageshwar,IN-UL-BA
+HARYANA,IN-HR,Sonipat,Sonipat,IN-HR-SO
+DELHI,IN-DL,North Delhi,North,IN-DL-NO
+ANDHRA PRADESH,IN-AP,Sri Potti Sriramulu Nellore,Sri Potti Sriramulu Nellore,IN-AP-NE
+MADHYA PRADESH,IN-MP,Rewa,Rewa,IN-MP-RE
+MAHARASHTRA,IN-MH,Buldana,Buldana,IN-MH-BU
+ASSAM,IN-AS,Marigaon,Morigaon,IN-AS-MA
+CHHATTISGARH,IN-CT,Bilaspur,Bilaspur,IN-CT-BI
+MAHARASHTRA,IN-MH,Ahmadnagar,Ahmadnagar,IN-MH-AH
+UTTARAKHAND,IN-UL,Almora,Almora,IN-UL-AL
+CHHATTISGARH,IN-CT,Koriya,Koriya,IN-CT-KJ
+ANDHRA PRADESH,IN-AP,East Godavari,East Godavari,IN-AP-EG
+WEST BENGAL,IN-WB,Barddhaman,Barddhaman,IN-WB-BR
+MADHYA PRADESH,IN-MP,Balaghat,Balaghat,IN-MP-BL
+MADHYA PRADESH,IN-MP,Ujjain,Ujjain,IN-MP-UJ
+MIZORAM,IN-MZ,Mamit,Mamit,IN-MZ-MA
+GUJARAT,IN-GJ,Porbandar,Porbandar,IN-GJ-PO
+MADHYA PRADESH,IN-MP,Mandla,Mandla,IN-MP-ML
+KERALA,IN-KL,Kozhikode,Kozhikode,IN-KL-KZ
+MAHARASHTRA,IN-MH,Yavatmal,Yavatmal,IN-MH-YA
+KARNATAKA,IN-KA,Chikmagalur,Chikkamagaluru,IN-KA-CK
+ANDAMAN & NICOBAR ISLANDS,IN-AN,South Andaman,South Andaman,IN-AN-AS
+MADHYA PRADESH,IN-MP,Shahdol,Shahdol,IN-MP-SH
+ANDHRA PRADESH,IN-AP,Chittoor,Chittoor,IN-AP-CH
+MADHYA PRADESH,IN-MP,Anuppur,Anuppur,IN-MP-AN
+MAHARASHTRA,IN-MH,Amravati,Amravati,IN-MH-AM
+MAHARASHTRA,IN-MH,Mumbai Suburban,Mumbai Suburban,IN-MH-MS
+DELHI,IN-DL,New Delhi,New Delhi,IN-DL-ND
+ODISHA,IN-OR,Sambalpur,Sambalpur,IN-OR-SA
+JAMMU & KASHMIR,IN-JK,Pulwama,Pulwama,IN-JK-PU
+JAMMU & KASHMIR,IN-JK,Kupwara,Kupwara,IN-JK-KU
+KARNATAKA,IN-KA,Tumkur,Tumakuru,IN-KA-TU
+MAHARASHTRA,IN-MH,Aurangabad,Aurangabad,IN-MH-AU
+KARNATAKA,IN-KA,Shimoga,Shivamogga,IN-KA-SH
+JAMMU & KASHMIR,IN-JK,Kargil,Kargil,IN-JK-KR
+GUJARAT,IN-GJ,Rajkot,Rajkot,IN-GJ-RA
+JAMMU & KASHMIR,IN-JK,Kishtwar,Kishtwar,IN-JK-KS
+KARNATAKA,IN-KA,Bagalkot,Bagalkote,IN-KA-BK
+TELANGANA,IN-TS,Nizamabad,Nizamabad,IN-TS-NI
+KARNATAKA,IN-KA,Uttara Kannada,Uttara Kannada,IN-KA-UK
+MADHYA PRADESH,IN-MP,Panna,Panna,IN-MP-PA
+TAMIL NADU,IN-TN,The Nilgiris,The Nilgiris,IN-TN-NI
+MADHYA PRADESH,IN-MP,Umaria,Umaria,IN-MP-UM
+CHHATTISGARH,IN-CT,Dhamtari,Dhamtari,IN-CT-DH
+GUJARAT,IN-GJ,Mahesana,Mahesana,IN-GJ-MA
+PUDUCHERRY,IN-PY,Puducherry,Puducherry,IN-PY-PO
+ANDHRA PRADESH,IN-AP,Kadapa,Y.S.R.,IN-AP-CU
+TAMIL NADU,IN-TN,Krishnagiri,Krishnagiri,IN-TN-KS
+WEST BENGAL,IN-WB,Haora,Howrah,IN-WB-HR
+WEST BENGAL,IN-WB,Birbhum,Birbhum,IN-WB-BI
+ANDHRA PRADESH,IN-AP,Srikakulam,Srikakulam,IN-AP-SR
+WEST BENGAL,IN-WB,Nadia,Nadia,IN-WB-NA
+KERALA,IN-KL,Kottayam,Kottayam,IN-KL-KT
+KARNATAKA,IN-KA,Chamrajnagar,Chamarajanagara,IN-KA-CJ
+UTTARAKHAND,IN-UL,Tehri Garhwal,Tehri Garhwal,IN-UL-TG
+ARUNACHAL PRADESH,IN-AR,Lower Subansiri,Lower Subansiri,IN-AR-LB
+TELANGANA,IN-TS,Warangal,Warangal,IN-TS-WA
+ODISHA,IN-OR,Bhadrak,Bhadrak,IN-OR-BH
+JHARKHAND,IN-JH,Saraikela-kharsawan,Saraikela-kharsawan,IN-JH-SR
+MAHARASHTRA,IN-MH,Garhchiroli,Gadchiroli,IN-MH-GA
+ODISHA,IN-OR,Kendujhar,Kendujhar,IN-OR-KJ
+TAMIL NADU,IN-TN,Madurai,Madurai,IN-TN-MA
+CHHATTISGARH,IN-CT,Bijapur,Bijapur,IN-CT-BJ
+CHHATTISGARH,IN-CT,Korba,Korba,IN-CT-KB
+MADHYA PRADESH,IN-MP,Satna,Satna,IN-MP-ST
+MADHYA PRADESH,IN-MP,Bhopal,Bhopal,IN-MP-BP
+RAJASTHAN,IN-RJ,Rajsamand,Rajsamand,IN-RJ-RA
+KARNATAKA,IN-KA,Udupi,Udupi,IN-KA-UD
+UTTARAKHAND,IN-UL,Champawat,Champawat,IN-UL-CP
+CHHATTISGARH,IN-CT,Kabeerdham,Kabeerdham,IN-CT-KW
+RAJASTHAN,IN-RJ,Nagaur,Nagaur,IN-RJ-NA
+WEST BENGAL,IN-WB,Puruliya,Puruliya,IN-WB-PU
+UTTAR PRADESH,IN-UP,Kheri,Kheri,IN-UP-LK
+ANDHRA PRADESH,IN-AP,Vizianagaram,Vizianagaram,IN-AP-VZ
+JAMMU & KASHMIR,IN-JK,Bandipore,Bandipore,IN-JK-BN
+TAMIL NADU,IN-TN,Tirunelveli,Tirunelveli,IN-TN-TI
+ODISHA,IN-OR,Cuttack,Cuttack,IN-OR-CU
+RAJASTHAN,IN-RJ,Alwar,Alwar,IN-RJ-AL
+MAHARASHTRA,IN-MH,Chandrapur,Chandrapur,IN-MH-CH
+HIMACHAL PRADESH,IN-HP,Chamba,Chamba,IN-HP-CH
+TELANGANA,IN-TS,Nalgonda,Nalgonda,IN-TS-NA
+GUJARAT,IN-GJ,The Dangs,The Dangs,IN-GJ-DG
+SIKKIM,IN-SK,East Sikkim,East District,IN-SK-ES
+UTTAR PRADESH,IN-UP,Gorakhpur,Gorakhpur,IN-UP-GR
+TAMIL NADU,IN-TN,Viluppuram,Viluppuram,IN-TN-VL
+ODISHA,IN-OR,Mayurbhanj,Mayurbhanj,IN-OR-MY
+TAMIL NADU,IN-TN,Vellore,Vellore,IN-TN-VE
+CHHATTISGARH,IN-CT,Jashpur,Jashpur,IN-CT-JA
+RAJASTHAN,IN-RJ,Bikaner,Bikaner,IN-RJ-BI
+RAJASTHAN,IN-RJ,Chittaurgarh,Chittaurgarh,IN-RJ-CT
+MADHYA PRADESH,IN-MP,Singrauli,Singrauli,IN-MP-SN
+MAHARASHTRA,IN-MH,Washim,Washim,IN-MH-WS
+TAMIL NADU,IN-TN,Cuddalore,Cuddalore,IN-TN-CU
+ASSAM,IN-AS,Dhemaji,Dhemaji,IN-AS-DM
+RAJASTHAN,IN-RJ,Dhaulpur,Dhaulpur,IN-RJ-DH
+MAHARASHTRA,IN-MH,Sindhudurg,Sindhudurg,IN-MH-SI
+ANDHRA PRADESH,IN-AP,Kurnool,Kurnool,IN-AP-KU
+DELHI,IN-DL,North East Delhi,North East,IN-DL-NE
+UTTAR PRADESH,IN-UP,Unnao,Unnao,IN-UP-UN
+KARNATAKA,IN-KA,Koppal,Koppal,IN-KA-KP
+MAHARASHTRA,IN-MH,Nashik,Nashik,IN-MH-NS
+KARNATAKA,IN-KA,Ramanagara,Ramanagara,IN-KA-RM
+HARYANA,IN-HR,Panchkula,Panchkula,IN-HR-PK
+KERALA,IN-KL,Kasaragod,Kasaragod,IN-KL-KS
+ODISHA,IN-OR,Puri,Puri,IN-OR-PU
+CHHATTISGARH,IN-CT,Surguja,Surguja,IN-CT-SU
+ODISHA,IN-OR,Anugul,Anugul,IN-OR-AN
+ASSAM,IN-AS,Cachar,Cachar,IN-AS-CA
+MAHARASHTRA,IN-MH,Solapur,Solapur,IN-MH-SO
+HIMACHAL PRADESH,IN-HP,Solan,Solan,IN-HP-SO
+UTTARAKHAND,IN-UL,Udham Singh Nagar,Udham Singh Nagar,IN-UL-US
+SIKKIM,IN-SK,West Sikkim,West District,IN-SK-WS
+MADHYA PRADESH,IN-MP,Gwalior,Gwalior,IN-MP-GW
+GUJARAT,IN-GJ,Junagadh,Junagadh,IN-GJ-JU
+RAJASTHAN,IN-RJ,Jhunjhunun,Jhunjhunun,IN-RJ-JJ
+KARNATAKA,IN-KA,Chikkaballapura,Chikkaballapura,IN-KA-CH
+KARNATAKA,IN-KA,Hassan,Hassan,IN-KA-HS
+ODISHA,IN-OR,Kalahandi,Kalahandi,IN-OR-KL
+ODISHA,IN-OR,Nuapada,Nuapada,IN-OR-NU
+RAJASTHAN,IN-RJ,Jaipur,Jaipur,IN-RJ-JP
+GUJARAT,IN-GJ,Jamnagar,Jamnagar,IN-GJ-JA
+WEST BENGAL,IN-WB,Koch Bihar,Cooch Behar,IN-WB-KB
+ARUNACHAL PRADESH,IN-AR,Lower Dibang Valley,Lower Dibang Valley,IN-AR-LD
+ANDHRA PRADESH,IN-AP,Guntur,Guntur,IN-AP-GU
+HARYANA,IN-HR,Palwal,Palwal,IN-HR-PL
+GUJARAT,IN-GJ,Surat,Surat,IN-GJ-ST
+JAMMU & KASHMIR,IN-JK,Srinagar,Srinagar,IN-JK-SR
+TAMIL NADU,IN-TN,Dindigul,Dindigul,IN-TN-DI
+GUJARAT,IN-GJ,Panch Mahals,Panch Mahals,IN-GJ-PM
+ODISHA,IN-OR,Bargarh,Bargarh,IN-OR-BR
+ANDHRA PRADESH,IN-AP,Prakasam,Prakasam,IN-AP-PR
+KARNATAKA,IN-KA,Haveri,Haveri,IN-KA-HV
+TAMIL NADU,IN-TN,Kanniyakumari,Kanniyakumari,IN-TN-KK
+PUNJAB,IN-PB,Tarn Taran,Tarn Taran,IN-PB-TA
+HIMACHAL PRADESH,IN-HP,Shimla,Shimla,IN-HP-SH
+MADHYA PRADESH,IN-MP,Harda,Harda,IN-MP-HA
+ASSAM,IN-AS,Dibrugarh,Dibrugarh,IN-AS-DI
+RAJASTHAN,IN-RJ,Churu,Churu,IN-RJ-CR
+ASSAM,IN-AS,Dhubri,Dhubri,IN-AS-DB
+ASSAM,IN-AS,Kamrup Metropolitan,Kamrup Metropolitan,IN-AS-KM
+UTTAR PRADESH,IN-UP,Etah,Etah,IN-UP-ET
+KERALA,IN-KL,Alappuzha,Alappuzha,IN-KL-AL
+ASSAM,IN-AS,Darrang,Darrang,IN-AS-DA
+RAJASTHAN,IN-RJ,Ajmer,Ajmer,IN-RJ-AJ
+HARYANA,IN-HR,Rohtak,Rohtak,IN-HR-RO
+MADHYA PRADESH,IN-MP,Vidisha,Vidisha,IN-MP-VI
+CHHATTISGARH,IN-CT,Uttar Bastar Kanker,Uttar Bastar Kanker,IN-CT-KK
+MAHARASHTRA,IN-MH,Gondiya,Gondiya,IN-MH-GO
+RAJASTHAN,IN-RJ,Udaipur,Udaipur,IN-RJ-UD
+JAMMU & KASHMIR,IN-JK,Ramban,Ramban,IN-JK-RM
+UTTAR PRADESH,IN-UP,Shahjahanpur,Shahjahanpur,IN-UP-SJ
+UTTARAKHAND,IN-UL,Rudraprayag,Rudraprayag,IN-UL-RP
+MADHYA PRADESH,IN-MP,Sagar,Sagar,IN-MP-SG
+MADHYA PRADESH,IN-MP,Chhatarpur,Chhatarpur,IN-MP-CT
+KARNATAKA,IN-KA,Bellary,Ballari,IN-KA-BL
+MADHYA PRADESH,IN-MP,Seoni,Seoni,IN-MP-SO
+CHHATTISGARH,IN-CT,Dakshin Bastar Dantewada,Dakshin Bastar Dantewada,IN-CT-DA
+ANDHRA PRADESH,IN-AP,Visakhapatnam,Visakhapatnam,IN-AP-VS
+RAJASTHAN,IN-RJ,Jodhpur,Jodhpur,IN-RJ-JO
+WEST BENGAL,IN-WB,Uttar Dinajpur,Uttar Dinajpur,IN-WB-UD
+TAMIL NADU,IN-TN,Karur,Karur,IN-TN-KR
+UTTAR PRADESH,IN-UP,Bijnor,Bijnor,IN-UP-BI
+JAMMU & KASHMIR,IN-JK,Jammu,Jammu,IN-JK-JA
+GUJARAT,IN-GJ,Bhavnagar,Bhavnagar,IN-GJ-BV
+ANDHRA PRADESH,IN-AP,Anantapur,Anantapur,IN-AP-AN
+KARNATAKA,IN-KA,Belgaum,Belagavi,IN-KA-BG
+UTTAR PRADESH,IN-UP,Mathura,Mathura,IN-UP-MT
+JAMMU & KASHMIR,IN-JK,Pakistan-administered Kashmir,Pakistan-administered Kashmir,IN-JK-KM
+UTTAR PRADESH,IN-UP,Aligarh,Aligarh,IN-UP-AL
+PUNJAB,IN-PB,Amritsar,Amritsar,IN-PB-AM
+MIZORAM,IN-MZ,Champhai,Champhai,IN-MZ-CH
+ASSAM,IN-AS,Kokrajhar,Kokrajhar,IN-AS-KK
+CHHATTISGARH,IN-CT,Janjgir-champa,Janjgir - Champa,IN-CT-JC
+ANDAMAN & NICOBAR ISLANDS,IN-AN,Nicobar,Nicobars,IN-AN-NI
+TAMIL NADU,IN-TN,Dharmapuri,Dharmapuri,IN-TN-DH
+BIHAR,IN-BR,Gaya,Gaya,IN-BR-GA
+MADHYA PRADESH,IN-MP,Tikamgarh,Tikamgarh,IN-MP-TI
+TAMIL NADU,IN-TN,Theni,Theni,IN-TN-TH
+RAJASTHAN,IN-RJ,Tonk,Tonk,IN-RJ-TO
+ARUNACHAL PRADESH,IN-AR,Dibang Valley,Dibang Valley,IN-AR-UD
+UTTAR PRADESH,IN-UP,Ghaziabad,Ghaziabad,IN-UP-GZ
+MADHYA PRADESH,IN-MP,Sehore,Sehore,IN-MP-SR
+CHHATTISGARH,IN-CT,Rajnandgaon,Rajnandgaon,IN-CT-RN
+RAJASTHAN,IN-RJ,Sirohi,Sirohi,IN-RJ-SR
+ARUNACHAL PRADESH,IN-AR,Papum Pare,Papum Pare,IN-AR-PA
+CHHATTISGARH,IN-CT,Narayanpur,Narayanpur,IN-CT-NA
+HARYANA,IN-HR,Hisar,Hisar,IN-HR-HI
+MADHYA PRADESH,IN-MP,Indore,Indore,IN-MP-IN
+KARNATAKA,IN-KA,Davanagere,Davanagere,IN-KA-DA
+UTTAR PRADESH,IN-UP,Lalitpur,Lalitpur,IN-UP-LA
+GUJARAT,IN-GJ,Navsari,Navsari,IN-GJ-NV
+TAMIL NADU,IN-TN,Tiruchirappalli,Tiruchirappalli,IN-TN-TC
+LAKSHADWEEP,IN-LD,Lakshadweep,Lakshadweep,IN-LD-LD
+MADHYA PRADESH,IN-MP,Ratlam,Ratlam,IN-MP-RL
+UTTAR PRADESH,IN-UP,Jyotiba Phule Nagar,Amroha,IN-UP-JP
+JAMMU & KASHMIR,IN-JK,Rajouri,Rajouri,IN-JK-RA
+ASSAM,IN-AS,Barpeta,Barpeta,IN-AS-BA
+MADHYA PRADESH,IN-MP,Betul,Betul,IN-MP-BE
+KERALA,IN-KL,Pathanamthitta,Pathanamthitta,IN-KL-PT
+TAMIL NADU,IN-TN,Tiruvannamalai,Tiruvannamalai,IN-TN-TV
+MEGHALAYA,IN-ML,South Garo Hills,South Garo Hills,IN-ML-SG
+UTTAR PRADESH,IN-UP,Etawah,Etawah,IN-UP-EW
+TELANGANA,IN-TS,Karimnagar,Karimnagar,IN-TS-KA
+ANDAMAN & NICOBAR ISLANDS,IN-AN,North and Middle Andaman,North & Middle Andaman,IN-AN-AN
+HARYANA,IN-HR,Faridabad,Faridabad,IN-HR-FR
+ARUNACHAL PRADESH,IN-AR,West Kameng,West Kameng,IN-AR-WK
+UTTAR PRADESH,IN-UP,Muzaffarnagar,Muzaffarnagar,IN-UP-MU
+UTTAR PRADESH,IN-UP,Varanasi,Varanasi,IN-UP-VA
+MADHYA PRADESH,IN-MP,Jabalpur,Jabalpur,IN-MP-JA
+MEGHALAYA,IN-ML,Ri Bhoi,Ribhoi,IN-ML-RB
+WEST BENGAL,IN-WB,Pashchim Medinipur,Medinipur West,IN-WB-MW
+ANDHRA PRADESH,IN-AP,Krishna,Krishna,IN-AP-KR
+KARNATAKA,IN-KA,Yadgir,Yadgir,IN-KA-YD
+HARYANA,IN-HR,Rewari,Rewari,IN-HR-RE
+UTTAR PRADESH,IN-UP,Sultanpur,Sultanpur,IN-UP-SU
+TELANGANA,IN-TS,Khammam,Khammam,IN-TS-KH
+UTTARAKHAND,IN-UL,Uttarkashi,Uttarkashi,IN-UL-UT
+MADHYA PRADESH,IN-MP,Morena,Morena,IN-MP-MO
+HIMACHAL PRADESH,IN-HP,Sirmaur,Sirmaur,IN-HP-SI
+ASSAM,IN-AS,Dima Hasao,Dima Hasao,IN-AS-NC
+MAHARASHTRA,IN-MH,Ratnagiri,Ratnagiri,IN-MH-RT
+GUJARAT,IN-GJ,Anand,Anand,IN-GJ-AN
+HARYANA,IN-HR,Karnal,Karnal,IN-HR-KR
+MIZORAM,IN-MZ,Saiha,Saiha,IN-MZ-SA
+DELHI,IN-DL,North West Delhi,North West,IN-DL-NW
+KARNATAKA,IN-KA,Kolar,Kolar,IN-KA-KL
+MAHARASHTRA,IN-MH,Wardha,Wardha,IN-MH-WR
+TAMIL NADU,IN-TN,Namakkal,Namakkal,IN-TN-NM
+MADHYA PRADESH,IN-MP,Raisen,Raisen,IN-MP-RS
+ASSAM,IN-AS,Chirang,Chirang,IN-AS-CR
+ASSAM,IN-AS,Karbi Anglong,Karbi Anglong,IN-AS-KA
+RAJASTHAN,IN-RJ,Pali,Pali,IN-RJ-PA
+UTTAR PRADESH,IN-UP,Budaun,Budaun,IN-UP-BD
+HIMACHAL PRADESH,IN-HP,Lahul and Spiti,Lahul & Spiti,IN-HP-LS
+UTTAR PRADESH,IN-UP,Rampur,Rampur,IN-UP-RA
+MADHYA PRADESH,IN-MP,Dewas,Dewas,IN-MP-DE
+KARNATAKA,IN-KA,Gulbarga,Kalaburagi,IN-KA-GU
+BIHAR,IN-BR,Purnia,Purnia,IN-BR-PU
+MAHARASHTRA,IN-MH,Nagpur,Nagpur,IN-MH-NG
+ASSAM,IN-AS,Bongaigaon,Bongaigaon,IN-AS-BO
+BIHAR,IN-BR,Vaishali,Vaishali,IN-BR-VA
+RAJASTHAN,IN-RJ,Dungarpur,Dungarpur,IN-RJ-DU
+GUJARAT,IN-GJ,Vadodara,Vadodara,IN-GJ-VD
+TELANGANA,IN-TS,Adilabad,Adilabad,IN-TS-AD
+MADHYA PRADESH,IN-MP,Datia,Datia,IN-MP-DT
+MADHYA PRADESH,IN-MP,Shivpuri,Shivpuri,IN-MP-SV
+RAJASTHAN,IN-RJ,Sikar,Sikar,IN-RJ-SK
+MADHYA PRADESH,IN-MP,Dindori,Dindori,IN-MP-DI
+ODISHA,IN-OR,Jagatsinghapur,Jagatsinghapur,IN-OR-JS
+MIZORAM,IN-MZ,Aizawl,Aizawl,IN-MZ-AI
+ODISHA,IN-OR,Dhenkanal,Dhenkanal,IN-OR-DH
+MAHARASHTRA,IN-MH,Akola,Akola,IN-MH-AK
+UTTAR PRADESH,IN-UP,Moradabad,Moradabad,IN-UP-MO
+ASSAM,IN-AS,Jorhat,Jorhat,IN-AS-JO
+UTTAR PRADESH,IN-UP,Bareilly,Bareilly,IN-UP-BR
+RAJASTHAN,IN-RJ,Dausa,Dausa,IN-RJ-DA
+JAMMU & KASHMIR,IN-JK,Doda,Doda,IN-JK-DO
+SIKKIM,IN-SK,North Sikkim,North District,IN-SK-NS
+TAMIL NADU,IN-TN,Sivaganga,Sivaganga,IN-TN-SI
+MADHYA PRADESH,IN-MP,Chhindwara,Chhindwara,IN-MP-CN
+UTTAR PRADESH,IN-UP,Jhansi,Jhansi,IN-UP-JH
+ODISHA,IN-OR,Jajapur,Jajapur,IN-OR-JP
+BIHAR,IN-BR,Madhubani,Madhubani,IN-BR-MB
+JAMMU & KASHMIR,IN-JK,Kulgam,Kulgam,IN-JK-KL
+ASSAM,IN-AS,Sivasagar,Sivasagar,IN-AS-SI
+BIHAR,IN-BR,Darbhanga,Darbhanga,IN-BR-DA
+MIZORAM,IN-MZ,Serchhip,Serchhip,IN-MZ-SE
+MIZORAM,IN-MZ,Kolasib,Kolasib,IN-MZ-KO
+ARUNACHAL PRADESH,IN-AR,East Siang,East Siang,IN-AR-ES
+ODISHA,IN-OR,Debagarh,Debagarh,IN-OR-DE
+ODISHA,IN-OR,Ganjam,Ganjam,IN-OR-GN
+HIMACHAL PRADESH,IN-HP,Kinnaur,Kinnaur,IN-HP-KI
+BIHAR,IN-BR,Saran (chhapra),Saran,IN-BR-SR
+JHARKHAND,IN-JH,Ranchi,Ranchi,IN-JH-RA
+ASSAM,IN-AS,Lakhimpur,Lakhimpur,IN-AS-LA
+KARNATAKA,IN-KA,Bijapur,Bijapur,IN-KA-BJ
+MANIPUR,IN-MN,Ukhrul,Ukhrul,IN-MN-UK
+ARUNACHAL PRADESH,IN-AR,Lohit,Lohit,IN-AR-LO
+WEST BENGAL,IN-WB,Maldah,Maldah,IN-WB-MA
+UTTAR PRADESH,IN-UP,Kanpur Nagar,Kanpur Nagar,IN-UP-KN
+GUJARAT,IN-GJ,Kheda,Kheda,IN-GJ-KH
+TAMIL NADU,IN-TN,Virudunagar,Virudhunagar,IN-TN-VR
+WEST BENGAL,IN-WB,Hooghly,Hooghly,IN-WB-HG
+TAMIL NADU,IN-TN,Ariyalur,Ariyalur,IN-TN-AR
+MADHYA PRADESH,IN-MP,Shajapur,Shajapur,IN-MP-SJ
+HARYANA,IN-HR,Panipat,Panipat,IN-HR-PP
+WEST BENGAL,IN-WB,Bankura,Bankura,IN-WB-BN
+MANIPUR,IN-MN,Senapati,Senapati,IN-MN-SE
+MADHYA PRADESH,IN-MP,Dhar,Dhar,IN-MP-DH
+KARNATAKA,IN-KA,Dakshina Kannada,Dakshina Kannada,IN-KA-DK
+MADHYA PRADESH,IN-MP,Katni,Katni,IN-MP-KA
+MANIPUR,IN-MN,Bishnupur,Bishnupur,IN-MN-BI
+GUJARAT,IN-GJ,Sabar Kantha,Sabar Kantha,IN-GJ-SK
+SIKKIM,IN-SK,South Sikkim,South District,IN-SK-SS
+MEGHALAYA,IN-ML,West Khasi Hills,West Khasi Hills,IN-ML-WK
+WEST BENGAL,IN-WB,Murshidabad,Murshidabad,IN-WB-MU
+PUNJAB,IN-PB,Ludhiana,Ludhiana,IN-PB-LU
+MADHYA PRADESH,IN-MP,East Nimar,East Nimar,IN-MP-EN
+HARYANA,IN-HR,Yamunanagar,Yamunanagar,IN-HR-YN
+NAGALAND,IN-NL,Phek,Phek,IN-NL-PH
+JAMMU & KASHMIR,IN-JK,Udhampur,Udhampur,IN-JK-UD
+PUNJAB,IN-PB,Gurdaspur,Gurdaspur,IN-PB-GU
+HARYANA,IN-HR,Mewat,Nuh,IN-HR-ME
+UTTAR PRADESH,IN-UP,Faizabad,Faizabad,IN-UP-FZ
+MANIPUR,IN-MN,Thoubal,Thoubal,IN-MN-TH
+ARUNACHAL PRADESH,IN-AR,Kurung Kumey,Kurung Kumey,IN-AR-KK
+UTTAR PRADESH,IN-UP,Balrampur,Balrampur,IN-UP-BP
+PUNJAB,IN-PB,Hoshiarpur,Hoshiarpur,IN-PB-HO
+BIHAR,IN-BR,Kishanganj,Kishanganj,IN-BR-KI
+ODISHA,IN-OR,Gajapati,Gajapati,IN-OR-GP
+MANIPUR,IN-MN,Chandel,Chandel,IN-MN-CD
+PUNJAB,IN-PB,Jalandhar,Jalandhar,IN-PB-JA
+HIMACHAL PRADESH,IN-HP,Una,Una,IN-HP-UN
+ASSAM,IN-AS,Karimganj,Karimganj,IN-AS-KR
+CHANDIGARH,IN-CH,Chandigarh,Chandigarh,IN-CH-CH
+NAGALAND,IN-NL,Kohima,Kohima,IN-NL-KO
+PUNJAB,IN-PB,Firozpur,Firozpur,IN-PB-FI
+BIHAR,IN-BR,Muzaffarpur,Muzaffarpur,IN-BR-MZ
+UTTARAKHAND,IN-UL,Pithoragarh,Pithoragarh,IN-UL-PI
+ARUNACHAL PRADESH,IN-AR,East Kameng,East Kameng,IN-AR-EK
+DELHI,IN-DL,West Delhi,West,IN-DL-WE
+GUJARAT,IN-GJ,Banas Kantha,Banas Kantha,IN-GJ-BK
+KARNATAKA,IN-KA,Bidar,Bidar,IN-KA-BD
+GUJARAT,IN-GJ,Bharuch,Bharuch,IN-GJ-BR
+UTTAR PRADESH,IN-UP,Auraiya,Auraiya,IN-UP-AU
+UTTAR PRADESH,IN-UP,Firozabad,Firozabad,IN-UP-FI
+UTTAR PRADESH,IN-UP,Mahamaya Nagar,Hathras,IN-UP-HT
+GUJARAT,IN-GJ,Patan,Patan,IN-GJ-PA
+UTTAR PRADESH,IN-UP,Bulandshahr,Bulandshahr,IN-UP-BU
+KARNATAKA,IN-KA,Raichur,Raichur,IN-KA-RA
+TAMIL NADU,IN-TN,Thanjavur,Thanjavur,IN-TN-TJ
+RAJASTHAN,IN-RJ,Bundi,Bundi,IN-RJ-BU
+UTTAR PRADESH,IN-UP,Kanpur Dehat,Kanpur Dehat,IN-UP-KD
+BIHAR,IN-BR,Supaul,Supaul,IN-BR-SU
+JAMMU & KASHMIR,IN-JK,Kathua,Kathua,IN-JK-KT
+MAHARASHTRA,IN-MH,Bhandara,Bhandara,IN-MH-BH
+TAMIL NADU,IN-TN,Thoothukkudi,Thoothukkudi,IN-TN-TK
+MEGHALAYA,IN-ML,East Garo Hills,East Garo Hills,IN-ML-EG
+JHARKHAND,IN-JH,Chatra,Chatra,IN-JH-CH
+KARNATAKA,IN-KA,Gadag,Gadag,IN-KA-GA
+ARUNACHAL PRADESH,IN-AR,Tirap,Tirap,IN-AR-TI
+RAJASTHAN,IN-RJ,Jhalawar,Jhalawar,IN-RJ-JW
+ARUNACHAL PRADESH,IN-AR,Tawang,Tawang,IN-AR-TA
+HARYANA,IN-HR,Sirsa,Sirsa,IN-HR-SI
+MADHYA PRADESH,IN-MP,Sheopur,Sheopur,IN-MP-SP
+KARNATAKA,IN-KA,Dharwad,Dharwad,IN-KA-DH
+GUJARAT,IN-GJ,Amreli,Amreli,IN-GJ-AM
+PUNJAB,IN-PB,Sahibzada Ajit Singh Nagar,Sahibzada Ajit Singh Nagar,IN-PB-SH
+MADHYA PRADESH,IN-MP,Bhind,Bhind,IN-MP-BD
+JHARKHAND,IN-JH,Pashchimi Singhbhum,Pashchimi Singhbhum,IN-JH-WS
+MAHARASHTRA,IN-MH,Jalgaon,Jalgaon,IN-MH-JG
+UTTAR PRADESH,IN-UP,Bahraich,Bahraich,IN-UP-BH
+UTTAR PRADESH,IN-UP,Allahabad,Prayagraj,IN-UP-AH
+JHARKHAND,IN-JH,Sahibganj,Sahibganj,IN-JH-SA
+UTTAR PRADESH,IN-UP,Mainpuri,Mainpuri,IN-UP-MP
+ARUNACHAL PRADESH,IN-AR,Upper Siang,Upper Siang,IN-AR-US
+UTTAR PRADESH,IN-UP,Pratapgarh,Pratapgarh,IN-UP-PR
+WEST BENGAL,IN-WB,Dakshin Dinajpur,Dakshin Dinajpur,IN-WB-DD
+UTTAR PRADESH,IN-UP,Farrukhabad,Farrukhabad,IN-UP-FR
+RAJASTHAN,IN-RJ,Barmer,Barmer,IN-RJ-BM
+TAMIL NADU,IN-TN,Pudukkottai,Pudukkottai,IN-TN-PU
+JHARKHAND,IN-JH,Dumka,Dumka,IN-JH-DU
+UTTAR PRADESH,IN-UP,Rae Bareli,Rae Bareli,IN-UP-RB
+UTTAR PRADESH,IN-UP,Kannauj,Kannauj,IN-UP-KJ
+PUDUCHERRY,IN-PY,Yanam,Yanam,IN-PY-YA
+UTTAR PRADESH,IN-UP,Shrawasti,Shrawasti,IN-UP-SV
+UTTAR PRADESH,IN-UP,Chandauli,Chandauli,IN-UP-CD
+GUJARAT,IN-GJ,Gandhinagar,Gandhinagar,IN-GJ-GA
+KARNATAKA,IN-KA,Chitradurga,Chitradurga,IN-KA-CT
+ASSAM,IN-AS,Udalguri,Udalguri,IN-AS-UD
+MAHARASHTRA,IN-MH,Dhule,Dhule,IN-MH-DH
+BIHAR,IN-BR,Aurangabad,Aurangabad,IN-BR-AU
+TAMIL NADU,IN-TN,Thiruvarur,Thiruvarur,IN-TN-TR
+PUNJAB,IN-PB,Shahid Bhagat Singh Nagar,Shahid Bhagat Singh Nagar,IN-PB-NS
+JAMMU & KASHMIR,IN-JK,Shupiyan,Shupiyan,IN-JK-SH
+JHARKHAND,IN-JH,Hazaribagh,Hazaribagh,IN-JH-HA
+WEST BENGAL,IN-WB,Purba Medinipur,Purba Medinipur,IN-WB-ME
+PUNJAB,IN-PB,Mansa,Mansa,IN-PB-MA
+DAMAN & DIU,IN-DD,Diu,Diu,IN-DD-DI
+ANDHRA PRADESH,IN-AP,West Godavari,West Godavari,IN-AP-WG
+RAJASTHAN,IN-RJ,Kota,Kota,IN-RJ-KO
+PUNJAB,IN-PB,Patiala,Patiala,IN-PB-PA
+GUJARAT,IN-GJ,Dohad,Dohad,IN-GJ-DA
+RAJASTHAN,IN-RJ,Ganganagar,Ganganagar,IN-RJ-GA
+PUNJAB,IN-PB,Rupnagar,Rupnagar,IN-PB-RU
+UTTAR PRADESH,IN-UP,Basti,Basti,IN-UP-BS
+MANIPUR,IN-MN,Imphal East,Imphal East,IN-MN-EI
+UTTAR PRADESH,IN-UP,Maharajganj,Mahrajganj,IN-UP-MG
+UTTAR PRADESH,IN-UP,Sitapur,Sitapur,IN-UP-SI
+BIHAR,IN-BR,Nalanda,Nalanda,IN-BR-NL
+MAHARASHTRA,IN-MH,Hingoli,Hingoli,IN-MH-HI
+ODISHA,IN-OR,Kendrapara,Kendrapara,IN-OR-KP
+MEGHALAYA,IN-ML,West Garo Hills,West Garo Hills,IN-ML-WG
+UTTAR PRADESH,IN-UP,Bara Banki,Bara Banki,IN-UP-BB
+PUNJAB,IN-PB,Kapurthala,Kapurthala,IN-PB-KA
+JAMMU & KASHMIR,IN-JK,Badgam,Badgam,IN-JK-BD
+TRIPURA,IN-TR,West Tripura,West Tripura,IN-TR-WT
+MIZORAM,IN-MZ,Lawangtlai,Lawngtlai,IN-MZ-LA
+TRIPURA,IN-TR,North Tripura,North Tripura,IN-TR-NT
+ODISHA,IN-OR,Malkangiri,Malkangiri,IN-OR-ML
+TRIPURA,IN-TR,South Tripura,South Tripura,IN-TR-ST
+BIHAR,IN-BR,Bhagalpur,Bhagalpur,IN-BR-BG
+MAHARASHTRA,IN-MH,Osmanabad,Osmanabad,IN-MH-OS
+HARYANA,IN-HR,Bhiwani,Bhiwani,IN-HR-BH
+RAJASTHAN,IN-RJ,Jalor,Jalor,IN-RJ-JL
+UTTAR PRADESH,IN-UP,Hardoi,Hardoi,IN-UP-HR
+UTTAR PRADESH,IN-UP,Kansiram Nagar,Kasganj,IN-UP-KM
+UTTAR PRADESH,IN-UP,Kaushambi,Kaushambi,IN-UP-KS
+MAHARASHTRA,IN-MH,Bid,Bid,IN-MH-BI
+MAHARASHTRA,IN-MH,Nandurbar,Nandurbar,IN-MH-NB
+HARYANA,IN-HR,Ambala,Ambala,IN-HR-AM
+ODISHA,IN-OR,Baleshwar,Baleshwar,IN-OR-BW
+DADRA & NAGAR HAVELI,IN-DN,Dadra and Nagar Haveli,Dadra & Nagar Haveli,IN-DN-DN
+UTTAR PRADESH,IN-UP,Pilibhit,Pilibhit,IN-UP-PI
+NAGALAND,IN-NL,Wokha,Wokha,IN-NL-WO
+GUJARAT,IN-GJ,Narmada,Narmada,IN-GJ-NR
+NAGALAND,IN-NL,Mokokchung,Mokokchung,IN-NL-MK
+MADHYA PRADESH,IN-MP,Narsimhapur,Narsimhapur,IN-MP-NA
+MEGHALAYA,IN-ML,Jaintia Hills,Jaintia Hills,IN-ML-JH
+UTTAR PRADESH,IN-UP,Azamgarh,Azamgarh,IN-UP-AZ
+UTTAR PRADESH,IN-UP,Chitrakoot,Chitrakoot,IN-UP-CT
+MAHARASHTRA,IN-MH,Nanded,Nanded,IN-MH-ND
+RAJASTHAN,IN-RJ,Pratapgarh,Pratapgarh,IN-RJ-PR
+ARUNACHAL PRADESH,IN-AR,Anjaw,Anjaw,IN-AR-AN
+MAHARASHTRA,IN-MH,Jalna,Jalna,IN-MH-JN
+UTTAR PRADESH,IN-UP,Meerut,Meerut,IN-UP-ME
+DAMAN & DIU,IN-DD,Daman,Daman,IN-DD-DA
+ODISHA,IN-OR,Bauda,Baudh,IN-OR-BD
+UTTAR PRADESH,IN-UP,Hamirpur,Hamirpur,IN-UP-HM
+MADHYA PRADESH,IN-MP,Burhanpur,Burhanpur,IN-MP-BU
+JAMMU & KASHMIR,IN-JK,Reasi,Reasi,IN-JK-RE
+NAGALAND,IN-NL,Zunheboto,Zunheboto,IN-NL-ZU
+ASSAM,IN-AS,Nalbari,Nalbari,IN-AS-NL
+NAGALAND,IN-NL,Kiphire,Kiphire,IN-NL-KI
+MANIPUR,IN-MN,Churachandpur,Churachandpur,IN-MN-CC
+JHARKHAND,IN-JH,Dhanbad,Dhanbad,IN-JH-DH
+MAHARASHTRA,IN-MH,Latur,Latur,IN-MH-LA
+ODISHA,IN-OR,Koraput,Koraput,IN-OR-KO
+ODISHA,IN-OR,Rayagada,Rayagada,IN-OR-RA
+JAMMU & KASHMIR,IN-JK,Punch,Punch,IN-JK-PO
+GUJARAT,IN-GJ,Valsad,Valsad,IN-GJ-VL
+MANIPUR,IN-MN,Imphal West,Imphal West,IN-MN-WI
+RAJASTHAN,IN-RJ,Hanumangarh,Hanumangarh,IN-RJ-HA
+JHARKHAND,IN-JH,Gumla,Gumla,IN-JH-GU
+ODISHA,IN-OR,Nayagarh,Nayagarh,IN-OR-NY
+HARYANA,IN-HR,Mahendragarh,Mahendragarh,IN-HR-MA
+MAHARASHTRA,IN-MH,Parbhani,Parbhani,IN-MH-PA
+HARYANA,IN-HR,Kurukshetra,Kurukshetra,IN-HR-KU
+MADHYA PRADESH,IN-MP,Damoh,Damoh,IN-MP-DM
+ASSAM,IN-AS,Hailakandi,Hailakandi,IN-AS-HA
+PUNJAB,IN-PB,Faridkot,Faridkot,IN-PB-FR
+RAJASTHAN,IN-RJ,Karauli,Karauli,IN-RJ-KA
+JHARKHAND,IN-JH,Bokaro,Bokaro,IN-JH-BO
+NAGALAND,IN-NL,Peren,Peren,IN-NL-PE
+ODISHA,IN-OR,Sundargarh,Sundargarh,IN-OR-SU
+HARYANA,IN-HR,Kaithal,Kaithal,IN-HR-KT
+MADHYA PRADESH,IN-MP,West Nimar,West Nimar,IN-MP-WN
+BIHAR,IN-BR,Pashchim Champaran,Pashchim Champaran,IN-BR-WC
+PUNJAB,IN-PB,Moga,Moga,IN-PB-MO
+BIHAR,IN-BR,Sheohar,Sheohar,IN-BR-SO
+GUJARAT,IN-GJ,Tapi,Tapi,IN-GJ-TA
+UTTAR PRADESH,IN-UP,Jaunpur,Jaunpur,IN-UP-JU
+UTTAR PRADESH,IN-UP,Ghazipur,Ghazipur,IN-UP-GP
+UTTAR PRADESH,IN-UP,Gonda,Gonda,IN-UP-GN
+NAGALAND,IN-NL,Dimapur,Dimapur,IN-NL-DI
+ODISHA,IN-OR,Balangir,Balangir,IN-OR-BL
+MANIPUR,IN-MN,Tamenglong,Tamenglong,IN-MN-TA
+BIHAR,IN-BR,Katihar,Katihar,IN-BR-KT
+JAMMU & KASHMIR,IN-JK,Samba,Samba,IN-JK-SA
+UTTAR PRADESH,IN-UP,Saharanpur,Saharanpur,IN-UP-SA
+PUDUCHERRY,IN-PY,Mahe,Mahe,IN-PY-MA
+PUNJAB,IN-PB,Fatehgarh Sahib,Fatehgarh Sahib,IN-PB-FT
+BIHAR,IN-BR,Begusarai,Begusarai,IN-BR-BE
+ASSAM,IN-AS,Goalpara,Goalpara,IN-AS-GP
+BIHAR,IN-BR,Araria,Araria,IN-BR-AR
+JHARKHAND,IN-JH,Palamu,Palamu,IN-JH-PL
+MADHYA PRADESH,IN-MP,Mandsaur,Mandsaur,IN-MP-MS
+MADHYA PRADESH,IN-MP,Rajgarh,Rajgarh,IN-MP-RG
+MIZORAM,IN-MZ,Lunglei,Lunglei,IN-MZ-LU
+JHARKHAND,IN-JH,Giridih,Giridih,IN-JH-GI
+JHARKHAND,IN-JH,Ramgarh,Ramgarh,IN-JH-RM
+ODISHA,IN-OR,Jharsuguda,Jharsuguda,IN-OR-JH
+JHARKHAND,IN-JH,Latehar,Latehar,IN-JH-LA
+TAMIL NADU,IN-TN,Perambalur,Perambalur,IN-TN-PE
+UTTAR PRADESH,IN-UP,Sonbhadra,Sonbhadra,IN-UP-SO
+HIMACHAL PRADESH,IN-HP,Hamirpur,Hamirpur,IN-HP-HA
+PUDUCHERRY,IN-PY,Karaikal,Karaikal,IN-PY-KA
+BIHAR,IN-BR,Purba Champaran,Purba Champaran,IN-BR-EC
+BIHAR,IN-BR,Jamui,Jamui,IN-BR-JA
+MADHYA PRADESH,IN-MP,Neemuch,Neemuch,IN-MP-NE
+TRIPURA,IN-TR,Dhalai,Dhalai,IN-TR-DH
+JHARKHAND,IN-JH,Deoghar,Deoghar,IN-JH-DE
+UTTAR PRADESH,IN-UP,Sant Kabir Nagar,Sant Kabir Nagar,IN-UP-SK
+ODISHA,IN-OR,Kandhamal,Kandhamal,IN-OR-KN
+BIHAR,IN-BR,Munger,Munger,IN-BR-MG
+UTTAR PRADESH,IN-UP,Ambedkar Nagar,Ambedkar Nagar,IN-UP-AN
+BIHAR,IN-BR,Madhepura,Madhepura,IN-BR-MP
+RAJASTHAN,IN-RJ,Baran,Baran,IN-RJ-BR
+BIHAR,IN-BR,Saharsa,Saharsa,IN-BR-SH
+UTTAR PRADESH,IN-UP,Fatehpur,Fatehpur,IN-UP-FT
+HARYANA,IN-HR,Jind,Jind,IN-HR-JI
+UTTAR PRADESH,IN-UP,Mahoba,Mahoba,IN-UP-MH
+JHARKHAND,IN-JH,Garhwa,Garhwa,IN-JH-GA
+MADHYA PRADESH,IN-MP,Guna,Guna,IN-MP-GU
+BIHAR,IN-BR,Lakhisarai,Lakhisarai,IN-BR-LA
+BIHAR,IN-BR,Bhojpur,Bhojpur,IN-BR-BJ
+BIHAR,IN-BR,Khagaria,Khagaria,IN-BR-KH
+BIHAR,IN-BR,Samastipur,Samastipur,IN-BR-SM
+BIHAR,IN-BR,Sheikhpura,Sheikhpura,IN-BR-SP
+MADHYA PRADESH,IN-MP,Alirajpur,Alirajpur,IN-MP-AL
+MADHYA PRADESH,IN-MP,Jhabua,Jhabua,IN-MP-JH
+RAJASTHAN,IN-RJ,Banswara,Banswara,IN-RJ-BN
+MADHYA PRADESH,IN-MP,Barwani,Barwani,IN-MP-BR
+HARYANA,IN-HR,Fatehabad,Fatehabad,IN-HR-FT
+BIHAR,IN-BR,Kaimur (bhabua),Kaimur (bhabua),IN-BR-KM
+PUNJAB,IN-PB,Sangrur,Sangrur,IN-PB-SA
+UTTAR PRADESH,IN-UP,Jalaun,Jalaun,IN-UP-JL
+PUNJAB,IN-PB,Bathinda,Bathinda,IN-PB-BA
+NAGALAND,IN-NL,Tuensang,Tuensang,IN-NL-TU
+BIHAR,IN-BR,Sitamarhi,Sitamarhi,IN-BR-ST
+ODISHA,IN-OR,Subarnapur,Subarnapur,IN-OR-SO
+ODISHA,IN-OR,Nabarangapur,Nabarangapur,IN-OR-NB
+UTTAR PRADESH,IN-UP,Kushinagar,Kushinagar,IN-UP-KU
+BIHAR,IN-BR,Rohtas,Rohtas,IN-BR-RO
+NAGALAND,IN-NL,Longleng,Longleng,IN-NL-LO
+ARUNACHAL PRADESH,IN-AR,Upper Subansiri,Upper Subansiri,IN-AR-UB
+BIHAR,IN-BR,Buxar,Buxar,IN-BR-BU
+UTTAR PRADESH,IN-UP,Baghpat,Baghpat,IN-UP-BG
+MADHYA PRADESH,IN-MP,Ashoknagar,Ashoknagar,IN-MP-AS
+JHARKHAND,IN-JH,Khunti,Khunti,IN-JH-KH
+JHARKHAND,IN-JH,Lohardaga,Lohardaga,IN-JH-LO
+UTTAR PRADESH,IN-UP,Ballia,Ballia,IN-UP-BL
+UTTAR PRADESH,IN-UP,Mau,Mau,IN-UP-MA
+BIHAR,IN-BR,Arwal,Arwal,IN-BR-AW
+JHARKHAND,IN-JH,Pakur,Pakur,IN-JH-PK
+JHARKHAND,IN-JH,Jamtara,Jamtara,IN-JH-JA
+JHARKHAND,IN-JH,Simdega,Simdega,IN-JH-SI
+BIHAR,IN-BR,Nawada,Nawada,IN-BR-NW
+BIHAR,IN-BR,Banka,Banka,IN-BR-BA
+UTTAR PRADESH,IN-UP,Siddharth Nagar,Siddharthnagar,IN-UP-SN
+UTTAR PRADESH,IN-UP,Sant Ravi Das Nagar(bhadohi),Bhadohi,IN-UP-SR
+NAGALAND,IN-NL,Mon,Mon,IN-NL-MN
+JHARKHAND,IN-JH,Godda,Godda,IN-JH-GO
+PUNJAB,IN-PB,Barnala,Barnala,IN-PB-BR
+UTTAR PRADESH,IN-UP,Deoria,Deoria,IN-UP-DE

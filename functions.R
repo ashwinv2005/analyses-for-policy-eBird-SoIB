@@ -3,18 +3,17 @@
 ## read and clean raw data and add important columns like group id, seaonality variables
 ## place raw txt file (India download) in working directory 
 
-readcleanrawdata = function(rawpath = "ebd_IN_relApr-2020.txt", 
-                            sensitivepath = "ebd_relApr-2020_sensitive.txt")
+readcleanrawdata = function(rawpath = "ebd_IN_relDec-2021.txt", 
+                            sensitivepath = "ebd_relDec-2021_sensitive.txt")
 {
   require(lubridate)
   require(tidyverse)
   
   # select only necessary columns
-  preimp = c("GLOBAL.UNIQUE.IDENTIFIER","CATEGORY","COMMON.NAME","SCIENTIFIC.NAME","OBSERVATION.COUNT",
-             "LOCALITY.ID","LOCALITY.TYPE","REVIEWED","APPROVED","STATE","COUNTY","LAST.EDITED.DATE",
-             "LATITUDE","LONGITUDE","OBSERVATION.DATE","TIME.OBSERVATIONS.STARTED","OBSERVER.ID",
-             "PROTOCOL.TYPE","DURATION.MINUTES","EFFORT.DISTANCE.KM",
-             "NUMBER.OBSERVERS","ALL.SPECIES.REPORTED","GROUP.IDENTIFIER","SAMPLING.EVENT.IDENTIFIER")
+  preimp = c("CATEGORY","COMMON.NAME","SCIENTIFIC.NAME","OBSERVATION.COUNT",
+             "LOCALITY.ID","LOCALITY.TYPE","REVIEWED","APPROVED","LAST.EDITED.DATE",
+             "LATITUDE","LONGITUDE","OBSERVATION.DATE","OBSERVER.ID",
+             "PROTOCOL.TYPE","LOCALITY","ALL.SPECIES.REPORTED","GROUP.IDENTIFIER","SAMPLING.EVENT.IDENTIFIER")
   
   # CATEGORY - species, subspecies, hybrid, etc.; COMMON.NAME - common name of species;
   # SCIENTIFIC NAME - scientific name; OBSERVATION.COUNT - count of each species observed in a list;
@@ -64,12 +63,11 @@ readcleanrawdata = function(rawpath = "ebd_IN_relApr-2020.txt",
   
   ## choosing important columns required for further analyses
   
-  imp = c("GLOBAL.UNIQUE.IDENTIFIER","CATEGORY","COMMON.NAME","OBSERVATION.COUNT",
+  imp = c("CATEGORY","COMMON.NAME","OBSERVATION.COUNT",
           "LOCALITY.ID", "REVIEWED","APPROVED","SAMPLING.EVENT.IDENTIFIER","LAST.EDITED.DATE",
           #"LOCALITY.TYPE",
-          "LATITUDE","LONGITUDE","OBSERVATION.DATE","TIME.OBSERVATIONS.STARTED","OBSERVER.ID",
-          "PROTOCOL.TYPE",
-          "DURATION.MINUTES","EFFORT.DISTANCE.KM",
+          "LATITUDE","LONGITUDE","OBSERVATION.DATE","OBSERVER.ID",
+          "PROTOCOL.TYPE","LOCALITY",
           "ALL.SPECIES.REPORTED","group.id")
   
   
@@ -99,7 +97,10 @@ readcleanrawdata = function(rawpath = "ebd_IN_relApr-2020.txt",
            #week = week(OBSERVATION.DATE),
            #fort = ceiling(day/14),
            cyear = year(OBSERVATION.DATE)) %>%
+    mutate(LAST.EDITED.DATE = as.Date(LAST.EDITED.DATE), 
+           eyear = year(LAST.EDITED.DATE), emonth = month(LAST.EDITED.DATE)) %>%
     dplyr::select(-c("OBSERVATION.DATE")) %>%
+    dplyr::select(-c("LAST.EDITED.DATE")) %>%
     mutate(year = ifelse(day <= 151, cyear-1, cyear))
   
   assign("data",data,.GlobalEnv)
@@ -221,9 +222,10 @@ addmapvars = function(datapath = "rawdata.RData", mappath = "maps.RData")
   
   rownames(temp) = temp$group.id # only to setup adding the group.id column for the future left_join
   coordinates(temp) = ~LONGITUDE + LATITUDE # convert to SPDF?
-  #proj4string(temp) = "+proj=longlat +datum=WGS84 +no_defs +ellps=WGS84 +towgs84=0,0,0"
+  proj4string(temp) = "+proj=longlat +datum=WGS84"
   temp = over(temp,districtmap) # returns only ATTRIBUTES of districtmap (DISTRICT and ST_NM)
   temp = data.frame(temp) # convert into data frame for left_join
+  temp = temp[,1:2]
   temp$group.id = rownames(temp) # add column to join with the main data
   data = left_join(temp,data)
   
@@ -233,7 +235,7 @@ addmapvars = function(datapath = "rawdata.RData", mappath = "maps.RData")
   
   rownames(temp) = temp$group.id # only to setup adding the group.id column for the future left_join
   coordinates(temp) = ~LONGITUDE + LATITUDE # convert to SPDF?
-  proj4string(temp) = "+proj=longlat +datum=WGS84 +no_defs +ellps=WGS84 +towgs84=0,0,0"
+  proj4string(temp) = "+proj=longlat +datum=WGS84"
   temp = over(temp,pamap) # returns only ATTRIBUTES of districtmap (DISTRICT and ST_NM)
   temp = data.frame(temp) # convert into data frame for left_join
   temp$group.id = rownames(temp) # add column to join with the main data

@@ -1,0 +1,64 @@
+"OBJECTID","ID_0","ISO","NAME_0","ID_1","NAME_1","ID_2","NAME_2","TYPE_2","ENGTYPE_2","NL_NAME_2","VARNAME_2"
+1,154,"MMR","Myanmar",1,"Ayeyarwady",1,"Bassein","Kayaing","District",NA,"Pathein"
+2,154,"MMR","Myanmar",1,"Ayeyarwady",2,"Hinthada","Kayaing","District",NA,"Hinthata|Henzada"
+3,154,"MMR","Myanmar",1,"Ayeyarwady",3,"Maubin","Kayaing","District",NA,"Ma-U-Pin|Manbin| Ma-oo-beng| Ma-ubin"
+4,154,"MMR","Myanmar",1,"Ayeyarwady",4,"Myoungmya","Kayaing","District",NA,NA
+5,154,"MMR","Myanmar",1,"Ayeyarwady",5,"Pharpon","Kayaing","District",NA,"Pyapon"
+6,154,"MMR","Myanmar",2,"Bago",6,"Pegu","Kayaing","District",NA,NA
+7,154,"MMR","Myanmar",2,"Bago",7,"Pyay","Kayaing","District",NA,"Prome| Pye"
+8,154,"MMR","Myanmar",2,"Bago",8,"Taungoo","Kayaing","District",NA,"Taungngu| Toungoo"
+9,154,"MMR","Myanmar",2,"Bago",9,"Thayarwady","Kayaing","District",NA,"Tharyarwady|Thayawaddy| Tharrawaddy| Tharyarwady"
+10,154,"MMR","Myanmar",3,"Chin",10,"Mindat","Kayaing","District",NA,NA
+11,154,"MMR","Myanmar",3,"Chin",11,"Palam","Kayaing","District",NA,"Hpalam| Palam| Falam"
+12,154,"MMR","Myanmar",4,"Kachin",12,"Bhamo","Kayaing","District",NA,"Bhamaw;Banmo| Hsinkai"
+13,154,"MMR","Myanmar",4,"Kachin",13,"Myitkyina","Kayaing","District",NA,NA
+14,154,"MMR","Myanmar",4,"Kachin",14,"Putao","Kayaing","District",NA,"Putato|Pudao| Kamde| Fort Hertz| Hkamti| Hkamti Patau"
+15,154,"MMR","Myanmar",5,"Kayah",15,"Bawlake","Kayaing","District",NA,NA
+16,154,"MMR","Myanmar",5,"Kayah",16,"Loikaw","Kayaing","District",NA,"Loi-kaw| Luykau"
+17,154,"MMR","Myanmar",6,"Kayin",17,"Hpa-an","Kayaing","District",NA,"Pha-An|Pa-an"
+18,154,"MMR","Myanmar",6,"Kayin",18,"Kawkareik","Kayaing","District",NA,"Kawkeraik|Kawkareit| Kawkayeik"
+19,154,"MMR","Myanmar",6,"Kayin",19,"Myawady","Kayaing","District",NA,NA
+20,154,"MMR","Myanmar",7,"Magway",20,"Magwe Minbu","Kayaing","District",NA,"Magwe|Minbu"
+21,154,"MMR","Myanmar",7,"Magway",21,"Minbu","Kayaing","District",NA,NA
+22,154,"MMR","Myanmar",7,"Magway",22,"Pakokku","Kayaing","District",NA,"Pakoku|Pagukku| Pakkoku"
+23,154,"MMR","Myanmar",7,"Magway",23,"Thayetmyo","Kayaing","District",NA,"Thayet|Thayet| Thyatmyo| Thayetmo"
+24,154,"MMR","Myanmar",8,"Mandalay",24,"Kyaukse","Kayaing","District",NA,NA
+25,154,"MMR","Myanmar",8,"Mandalay",25,"Mandalay","Kayaing","District",NA,NA
+26,154,"MMR","Myanmar",8,"Mandalay",26,"Meiktila","Kayaing","District",NA,NA
+27,154,"MMR","Myanmar",8,"Mandalay",27,"Myingyan","Kayaing","District",NA,"Myingan| Myingyin"
+28,154,"MMR","Myanmar",8,"Mandalay",28,"Pyin-Oo-Lwin","Kayaing","District",NA,"Maymyo| Meimyu| Pyin U Lwin"
+29,154,"MMR","Myanmar",8,"Mandalay",29,"Yamethin","Kayaing","District",NA,"Yemathin|Yamethinn"
+30,154,"MMR","Myanmar",9,"Mon",30,"Mawlamyine","Kayaing","District",NA,"Mawlemyine|Mawlamyaing| Moulmein"
+31,154,"MMR","Myanmar",9,"Mon",31,"Thaton","Kayaing","District",NA,"Tha-tun| Thadon"
+32,154,"MMR","Myanmar",10,"Naypyitaw",32,"Naypyitaw","Kayaing","District",NA,NA
+33,154,"MMR","Myanmar",11,"Rakhine",33,"Buthidaung","Kayaing","District",NA,"Buthitaung|Buthedaung"
+34,154,"MMR","Myanmar",11,"Rakhine",34,"Kyaunkpyu","Kayaing","District",NA,"Kyaukphyu|Kyaukpyu"
+35,154,"MMR","Myanmar",11,"Rakhine",35,"Maungtaw","Kayaing","District",NA,NA
+36,154,"MMR","Myanmar",11,"Rakhine",36,"Sittwe","Kayaing","District",NA,"Sitwe|Sittway| Akyab"
+37,154,"MMR","Myanmar",11,"Rakhine",37,"Thandwe","Kayaing","District",NA,"Thantwe|Sandoway| Arakan| Thandway"
+38,154,"MMR","Myanmar",12,"Sagaing",38,"Hkamti","Kayaing","District",NA,"Kamti|Kanti| Singkaling Hkamti| Singkawng| Zingkaling Hkamt"
+39,154,"MMR","Myanmar",12,"Sagaing",39,"Kalemyo","Kayaing","District",NA,"Kale Myo|Kale"
+40,154,"MMR","Myanmar",12,"Sagaing",40,"Katha","Kayaing","District",NA,NA
+41,154,"MMR","Myanmar",12,"Sagaing",41,"Mawleik","Kayaing","District",NA,NA
+42,154,"MMR","Myanmar",12,"Sagaing",42,"Monywa","Kayaing","District",NA,NA
+43,154,"MMR","Myanmar",12,"Sagaing",43,"Sagaing","Kayaing","District",NA,"Sugaing| Sitkaing"
+44,154,"MMR","Myanmar",12,"Sagaing",44,"Shwebo","Kayaing","District",NA,NA
+45,154,"MMR","Myanmar",12,"Sagaing",45,"Tamu","Kayaing","District",NA,"Tammu| Tama| Tana"
+46,154,"MMR","Myanmar",13,"Shan",46,"Kengtung","Kayaing","District",NA,"Kengtong| Kentung| Kyaingdon"
+47,154,"MMR","Myanmar",13,"Shan",47,"Kunlong","Kayaing","District",NA,"Kunglon|Kunlon| Kunlong Ferry"
+48,154,"MMR","Myanmar",13,"Shan",48,"Kyaukme","Kayaing","District",NA,NA
+49,154,"MMR","Myanmar",13,"Shan",49,"Lasho","Kayaing","District",NA,"Lashio"
+50,154,"MMR","Myanmar",13,"Shan",50,"Lauking","Kayaing","District",NA,NA
+51,154,"MMR","Myanmar",13,"Shan",51,"Loilen","Kayaing","District",NA,"Loilem|Loi-lem| Loi-leng"
+52,154,"MMR","Myanmar",13,"Shan",52,"Mongphat","Kayaing","District",NA,"Maingbyat|Mongphat"
+53,154,"MMR","Myanmar",13,"Shan",53,"Mongsat","Kayaing","District",NA,"Muang Sat| Maingsat"
+54,154,"MMR","Myanmar",13,"Shan",54,"Muse","Kayaing","District",NA,"Mu-se"
+55,154,"MMR","Myanmar",13,"Shan",55,"Tarchilaik","Kayaing","District",NA,"Tachilek| Tha Chi Lek| Tha Chaleak| Tachileik"
+56,154,"MMR","Myanmar",13,"Shan",56,"Taunggye","Kayaing","District",NA,"Taunggyi"
+57,154,"MMR","Myanmar",14,"Tanintharyi",57,"Dawei","Kayaing","District",NA,"Daewi|Htawei| Tavoi| Tavoy"
+58,154,"MMR","Myanmar",14,"Tanintharyi",58,"Kawthoung","Kayaing","District",NA,"Kawthaung|Kau Saung| Kawsung| Kawthaung| Pulodua| Victoria"
+59,154,"MMR","Myanmar",14,"Tanintharyi",59,"Mergui","Kayaing","District",NA,NA
+60,154,"MMR","Myanmar",15,"Yangon",60,"Yangon-E","Kayaing","District",NA,"Yangon East"
+61,154,"MMR","Myanmar",15,"Yangon",61,"Yangon-N","Kayaing","District",NA,"Yangon North"
+62,154,"MMR","Myanmar",15,"Yangon",62,"Yangon-S","Kayaing","District",NA,"Yangon South"
+63,154,"MMR","Myanmar",15,"Yangon",63,"Yangon-W","Kayaing","District",NA,"Yangon West"

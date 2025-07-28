@@ -21,17 +21,23 @@ map1 = map %>%
 
 
 soib = left_join(soib,map1,by = c("Common.Name" = "India.Checklist.Name"))
-soib = soib %>% select(eBird.English.Name.2019,Concern.Status)
+soib = soib %>% select(eBird.English.Name.2019,Long.Term.Status,Current.Status,
+                       Range.Status,Concern.Status,IUCN,WLPA.Schedule)
 
 data = left_join(data,soib,by = c("COMMON.NAME" = "eBird.English.Name.2019"))
 
 tn = data %>% filter(ST_NM == "Tamil Nadu")
-tnsp = tn %>% filter(CATEGORY %in% c("species","issf")) %>% distinct(COMMON.NAME,Concern.Status)
+tnsp = tn %>%
+  filter(grepl('Vedanthangal',LOCALITY) | grepl('vedanthangal',LOCALITY) | grepl('Vedantangal',LOCALITY) |
+           grepl('vedantangal',LOCALITY) | grepl('Vedantangel',LOCALITY) | grepl('VEDANTHANGAL',LOCALITY) |
+           grepl('Madurantakam',LOCALITY)) %>%
+  distinct(COMMON.NAME,Long.Term.Status,Current.Status,Range.Status,Concern.Status,IUCN,WLPA.Schedule)
 
 clem = read.csv("eBird-Clements-v2019-integrated-checklist-August-2019.csv")
 
 tnsp = left_join(tnsp,clem,by = c("COMMON.NAME" = "English.name"))
-tnsp = tnsp %>% select(scientific.name,Concern.Status)
+tnsp = tnsp 
+##%>% select(scientific.name,Concern.Status)
 
 require(splitstackshape)
 require(magrittr)
@@ -64,6 +70,7 @@ dat <- dat %>%
   within (SCIENTIFIC.NAME <- substr(SCIENTIFIC.NAME,7,nchar(SCIENTIFIC.NAME))) 
 
 tnsp = left_join(tnsp,dat,by = c("scientific.name" = "SCIENTIFIC.NAME"))
-tnsp = tnsp %>% select(COMMON.NAME,scientific.name,Concern.Status)
+tnsp = tnsp %>% select(family,COMMON.NAME.y,scientific.name,Long.Term.Status,Current.Status,
+                       Range.Status,Concern.Status,IUCN,WLPA.Schedule)
 
-write.csv(tnsp,"TN_SoIB_species.csv",row.names=F)
+write.csv(tnsp,"Vedanthangal_SoIB_species.csv",row.names=F)

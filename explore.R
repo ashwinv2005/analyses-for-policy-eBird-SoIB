@@ -1,7 +1,7 @@
 source('~/GitHub/analyses-for-policy-eBird-SoIB/functions.R')
 createmaps()
 source('~/GitHub/analyses-for-policy-eBird-SoIB/functions.R')
-readcleanrawdata("ebd_IN_relApr-2020.txt","ebd_relApr-2020_sensitive.txt") 
+readcleanrawdata("ebd_IN_relDec-2021.txt","ebd_sensitive_relDec-2021_IN.txt") 
 source('~/GitHub/analyses-for-policy-eBird-SoIB/functions.R')
 addmapvars()
 

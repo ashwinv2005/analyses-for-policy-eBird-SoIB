@@ -86,7 +86,7 @@ plotg3map = ggplot() +
   coord_map()
 
 print(plotg3map)
-ggsave(file="total_high_concern.tiff", units="in", width=11, height=7)
+ggsave(file="total_high_concern.jpg", units="in", width=11, height=7)
 dev.off()
 
 fortified = fortify(districtmap, region = c("DISTRICT"))
@@ -116,7 +116,7 @@ plotdismap = ggplot() +
   coord_map()
 
 print(plotdismap)
-ggsave(file="total_high_concern_district.tiff", units="in", width=11, height=7)
+ggsave(file="total_high_concern_district.jpg", units="in", width=11, height=7)
 dev.off()
 
 require(rgeos)
@@ -148,7 +148,7 @@ plotpamap = ggplot() +
   coord_map()
 
 print(plotpamap)
-ggsave(file="total_high_concern_pa.png", units="in", width=11, height=7)
+ggsave(file="total_high_concern_pa.jpg", units="in", width=11, height=7)
 dev.off()
 
 
@@ -208,7 +208,7 @@ plotg3map = ggplot() +
   coord_map()
 
 print(plotg3map)
-ggsave(file="total_species.tiff", units="in", width=11, height=7)
+ggsave(file="total_species.jpg", units="in", width=11, height=7)
 dev.off()
 
 fortified = fortify(districtmap, region = c("DISTRICT"))
@@ -238,7 +238,7 @@ plotdismap = ggplot() +
   coord_map()
 
 print(plotdismap)
-ggsave(file="total_species_district.tiff", units="in", width=11, height=7)
+ggsave(file="total_species_district.jpg", units="in", width=11, height=7)
 dev.off()
 
 fortified = fortify(gBuffer(pamap, byid=TRUE, width=0), region = "NAME")
@@ -268,7 +268,7 @@ plotpamap = ggplot() +
   coord_map()
 
 print(plotpamap)
-ggsave(file="total_species_pa.png", units="in", width=11, height=7)
+ggsave(file="total_species_pa.jpg", units="in", width=11, height=7)
 dev.off()
 
 

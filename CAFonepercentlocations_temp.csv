@@ -1,0 +1,502 @@
+LOCALITY,LATITUDE,LONGITUDE,DISTRICT,ST_NM,COMMON.NAME,historical.status,season
+Punchakkary,8.446077,76.985587,Thiruvananthapuram,KERALA,Sociable Lapwing,Y,Winter
+Puthupally,9.1393848,76.4844561,Alappuzha,KERALA,Black-tailed Godwit,N,Winter
+Valinokkam,9.184135,78.637037,Ramanathapuram,TAMIL NADU,Greater Flamingo,N,Winter
+Mamprapaadam,9.2676595,76.607945,Alappuzha,KERALA,Black-tailed Godwit,N,Passage/Summer
+Vettatheril Puncha,9.2760944,76.5102552,Alappuzha,KERALA,Black-tailed Godwit,N,Winter
+Kuttanad Wetlands--Pallippad,9.2769775,76.4957428,Alappuzha,KERALA,Black-tailed Godwit,N,Passage/Summer
+Kuttanad Wetlands--Pallippad,9.2769775,76.4957428,Alappuzha,KERALA,Black-tailed Godwit,N,Winter
+Kuttanad Wetlands--Pallippad,9.2777399,76.4881897,Alappuzha,KERALA,Black-tailed Godwit,N,Winter
+Kuttanad Wetlands--Pallippad,9.2796113,76.5084051,Alappuzha,KERALA,Black-tailed Godwit,N,Winter
+Kuttanad Wetlands--Pallippad,9.2898105,76.5108597,Alappuzha,KERALA,Black-tailed Godwit,N,Winter
+Kuttanad Wetlands--Pallippad,9.2926667,76.5207833,Alappuzha,KERALA,Black-tailed Godwit,N,Winter
+Kuttanad Wetlands--Pallippad,9.2926667,76.5207833,Alappuzha,KERALA,Black-tailed Godwit,N,Passage/Summer
+Kuttanad Wetlands--Pallippad,9.2945695,76.4981675,Alappuzha,KERALA,Black-tailed Godwit,N,Passage/Summer
+Kuttanad Wetlands--Pallippad,9.2945695,76.4981675,Alappuzha,KERALA,Black-tailed Godwit,N,Winter
+Kuttanad Wetlands--Pallippad,9.2957395,76.5127548,Alappuzha,KERALA,Black-tailed Godwit,N,Winter
+Kuttanad Wetlands--Pallippad,9.3042835,76.5236807,Alappuzha,KERALA,Black-tailed Godwit,N,Winter
+Kuttanad Wetlands--Pallippad,9.3071944,76.4939404,Alappuzha,KERALA,Black-tailed Godwit,N,Winter
+Kuttanad Wetlands--Pallippad,9.3104417,76.5024583,Alappuzha,KERALA,Black-tailed Godwit,N,Winter
+Kuttanad Wetlands--Pallippad,9.3104417,76.5024583,Alappuzha,KERALA,Black-tailed Godwit,N,Passage/Summer
+Kuttanad Wetlands--Pallippad,9.3125905,76.511774,Alappuzha,KERALA,Black-tailed Godwit,N,Winter
+Kuttanad Wetlands--Pallippad,9.3183126,76.4796066,Alappuzha,KERALA,Black-tailed Godwit,N,Passage/Summer
+Kuttanad Wetlands--Pallippad,9.3183126,76.4796066,Alappuzha,KERALA,Black-tailed Godwit,N,Winter
+Kuttanad Wetlands--Pallippad,9.3424507,76.5750074,Alappuzha,KERALA,Black-tailed Godwit,N,Passage/Summer
+Kuttanadu Wetlands--Poovathikkari,9.5043754,76.4472055,Alappuzha,KERALA,Black-tailed Godwit,Y,Winter
+Kuttanadu Wetlands--Poovathikkari,9.6553732,76.5064394,Kottayam,KERALA,Black-tailed Godwit,N,Passage/Summer
+Kuttanadu Wetlands--Poovathikkari,9.689852,76.4461327,Kottayam,KERALA,Black-tailed Godwit,N,Winter
+Kuttanadu Wetlands--Poovathikkari,9.7017601,76.4661741,Kottayam,KERALA,Black-tailed Godwit,N,Passage/Summer
+Kuttanadu Wetlands--Poovathikkari,9.7088456,76.4675474,Kottayam,KERALA,Black-tailed Godwit,N,Winter
+Kuttanadu Wetlands--Poovathikkari,9.7187015,76.4498663,Kottayam,KERALA,Black-tailed Godwit,N,Winter
+Changaram Wetlands,9.7572931,76.3002374,Alappuzha,KERALA,Black-tailed Godwit,N,Passage/Summer
+Changaram Wetlands,9.7702182,76.2964869,Alappuzha,KERALA,Black-tailed Godwit,N,Passage/Summer
+Changaram Wetlands,9.7702182,76.2964869,Alappuzha,KERALA,Black-tailed Godwit,N,Winter
+Changaram Wetlands,9.7932373,76.2973683,Alappuzha,KERALA,Black-tailed Godwit,N,Passage/Summer
+Changaram Wetlands,9.7974709,76.2889069,Alappuzha,KERALA,Black-tailed Godwit,N,Passage/Summer
+Changaram Wetlands,9.8244333,76.2918091,Alappuzha,KERALA,Black-tailed Godwit,N,Passage/Summer
+Point Calimere,10.2896723,79.8262766,Nagapattinam,TAMIL NADU,Great Knot,N,Winter
+Point Calimere,10.2900433,79.826575,Nagapattinam,TAMIL NADU,Great Knot,N,Winter
+Point Calimere,10.2943104,79.8154673,Nagapattinam,TAMIL NADU,Greater Flamingo,N,Winter
+Point Calimere,10.2970115,79.8113689,Nagapattinam,TAMIL NADU,Greater Flamingo,N,Winter
+Point Calimere,10.3086366,79.8530102,Nagapattinam,TAMIL NADU,Black-tailed Godwit,Y,Winter
+Point Calimere,10.3086366,79.8530102,Nagapattinam,TAMIL NADU,Greater Flamingo,Y,Winter
+Point Calimere,10.3086366,79.8530102,Nagapattinam,TAMIL NADU,Little Stint,Y,Winter
+Point Calimere,10.3086366,79.8530102,Nagapattinam,TAMIL NADU,Curlew Sandpiper,Y,Winter
+Point Calimere,10.312082,79.8741388,Nagapattinam,TAMIL NADU,Little Stint,N,Passage/Summer
+Mapranam Wetlands,10.3863837,76.2367544,Thrissur,KERALA,Black-tailed Godwit,N,Winter
+Sippighat Wetlands,11.6029704,92.691034,South Andaman,ANDAMAN & NICOBAR,Long-toed Stint,N,Winter
+Vayalapara River--Athiyadam Bird Sanctuary,12.0558568,75.2665937,Kannur,KERALA,Black-tailed Godwit,N,Winter
+Kaliveli Lake,12.1136724,79.8554993,Viluppuram,TAMIL NADU,Black-tailed Godwit,N,Winter
+Kaliyuru Kere,12.1541603,77.0372931,Mysuru,KARNATAKA,Black-tailed Godwit,Y,Winter
+Hadinaru Kere,12.1711678,76.7539644,Mysuru,KARNATAKA,Black-tailed Godwit,N,Passage/Summer
+Yedaiyanthittu Estuary,12.2363456,79.9721432,Chengalpattu,TAMIL NADU,Little Stint,Y,Passage/Summer
+Mudhaliyarkuppam Backwaters/Odiyur Lake,12.3366479,80.0336838,Chengalpattu,TAMIL NADU,Greater Flamingo,N,Winter
+Mudhaliyarkuppam Backwaters/Odiyur Lake,12.3366479,80.0336838,Chengalpattu,TAMIL NADU,Little Stint,N,Passage/Summer
+Markalu Kere,12.3865485,76.9741416,Mandya,KARNATAKA,Black-tailed Godwit,Y,Winter
+Markalu Kere,12.3865485,76.9741416,Mandya,KARNATAKA,Black-tailed Godwit,N,Passage/Summer
+Markalu Kere,12.3865485,76.9741416,Mandya,KARNATAKA,Black-tailed Godwit,N,Winter
+Sule Kere,12.5088779,76.9902134,Mandya,KARNATAKA,Black-tailed Godwit,N,Winter
+Kanali kere,12.5156874,77.0204258,Mandya,KARNATAKA,Black-tailed Godwit,Y,Winter
+Kanali Kere,12.5296578,77.0009422,Mandya,KARNATAKA,Black-tailed Godwit,Y,Winter
+B. Gowdagere Kere,12.5482459,76.9828534,Mandya,KARNATAKA,Black-tailed Godwit,Y,Winter
+Pallikaranai Marsh,12.9486034,80.2209234,Chennai,TAMIL NADU,Little Stint,N,Winter
+Pallikaranai Marsh,12.9509721,80.220664,Chennai,TAMIL NADU,Little Stint,N,Winter
+Pulicat Lake--Pazhaverkadu,13.4188837,80.314157,Thiruvallur,TAMIL NADU,Greater Flamingo,N,Passage/Summer
+Pulicat Lake--Pazhaverkadu,13.4188837,80.314157,Thiruvallur,TAMIL NADU,Greater Flamingo,N,Winter
+Pulicat Lake--Pazhaverkadu,13.4191551,80.2963364,Thiruvallur,TAMIL NADU,Greater Flamingo,N,Passage/Summer
+Pulicat Lake--Pazhaverkadu,13.4191551,80.2963364,Thiruvallur,TAMIL NADU,Little Stint,N,Passage/Summer
+Pulicat Lake--Annamalaicheri,13.4565754,80.2648687,Thiruvallur,TAMIL NADU,Greater Flamingo,N,Passage/Summer
+Pulicat Lake--AP,13.6780244,80.1112748,Sri Potti Sriramulu Nell*,ANDHRA PRADESH,Black-tailed Godwit,N,Winter
+Pulicat Lake--AP,13.6780244,80.1112748,Sri Potti Sriramulu Nell*,ANDHRA PRADESH,Greater Flamingo,N,Winter
+Pulicat Lake--AP,13.6780244,80.1112748,Sri Potti Sriramulu Nell*,ANDHRA PRADESH,Little Stint,N,Winter
+Pulicat Lake--AP,13.6780244,80.1112748,Sri Potti Sriramulu Nell*,ANDHRA PRADESH,Greater Flamingo,Y,Passage/Summer
+Pulicat Lake--AP,13.69786,80.05145,Sri Potti Sriramulu Nell*,ANDHRA PRADESH,Black-tailed Godwit,N,Winter
+Pulicat Lake--AP,13.69786,80.05145,Sri Potti Sriramulu Nell*,ANDHRA PRADESH,Greater Flamingo,N,Winter
+Pulicat Lake--AP,13.7200413,80.1109314,Sri Potti Sriramulu Nell*,ANDHRA PRADESH,Greater Flamingo,N,Winter
+Pulicat Lake--AP,13.7200413,80.1109314,Sri Potti Sriramulu Nell*,ANDHRA PRADESH,Little Stint,N,Winter
+Pulicat Lake--AP,13.7245174,80.1118554,Sri Potti Sriramulu Nell*,ANDHRA PRADESH,Greater Flamingo,N,Winter
+Singanamala Cheruvu,14.784355,77.702219,Anantapur,ANDHRA PRADESH,Black-tailed Godwit,N,Passage/Summer
+Tungabhadra Reservoir/Backwaters,15.1114074,76.2273441,Ballari,KARNATAKA,Greater Flamingo,N,Winter
+Almatti Reservoir/Backwaters,16.278455,75.721917,Bagalkote,KARNATAKA,Black-tailed Godwit,N,Passage/Summer
+Almatti Reservoir/Backwaters,16.278455,75.721917,Bagalkote,KARNATAKA,Greater Flamingo,N,Passage/Summer
+Krishna River--Galagali,16.4030641,75.4552529,Bagalkote,KARNATAKA,Black-tailed Godwit,N,Winter
+Neelapalli Island,16.7186983,82.2296313,Yanam,PUDUCHERRY,Indian Skimmer,N,Winter
+Kakinada,16.9434861,82.2331029,East Godavari,ANDHRA PRADESH,Great Knot,N,Winter
+Kakinada,16.9434861,82.2331029,East Godavari,ANDHRA PRADESH,Great Knot,N,Winter
+Kakinada,16.9578294,82.2678935,East Godavari,ANDHRA PRADESH,Great Knot,N,Winter
+Kakinada,16.9578294,82.2678935,East Godavari,ANDHRA PRADESH,Great Knot,N,Winter
+Kakinada,16.9578294,82.2678935,East Godavari,ANDHRA PRADESH,Indian Skimmer,N,Winter
+Kakinada,16.9578294,82.2678935,East Godavari,ANDHRA PRADESH,Indian Skimmer,N,Winter
+Kakinada,16.9578294,82.2678935,East Godavari,ANDHRA PRADESH,Black-tailed Godwit,N,Winter
+Kakinada,16.9578294,82.2678935,East Godavari,ANDHRA PRADESH,Black-tailed Godwit,N,Winter
+Kakinada,16.9578294,82.2678935,East Godavari,ANDHRA PRADESH,Indian Skimmer,N,Passage/Summer
+Kakinada,16.9578294,82.2678935,East Godavari,ANDHRA PRADESH,Indian Skimmer,N,Passage/Summer
+Kakinada,16.958388,82.2716832,East Godavari,ANDHRA PRADESH,Indian Skimmer,N,Winter
+Kakinada,16.969131,82.239552,East Godavari,ANDHRA PRADESH,Indian Skimmer,N,Winter
+Kakinada,16.9776101,82.2507204,East Godavari,ANDHRA PRADESH,Indian Skimmer,N,Winter
+Kakinada,16.9875683,82.2722232,East Godavari,ANDHRA PRADESH,Indian Skimmer,N,Winter
+Kakinada,16.9875683,82.2722232,East Godavari,ANDHRA PRADESH,Indian Skimmer,N,Winter
+Kakinada,16.992179,82.261836,East Godavari,ANDHRA PRADESH,Indian Skimmer,N,Winter
+Kakinada,16.9922683,82.2782046,East Godavari,ANDHRA PRADESH,Indian Skimmer,N,Winter
+Kakinada,16.9937504,82.2681463,East Godavari,ANDHRA PRADESH,Black-tailed Godwit,N,Winter
+Kakinada,16.9953247,82.2782983,East Godavari,ANDHRA PRADESH,Indian Skimmer,N,Winter
+Kakinada,16.9963278,82.2796633,East Godavari,ANDHRA PRADESH,Indian Skimmer,N,Winter
+Kakinada,16.9963278,82.2796633,East Godavari,ANDHRA PRADESH,Indian Skimmer,N,Winter
+Kakinada,16.9979006,82.2798387,East Godavari,ANDHRA PRADESH,Indian Skimmer,N,Winter
+Kakinada,16.998447,82.279582,East Godavari,ANDHRA PRADESH,Indian Skimmer,N,Winter
+Kakinada,16.998954,82.2799342,East Godavari,ANDHRA PRADESH,Indian Skimmer,N,Winter
+Kakinada,17.0003875,82.2865072,East Godavari,ANDHRA PRADESH,Indian Skimmer,N,Winter
+Kakinada,17.0003875,82.2865072,East Godavari,ANDHRA PRADESH,Indian Skimmer,N,Winter
+Kakinada,17.0020311,82.2830672,East Godavari,ANDHRA PRADESH,Indian Skimmer,N,Winter
+Kakinada,17.002101,82.2828918,East Godavari,ANDHRA PRADESH,Indian Skimmer,N,Winter
+Kakinada,17.00234,82.2829551,East Godavari,ANDHRA PRADESH,Indian Skimmer,N,Winter
+Kakinada,17.0048662,82.281678,East Godavari,ANDHRA PRADESH,Indian Skimmer,N,Passage/Summer
+Kakinada,17.018975,82.2890323,East Godavari,ANDHRA PRADESH,Indian Skimmer,N,Winter
+Karanja Backwaters,17.8579079,77.3465001,Bidar,KARNATAKA,Greater Flamingo,N,Winter
+Kaidampally Tank,17.99,77.932222,Medak,TELANGANA,Ferruginous Duck,Y,Winter
+Nizam Sagar,18.166667,77.916667,Kamareddy,TELANGANA,Common Pochard,Y,Winter
+Akshi,18.6281493,72.8848538,Raigarh,MAHARASHTRA,Great Knot,N,Winter
+Akshi,18.6288813,72.884202,Raigarh,MAHARASHTRA,Great Knot,N,Winter
+Uran,18.9079792,72.9492456,Raigarh,MAHARASHTRA,Curlew Sandpiper,N,Passage/Summer
+Thane Creek/Estuary,18.974929,72.9979153,Raigarh,MAHARASHTRA,Lesser Flamingo,N,Winter
+Thane Creek/Estuary,18.9820696,72.8548479,Mumbai,MAHARASHTRA,Lesser Flamingo,Y,Winter
+Thane Creek/Estuary,18.992928,72.8827594,Mumbai Suburban,MAHARASHTRA,Lesser Flamingo,N,Passage/Summer
+Thane Creek/Estuary,18.9956148,72.8613456,Mumbai,MAHARASHTRA,Lesser Flamingo,N,Passage/Summer
+Thane Creek/Estuary,18.9956148,72.8613456,Mumbai,MAHARASHTRA,Lesser Flamingo,N,Winter
+Thane Creek/Estuary,18.9956148,72.8613456,Mumbai,MAHARASHTRA,Lesser Flamingo,Y,Winter
+Thane Creek/Estuary,18.9956148,72.8613456,Mumbai,MAHARASHTRA,Lesser Flamingo,Y,Passage/Summer
+Thane Creek/Estuary,18.9957666,72.8613175,Mumbai,MAHARASHTRA,Lesser Flamingo,N,Winter
+Thane Creek/Estuary,18.9957925,72.8614382,Mumbai,MAHARASHTRA,Lesser Flamingo,N,Winter
+Thane Creek/Estuary,18.9999147,72.8557887,Mumbai,MAHARASHTRA,Lesser Flamingo,N,Passage/Summer
+Thane Creek/Estuary,19.0004583,72.8590333,Mumbai,MAHARASHTRA,Lesser Flamingo,N,Passage/Summer
+Thane Creek/Estuary,19.0038106,73.0189776,Thane,MAHARASHTRA,Lesser Flamingo,N,Winter
+Thane Creek/Estuary,19.005855,73.017726,Thane,MAHARASHTRA,Lesser Flamingo,N,Passage/Summer
+Thane Creek/Estuary,19.006575,73.015852,Thane,MAHARASHTRA,Lesser Flamingo,N,Passage/Summer
+Thane Creek/Estuary,19.006583,73.015704,Thane,MAHARASHTRA,Lesser Flamingo,N,Passage/Summer
+Thane Creek/Estuary,19.006704,73.015704,Thane,MAHARASHTRA,Lesser Flamingo,N,Passage/Summer
+Thane Creek/Estuary,19.006817,73.015703,Thane,MAHARASHTRA,Lesser Flamingo,N,Passage/Summer
+Thane Creek/Estuary,19.007033,73.015861,Thane,MAHARASHTRA,Lesser Flamingo,N,Passage/Summer
+Thane Creek/Estuary,19.007255,73.019058,Thane,MAHARASHTRA,Lesser Flamingo,N,Winter
+Thane Creek/Estuary,19.007773,73.019635,Thane,MAHARASHTRA,Lesser Flamingo,N,Winter
+Thane Creek/Estuary,19.00893,73.008721,Thane,MAHARASHTRA,Lesser Flamingo,N,Winter
+Thane Creek/Estuary,19.009623,73.009074,Thane,MAHARASHTRA,Lesser Flamingo,N,Passage/Summer
+Thane Creek/Estuary,19.0101323,73.0093532,Thane,MAHARASHTRA,Lesser Flamingo,N,Passage/Summer
+Thane Creek/Estuary,19.0101323,73.0093532,Thane,MAHARASHTRA,Lesser Flamingo,N,Winter
+Thane Creek/Estuary,19.0106772,73.0031204,Thane,MAHARASHTRA,Lesser Flamingo,N,Passage/Summer
+Thane Creek/Estuary,19.012556,73.009434,Thane,MAHARASHTRA,Lesser Flamingo,N,Winter
+Thane Creek/Estuary,19.013891,73.007686,Thane,MAHARASHTRA,Lesser Flamingo,N,Winter
+Thane Creek/Estuary,19.013898,73.008749,Thane,MAHARASHTRA,Lesser Flamingo,N,Passage/Summer
+Thane Creek/Estuary,19.013924,73.007972,Thane,MAHARASHTRA,Lesser Flamingo,N,Winter
+Thane Creek/Estuary,19.0160421,73.005227,Thane,MAHARASHTRA,Lesser Flamingo,N,Winter
+Thane Creek/Estuary,19.01656,73.00602,Thane,MAHARASHTRA,Lesser Flamingo,N,Passage/Summer
+Thane Creek/Estuary,19.0187716,73.005234,Thane,MAHARASHTRA,Lesser Flamingo,N,Winter
+Thane Creek/Estuary,19.0187716,73.005234,Thane,MAHARASHTRA,Curlew Sandpiper,N,Winter
+Thane Creek/Estuary,19.0292241,72.98884,Thane,MAHARASHTRA,Lesser Flamingo,N,Winter
+Thane Creek/Estuary,19.07552,72.983741,Thane,MAHARASHTRA,Lesser Flamingo,N,Winter
+Thane Creek/Estuary,19.1274987,72.9712054,Mumbai Suburban,MAHARASHTRA,Lesser Flamingo,N,Passage/Summer
+Thane Creek/Estuary,19.1410937,72.9609883,Mumbai Suburban,MAHARASHTRA,Black-tailed Godwit,N,Winter
+Thane Creek/Estuary,19.1410937,72.9609883,Mumbai Suburban,MAHARASHTRA,Lesser Flamingo,N,Winter
+Thane Creek/Estuary,19.1410937,72.9609883,Mumbai Suburban,MAHARASHTRA,Little Stint,N,Winter
+Thane Creek/Estuary,19.1499521,72.9803967,Thane,MAHARASHTRA,Lesser Flamingo,N,Passage/Summer
+Thane Creek/Estuary,19.1499521,72.9803967,Thane,MAHARASHTRA,Little Stint,N,Passage/Summer
+Thane Creek/Estuary,19.1499521,72.9803967,Thane,MAHARASHTRA,Greater Flamingo,N,Passage/Summer
+Thane Creek/Estuary,19.1499521,72.9803967,Thane,MAHARASHTRA,Lesser Flamingo,N,Winter
+Thane Creek/Estuary,19.1508797,72.9564785,Mumbai Suburban,MAHARASHTRA,Little Stint,N,Passage/Summer
+Thane Creek/Estuary,19.1816997,72.9831326,Thane,MAHARASHTRA,Lesser Flamingo,N,Passage/Summer
+Thane Creek/Estuary,19.1818146,72.9838665,Thane,MAHARASHTRA,Lesser Flamingo,N,Winter
+Thane Creek/Estuary,19.1818237,72.9834471,Thane,MAHARASHTRA,Lesser Flamingo,N,Passage/Summer
+Thane Creek/Estuary,19.2087102,72.9814841,Thane,MAHARASHTRA,Lesser Flamingo,N,Passage/Summer
+Jaikwadi Bird Sanctuary,19.4779,75.3656,Aurangabad,MAHARASHTRA,Greater Flamingo,N,Winter
+Chilika Lake,19.700154,85.3071785,Puri,ODISHA,Black-tailed Godwit,N,Winter
+Chilika Lake--Mangalajodi,19.896767,85.438225,Khordha,ODISHA,Black-tailed Godwit,N,Winter
+Chilika Lake--Mangalajodi,19.9193545,85.4259504,Khordha,ODISHA,Black-tailed Godwit,N,Winter
+Satkosia Gorge Sanctuary,20.3719496,85.8309827,Khordha,ODISHA,Indian Skimmer,N,Winter
+Satkosia Gorge Sanctuary,20.4428256,85.7489157,Cuttack,ODISHA,Indian Skimmer,N,Passage/Summer
+Satkosia Gorge Sanctuary,20.4446267,85.7455659,Cuttack,ODISHA,Indian Skimmer,N,Passage/Summer
+Satkosia Gorge Sanctuary,20.4479442,85.7426527,Cuttack,ODISHA,Indian Skimmer,N,Passage/Summer
+Satkosia Gorge Sanctuary,20.4493783,85.7479767,Cuttack,ODISHA,Indian Skimmer,N,Passage/Summer
+Satkosia Gorge Sanctuary,20.477315,84.943619,Nayagarh,ODISHA,Indian Skimmer,N,Winter
+Satkosia Gorge Sanctuary,20.4874986,84.8871098,Nayagarh,ODISHA,Indian Skimmer,N,Winter
+Satkosia Gorge Sanctuary,20.487921,84.8794524,Nayagarh,ODISHA,Indian Skimmer,N,Winter
+Satkosia Gorge Sanctuary,20.4889796,84.9115082,Nayagarh,ODISHA,Indian Skimmer,N,Winter
+Satkosia Gorge Sanctuary,20.5445389,84.8320954,Nayagarh,ODISHA,Indian Skimmer,N,Passage/Summer
+Satkosia Gorge Sanctuary,20.5794387,84.792011,Nayagarh,ODISHA,Indian Skimmer,N,Passage/Summer
+Satkosia Gorge Sanctuary,20.5954846,84.7811227,Anugul,ODISHA,Indian Skimmer,N,Winter
+Satkosia Gorge Sanctuary,20.5960881,84.7807401,Anugul,ODISHA,Indian Skimmer,N,Winter
+Satkosia Gorge Sanctuary,20.5964553,84.7808379,Anugul,ODISHA,Indian Skimmer,N,Winter
+Satkosia Gorge Sanctuary,20.6009,84.781341,Anugul,ODISHA,Indian Skimmer,N,Winter
+Satkosia Gorge Sanctuary,20.6009721,84.7812366,Anugul,ODISHA,Indian Skimmer,N,Winter
+Sodam Bhandhara,20.7189235,70.813086,Gir Somnath,GUJARAT,Greater Flamingo,N,Passage/Summer
+Khodiyar Dam,21.3441833,71.0460091,Amreli,GUJARAT,Sociable Lapwing,N,Winter
+Dhrafad Sichai Yojana Vishavadar,21.3451453,70.7257318,Junagadh,GUJARAT,Sociable Lapwing,N,Passage/Summer
+Khodiyar Dam,21.3466252,71.0483408,Amreli,GUJARAT,Sociable Lapwing,N,Winter
+Kantiyajal,21.4644916,72.6716638,Bharuch,GUJARAT,Greater Flamingo,N,Winter
+Bakkhali Sea Beach,21.5589564,88.2665634,South Twenty Four Pargan*,WEST BENGAL,Great Knot,N,Passage/Summer
+Fraserganj/Kargil Sea Beach,21.5709766,88.2432351,South Twenty Four Pargan*,WEST BENGAL,Great Knot,N,Passage/Summer
+Fraserganj/Kargil Sea Beach,21.5715676,88.242858,South Twenty Four Pargan*,WEST BENGAL,Great Knot,N,Passage/Summer
+Haathab Beach,21.5718478,72.2692519,Bhavnagar,GUJARAT,Lesser Flamingo,N,Winter
+Fraserganj/Kargil Sea Beach,21.5734535,88.242303,South Twenty Four Pargan*,WEST BENGAL,Great Knot,N,Winter
+Fraserganj/Kargil Sea Beach,21.5734535,88.242303,South Twenty Four Pargan*,WEST BENGAL,Great Knot,N,Passage/Summer
+Jambudweep,21.573647,88.195096,South Twenty Four Pargan*,WEST BENGAL,Great Knot,N,Winter
+Jambudweep,21.574602,88.197828,South Twenty Four Pargan*,WEST BENGAL,Great Knot,N,Winter
+Mokarsagar Wetland Complex,21.5782225,69.747777,Porbandar,GUJARAT,Greater Flamingo,N,Passage/Summer
+Mokarsagar Wetland Complex,21.5782225,69.747777,Porbandar,GUJARAT,Black-tailed Godwit,N,Winter
+Mokarsagar Wetland Complex,21.5782225,69.747777,Porbandar,GUJARAT,Greater Flamingo,N,Winter
+Mokarsagar Wetland Complex,21.5782225,69.747777,Porbandar,GUJARAT,Lesser Flamingo,N,Winter
+Mokarsagar Wetland Complex,21.5782225,69.747777,Porbandar,GUJARAT,Little Stint,N,Winter
+Mokarsagar Wetland Complex,21.5782225,69.747777,Porbandar,GUJARAT,Black-tailed Godwit,N,Passage/Summer
+Mokarsagar Wetland Complex,21.5782225,69.747777,Porbandar,GUJARAT,Lesser Flamingo,N,Passage/Summer
+Mokarsagar Wetland Complex,21.6205405,69.628644,Porbandar,GUJARAT,Lesser Flamingo,N,Passage/Summer
+Mokarsagar Wetland Complex,21.62167,69.63785,Porbandar,GUJARAT,Lesser Flamingo,N,Passage/Summer
+Mokarsagar Wetland Complex,21.6287368,69.6289873,Porbandar,GUJARAT,Lesser Flamingo,N,Passage/Summer
+Mokarsagar Wetland Complex,21.6287368,69.6289873,Porbandar,GUJARAT,Lesser Flamingo,N,Winter
+Mokarsagar Wetland Complex,21.6343724,69.7154188,Porbandar,GUJARAT,Lesser Flamingo,N,Winter
+Mokarsagar Wetland Complex,21.6343724,69.7154188,Porbandar,GUJARAT,Common Pochard,N,Winter
+Kuchhadi/Javar Wetlands,21.6497992,69.595685,Porbandar,GUJARAT,Greater Flamingo,N,Passage/Summer
+Kuchhadi/Javar Wetlands,21.6497992,69.595685,Porbandar,GUJARAT,Lesser Flamingo,N,Winter
+Kuchhadi/Javar Wetlands,21.6532295,69.5854712,Porbandar,GUJARAT,Lesser Flamingo,N,Winter
+Kuchhadi/Javar Wetlands,21.6532295,69.5854712,Porbandar,GUJARAT,Greater Flamingo,N,Winter
+Kuchhadi/Javar Wetlands,21.6618408,69.5791153,Porbandar,GUJARAT,Lesser Flamingo,N,Winter
+Kuchhadi/Javar Wetlands,21.6774169,69.5663111,Porbandar,GUJARAT,Greater Flamingo,Y,Winter
+Kuchhadi/Javar Wetlands,21.6900804,69.5543146,Porbandar,GUJARAT,Lesser Flamingo,N,Winter
+Kumbharwada Wetlands,21.7623018,72.2070338,Bhavnagar,GUJARAT,Lesser Flamingo,N,Passage/Summer
+Kumbharwada Wetlands,21.7648405,72.2034788,Bhavnagar,GUJARAT,Black-tailed Godwit,Y,Winter
+Kumbharwada Wetlands,21.7648405,72.2034788,Bhavnagar,GUJARAT,Greater Flamingo,N,Passage/Summer
+Kumbharwada Wetlands,21.7648405,72.2034788,Bhavnagar,GUJARAT,Lesser Flamingo,N,Passage/Summer
+Kumbharwada Wetlands,21.7648405,72.2034788,Bhavnagar,GUJARAT,Black-tailed Godwit,N,Passage/Summer
+Kumbharwada Wetlands,21.7648405,72.2034788,Bhavnagar,GUJARAT,Black-tailed Godwit,N,Winter
+Kumbharwada Wetlands,21.7695101,72.1951291,Bhavnagar,GUJARAT,Lesser Flamingo,N,Winter
+Kumbharwada Wetlands,21.777036,72.2012901,Bhavnagar,GUJARAT,Greater Flamingo,N,Passage/Summer
+Kumbharwada Wetlands,21.777036,72.2012901,Bhavnagar,GUJARAT,Lesser Flamingo,N,Passage/Summer
+Kumbharwada Wetlands,21.777036,72.2012901,Bhavnagar,GUJARAT,Black-tailed Godwit,N,Winter
+Kumbharwada Wetlands,21.777036,72.2012901,Bhavnagar,GUJARAT,Lesser Flamingo,N,Winter
+Kumbharwada Wetlands,21.777036,72.2012901,Bhavnagar,GUJARAT,Black-tailed Godwit,N,Passage/Summer
+Kumbharwada Wetlands,21.7778171,72.1077347,Bhavnagar,GUJARAT,Lesser Flamingo,N,Passage/Summer
+Kumbharwada Wetlands,21.7778171,72.1077347,Bhavnagar,GUJARAT,Lesser Flamingo,N,Winter
+Kumbharwada Wetlands,21.7814656,72.090458,Bhavnagar,GUJARAT,Lesser Flamingo,N,Winter
+Kumbharwada Wetlands,21.869565,72.1884367,Bhavnagar,GUJARAT,Greater Flamingo,N,Passage/Summer
+Mendha Creek,21.8767419,69.4061708,Porbandar,GUJARAT,Black-tailed Godwit,N,Winter
+Mendha Creek,21.8767419,69.4061708,Porbandar,GUJARAT,Greater Flamingo,N,Winter
+Mendha Creek,21.8767419,69.4061708,Porbandar,GUJARAT,Lesser Flamingo,N,Winter
+Mendha Creek,21.8767419,69.4061708,Porbandar,GUJARAT,Common Pochard,N,Winter
+Mendha Creek,21.8767419,69.4061708,Porbandar,GUJARAT,Black-tailed Godwit,N,Passage/Summer
+Kumbharwada Wetlands,21.9246543,72.2879546,Bhavnagar,GUJARAT,Lesser Flamingo,N,Passage/Summer
+Nyari-1 Dam,22.2373066,70.701313,Rajkot,GUJARAT,Black-tailed Godwit,N,Passage/Summer
+Rangmati Dam,22.3365486,70.047307,Jamnagar,GUJARAT,Sociable Lapwing,Y,Winter
+Juni Akhol,22.345986,72.5453122,Anand,GUJARAT,Greater Flamingo,N,Winter
+Khijadiya/Sachana/Dhinchda,22.4735464,70.0689998,Jamnagar,GUJARAT,Indian Skimmer,N,Winter
+Khijadiya/Sachana/Dhinchda,22.4795952,70.0513758,Jamnagar,GUJARAT,Indian Skimmer,N,Winter
+Khijadiya/Sachana/Dhinchda,22.4980995,70.0557116,Jamnagar,GUJARAT,Indian Skimmer,N,Winter
+Khijadiya/Sachana/Dhinchda,22.4987301,70.019871,Jamnagar,GUJARAT,Indian Skimmer,N,Winter
+Khijadiya/Sachana/Dhinchda,22.4987301,70.019871,Jamnagar,GUJARAT,Indian Skimmer,N,Passage/Summer
+Khijadiya/Sachana/Dhinchda,22.4992117,70.0184434,Jamnagar,GUJARAT,Indian Skimmer,N,Winter
+Khijadiya/Sachana/Dhinchda,22.499796,70.022777,Jamnagar,GUJARAT,Indian Skimmer,N,Winter
+Khijadiya/Sachana/Dhinchda,22.499931,70.050771,Jamnagar,GUJARAT,Great Knot,N,Winter
+Khijadiya/Sachana/Dhinchda,22.5000486,70.0278707,Jamnagar,GUJARAT,Indian Skimmer,N,Winter
+Khijadiya/Sachana/Dhinchda,22.5014807,70.0423694,Jamnagar,GUJARAT,Great Knot,N,Winter
+Khijadiya/Sachana/Dhinchda,22.5016343,70.0297865,Jamnagar,GUJARAT,Indian Skimmer,N,Winter
+Khijadiya/Sachana/Dhinchda,22.5028034,70.0195433,Jamnagar,GUJARAT,Indian Skimmer,N,Winter
+Khijadiya/Sachana/Dhinchda,22.5045203,70.0374421,Jamnagar,GUJARAT,Indian Skimmer,N,Winter
+Khijadiya/Sachana/Dhinchda,22.504731,70.0467372,Jamnagar,GUJARAT,Indian Skimmer,N,Winter
+Khijadiya/Sachana/Dhinchda,22.504825,70.049326,Jamnagar,GUJARAT,Indian Skimmer,N,Winter
+Khijadiya/Sachana/Dhinchda,22.505834,70.034228,Jamnagar,GUJARAT,Indian Skimmer,N,Winter
+Khijadiya/Sachana/Dhinchda,22.5063704,70.025192,Jamnagar,GUJARAT,Indian Skimmer,N,Winter
+Khijadiya/Sachana/Dhinchda,22.507158,70.033023,Jamnagar,GUJARAT,Indian Skimmer,N,Winter
+Khijadiya/Sachana/Dhinchda,22.5089033,70.0321317,Jamnagar,GUJARAT,Indian Skimmer,N,Winter
+Khijadiya/Sachana/Dhinchda,22.5096709,70.0308125,Jamnagar,GUJARAT,Indian Skimmer,N,Winter
+Khijadiya/Sachana/Dhinchda,22.5105376,70.0298898,Jamnagar,GUJARAT,Indian Skimmer,N,Winter
+Khijadiya/Sachana/Dhinchda,22.5105964,70.0297597,Jamnagar,GUJARAT,Indian Skimmer,N,Winter
+Khijadiya/Sachana/Dhinchda,22.510865,70.0305833,Jamnagar,GUJARAT,Indian Skimmer,N,Winter
+Khijadiya/Sachana/Dhinchda,22.511812,70.0852442,Jamnagar,GUJARAT,Indian Skimmer,Y,Passage/Summer
+Khijadiya/Sachana/Dhinchda,22.5199808,70.0488582,Jamnagar,GUJARAT,Indian Skimmer,N,Winter
+Khijadiya/Sachana/Dhinchda,22.5207236,70.0482702,Jamnagar,GUJARAT,Great Knot,N,Passage/Summer
+Khijadiya/Sachana/Dhinchda,22.5236846,70.1422461,Jamnagar,GUJARAT,Black-tailed Godwit,N,Winter
+Khijadiya/Sachana/Dhinchda,22.5236846,70.1422461,Jamnagar,GUJARAT,Great Knot,N,Winter
+Khijadiya/Sachana/Dhinchda,22.5236846,70.1422461,Jamnagar,GUJARAT,Common Pochard,N,Winter
+Khijadiya/Sachana/Dhinchda,22.5237197,70.1777767,Jamnagar,GUJARAT,Great Knot,N,Winter
+Khijadiya/Sachana/Dhinchda,22.5238157,70.1859856,Jamnagar,GUJARAT,Indian Skimmer,N,Passage/Summer
+Khijadiya/Sachana/Dhinchda,22.5238157,70.1859856,Jamnagar,GUJARAT,Great Knot,N,Winter
+Khijadiya/Sachana/Dhinchda,22.5245292,70.044322,Jamnagar,GUJARAT,Great Knot,N,Winter
+Khijadiya/Sachana/Dhinchda,22.5442622,70.0381727,Jamnagar,GUJARAT,Indian Skimmer,N,Winter
+Khijadiya/Sachana/Dhinchda,22.5483914,70.0313401,Jamnagar,GUJARAT,Indian Skimmer,N,Winter
+Pariej Lake,22.5492832,72.6235127,Kheda,GUJARAT,Black-tailed Godwit,N,Winter
+Pariej Lake,22.5492832,72.6235127,Kheda,GUJARAT,Black-tailed Godwit,N,Passage/Summer
+Khijadiya/Sachana/Dhinchda,22.5566642,70.1689482,Jamnagar,GUJARAT,Great Knot,N,Winter
+Khijadiya/Sachana/Dhinchda,22.5635629,70.0397834,Jamnagar,GUJARAT,Indian Skimmer,N,Winter
+Khijadiya/Sachana/Dhinchda,22.5751522,70.2028876,Jamnagar,GUJARAT,Great Knot,N,Passage/Summer
+Khijadiya/Sachana/Dhinchda,22.580552,70.1900249,Jamnagar,GUJARAT,Eurasian Curlew,N,Winter
+Khijadiya/Sachana/Dhinchda,22.58165,70.19301,Jamnagar,GUJARAT,Great Knot,N,Winter
+Khijadiya/Sachana/Dhinchda,22.581653,70.189986,Jamnagar,GUJARAT,Great Knot,N,Winter
+Khijadiya/Sachana/Dhinchda,22.5827554,70.1929969,Jamnagar,GUJARAT,Great Knot,N,Winter
+Khijadiya/Sachana/Dhinchda,22.5835751,70.1932832,Jamnagar,GUJARAT,Eurasian Curlew,N,Winter
+Khijadiya/Sachana/Dhinchda,22.5835751,70.1932832,Jamnagar,GUJARAT,Great Knot,N,Winter
+Khijadiya/Sachana/Dhinchda,22.5988362,70.1978447,Jamnagar,GUJARAT,Great Knot,N,Winter
+Marine NP--Pirotan Island,22.6019836,69.9518871,Jamnagar,GUJARAT,Eurasian Curlew,Y,Winter
+Marine NP--Pirotan Island,22.6019836,69.9518871,Jamnagar,GUJARAT,Great Knot,Y,Passage/Summer
+Khijadiya/Sachana/Dhinchda,22.602847,70.2009869,Jamnagar,GUJARAT,Indian Skimmer,N,Passage/Summer
+Khijadiya/Sachana/Dhinchda,22.602847,70.2009869,Jamnagar,GUJARAT,Great Knot,N,Winter
+Khijadiya/Sachana/Dhinchda,22.602847,70.2009869,Jamnagar,GUJARAT,Indian Skimmer,Y,Passage/Summer
+Pirotan Island,22.6032331,69.9522117,Jamnagar,GUJARAT,Eurasian Curlew,Y,Winter
+Bagodara Wetlands and Saltpans,22.6490921,72.2065932,Ahmadabad,GUJARAT,Greater Flamingo,N,Passage/Summer
+Nalsarovar Bird Sanctuary,22.7448217,72.2961467,Ahmadabad,GUJARAT,Sociable Lapwing,N,Winter
+Nalsarovar Bird Sanctuary,22.7923445,72.0231432,Surendranagar,GUJARAT,Sociable Lapwing,N,Winter
+Nalsarovar Bird Sanctuary,22.7923445,72.0231432,Surendranagar,GUJARAT,Black-tailed Godwit,N,Winter
+Nalsarovar Bird Sanctuary,22.7923445,72.0231432,Surendranagar,GUJARAT,Sociable Lapwing,N,Passage/Summer
+Nalsarovar Bird Sanctuary,22.7923445,72.0231432,Surendranagar,GUJARAT,Greater Flamingo,N,Passage/Summer
+Nalsarovar Bird Sanctuary,22.812913,72.258332,Ahmadabad,GUJARAT,Sociable Lapwing,N,Winter
+Nalsarovar Bird Sanctuary,22.8141674,72.1540165,Ahmadabad,GUJARAT,Sociable Lapwing,N,Winter
+Nalsarovar Bird Sanctuary,22.814561,72.153086,Ahmadabad,GUJARAT,Sociable Lapwing,N,Winter
+Nalsarovar Bird Sanctuary,22.815896,72.261633,Ahmadabad,GUJARAT,Sociable Lapwing,N,Winter
+Nalsarovar Bird Sanctuary,22.8160927,72.0464757,Ahmadabad,GUJARAT,Sociable Lapwing,N,Winter
+Nalsarovar Bird Sanctuary,22.8165931,72.2803909,Ahmadabad,GUJARAT,Sociable Lapwing,N,Winter
+Nalsarovar Bird Sanctuary,22.816824,72.2634541,Ahmadabad,GUJARAT,Sociable Lapwing,N,Winter
+Nalsarovar Bird Sanctuary,22.8178957,72.0456845,Ahmadabad,GUJARAT,Sociable Lapwing,N,Winter
+Nalsarovar Bird Sanctuary,22.8181417,72.045426,Ahmadabad,GUJARAT,Sociable Lapwing,N,Winter
+Nalsarovar Bird Sanctuary,22.8182768,72.3013536,Ahmadabad,GUJARAT,Sociable Lapwing,N,Winter
+Nalsarovar Bird Sanctuary,22.8189177,72.1266994,Ahmadabad,GUJARAT,Sociable Lapwing,N,Winter
+Nalsarovar Bird Sanctuary,22.8189835,72.0464623,Ahmadabad,GUJARAT,Sociable Lapwing,N,Winter
+Nalsarovar Bird Sanctuary,22.819002,72.2612052,Ahmadabad,GUJARAT,Sociable Lapwing,N,Passage/Summer
+Nalsarovar Bird Sanctuary,22.8193049,72.0436406,Ahmadabad,GUJARAT,Sociable Lapwing,N,Winter
+Nalsarovar Bird Sanctuary,22.8195002,72.3034052,Ahmadabad,GUJARAT,Sociable Lapwing,N,Winter
+Nalsarovar Bird Sanctuary,22.8202049,72.284063,Ahmadabad,GUJARAT,Sociable Lapwing,N,Winter
+Nalsarovar Bird Sanctuary,22.8202589,72.2854156,Ahmadabad,GUJARAT,Sociable Lapwing,N,Winter
+Nalsarovar Bird Sanctuary,22.820791,72.2887711,Ahmadabad,GUJARAT,Sociable Lapwing,N,Winter
+Nalsarovar Bird Sanctuary,22.8209918,72.3318595,Ahmadabad,GUJARAT,Sociable Lapwing,N,Winter
+Nalsarovar Bird Sanctuary,22.8213618,72.0429325,Ahmadabad,GUJARAT,Sociable Lapwing,N,Winter
+Nalsarovar Bird Sanctuary,22.8213618,72.042954,Ahmadabad,GUJARAT,Sociable Lapwing,N,Winter
+Nalsarovar Bird Sanctuary,22.8216885,72.2612369,Ahmadabad,GUJARAT,Sociable Lapwing,N,Winter
+Nalsarovar Bird Sanctuary,22.822067,72.29472,Ahmadabad,GUJARAT,Sociable Lapwing,N,Winter
+Nalsarovar Bird Sanctuary,22.8221536,72.2607966,Ahmadabad,GUJARAT,Sociable Lapwing,N,Winter
+Nalsarovar Bird Sanctuary,22.822176,72.253663,Ahmadabad,GUJARAT,Sociable Lapwing,N,Winter
+Nalsarovar Bird Sanctuary,22.8222107,72.1352468,Ahmadabad,GUJARAT,Sociable Lapwing,N,Winter
+Nalsarovar Bird Sanctuary,22.822254,72.304087,Ahmadabad,GUJARAT,Sociable Lapwing,N,Winter
+Nalsarovar Bird Sanctuary,22.8224609,72.2833945,Ahmadabad,GUJARAT,Sociable Lapwing,N,Winter
+Mandvi Beach,22.8230417,69.3420677,Kachchh,GUJARAT,Sociable Lapwing,N,Winter
+Nalsarovar Bird Sanctuary,22.8232275,72.261525,Ahmadabad,GUJARAT,Sociable Lapwing,N,Winter
+Nalsarovar Bird Sanctuary,22.823348,72.1011518,Ahmadabad,GUJARAT,Sociable Lapwing,N,Winter
+Nalsarovar Bird Sanctuary,22.82371,72.2874117,Ahmadabad,GUJARAT,Sociable Lapwing,N,Winter
+Nalsarovar Bird Sanctuary,22.823783,72.287232,Ahmadabad,GUJARAT,Sociable Lapwing,N,Winter
+Nalsarovar Bird Sanctuary,22.8238,72.2872,Ahmadabad,GUJARAT,Sociable Lapwing,N,Winter
+Nalsarovar Bird Sanctuary,22.823881,72.2872702,Ahmadabad,GUJARAT,Sociable Lapwing,N,Winter
+Nalsarovar Bird Sanctuary,22.8240259,72.114432,Ahmadabad,GUJARAT,Sociable Lapwing,N,Winter
+Nalsarovar Bird Sanctuary,22.824194,72.1211546,Ahmadabad,GUJARAT,Sociable Lapwing,N,Passage/Summer
+Nalsarovar Bird Sanctuary,22.825111,72.121087,Ahmadabad,GUJARAT,Sociable Lapwing,N,Winter
+Nalsarovar Bird Sanctuary,22.825319,72.2733608,Ahmadabad,GUJARAT,Sociable Lapwing,N,Winter
+Nalsarovar Bird Sanctuary,22.8254877,72.2948428,Ahmadabad,GUJARAT,Sociable Lapwing,N,Winter
+Nalsarovar Bird Sanctuary,22.825498,72.2942353,Ahmadabad,GUJARAT,Sociable Lapwing,N,Winter
+Nalsarovar Bird Sanctuary,22.8257177,72.121272,Ahmadabad,GUJARAT,Sociable Lapwing,N,Winter
+Nalsarovar Bird Sanctuary,22.8265896,72.0386172,Surendranagar,GUJARAT,Greater Flamingo,N,Passage/Summer
+Nalsarovar Bird Sanctuary,22.8265896,72.0386172,Surendranagar,GUJARAT,Lesser Flamingo,N,Passage/Summer
+Nalsarovar Bird Sanctuary,22.8283633,72.2803908,Ahmadabad,GUJARAT,Sociable Lapwing,N,Winter
+Nalsarovar Bird Sanctuary,22.8284291,72.2840038,Ahmadabad,GUJARAT,Sociable Lapwing,N,Winter
+Nalsarovar Bird Sanctuary,22.8285157,72.0574936,Ahmadabad,GUJARAT,Sociable Lapwing,N,Winter
+Nalsarovar Bird Sanctuary,22.8297869,72.0982611,Ahmadabad,GUJARAT,Sociable Lapwing,N,Winter
+Nalsarovar Bird Sanctuary,22.8300274,72.1069023,Ahmadabad,GUJARAT,Sociable Lapwing,N,Winter
+Nalsarovar Bird Sanctuary,22.8323791,72.0637875,Ahmadabad,GUJARAT,Sociable Lapwing,N,Winter
+Nalsarovar Bird Sanctuary,22.8418286,72.2990169,Ahmadabad,GUJARAT,Sociable Lapwing,N,Winter
+Nalsarovar Bird Sanctuary,22.846343,72.3320858,Ahmadabad,GUJARAT,Sociable Lapwing,N,Winter
+Nalsarovar Bird Sanctuary,22.85082,72.075391,Ahmadabad,GUJARAT,Sociable Lapwing,N,Winter
+Nalsarovar Bird Sanctuary,22.8567352,72.0381952,Ahmadabad,GUJARAT,Sociable Lapwing,N,Winter
+Nalsarovar Bird Sanctuary,22.8740152,72.0914351,Ahmadabad,GUJARAT,Sociable Lapwing,N,Winter
+Nalsarovar Bird Sanctuary,22.876501,72.020498,Ahmadabad,GUJARAT,Sociable Lapwing,N,Winter
+Nalsarovar Bird Sanctuary,22.9199388,72.4394488,Ahmadabad,GUJARAT,Black-tailed Godwit,N,Winter
+Bhaskarpura Wetlands,22.9864414,71.9321934,Surendranagar,GUJARAT,Common Pochard,N,Winter
+Thol Bird Sanctuary,23.0797784,72.5231301,Ahmadabad,GUJARAT,Black-tailed Godwit,N,Winter
+Thol Bird Sanctuary,23.1331381,72.4030352,Gandhinagar,GUJARAT,Black-tailed Godwit,N,Winter
+Thol Bird Sanctuary,23.134043,72.3991161,Mahesana,GUJARAT,Sociable Lapwing,N,Winter
+Little Rann of Kachchh,23.1358401,71.7397785,Kachchh,GUJARAT,Greater Flamingo,N,Winter
+Little Rann of Kachchh,23.1379133,71.768918,Surendranagar,GUJARAT,Sociable Lapwing,N,Winter
+Little Rann of Kachchh,23.1379133,71.768918,Surendranagar,GUJARAT,Lesser Flamingo,N,Passage/Summer
+Little Rann of Kachchh,23.1595322,71.7132568,Kachchh,GUJARAT,Sociable Lapwing,N,Winter
+Little Rann of Kachchh,23.2075874,71.739006,Surendranagar,GUJARAT,Sociable Lapwing,N,Winter
+Little Rann of Kachchh,23.2145802,71.7534433,Surendranagar,GUJARAT,Sociable Lapwing,N,Winter
+Little Rann of Kachchh,23.2175875,70.9781326,Kachchh,GUJARAT,Sociable Lapwing,N,Winter
+Jakhau,23.2277805,68.613224,Kachchh,GUJARAT,Great Knot,Y,Winter
+Little Rann of Kachchh,23.2502576,71.6939449,Kachchh,GUJARAT,Sociable Lapwing,N,Winter
+Little Rann of Kachchh,23.270404,71.67273,Surendranagar,GUJARAT,Lesser Flamingo,N,Winter
+Little Rann of Kachchh,23.3198481,71.8458009,Surendranagar,GUJARAT,Sociable Lapwing,Y,Winter
+Little Rann of Kachchh,23.3477446,71.7974567,Surendranagar,GUJARAT,Sociable Lapwing,N,Winter
+Little Rann of Kachchh,23.3888993,71.3415944,Kachchh,GUJARAT,Sociable Lapwing,N,Winter
+Great Rann of Kachchh--Banni Grasslands/Wetlands,23.4123972,69.3098618,Kachchh,GUJARAT,Sociable Lapwing,N,Winter
+Little Rann of Kachchh,23.4148949,71.4421391,Kachchh,GUJARAT,Lesser Flamingo,N,Winter
+Little Rann of Kachchh,23.4265513,71.9726694,Ahmadabad,GUJARAT,Sociable Lapwing,N,Winter
+Great Rann of Kachchh--Banni Grasslands/Wetlands,23.4383142,69.9236441,Kachchh,GUJARAT,Sociable Lapwing,N,Winter
+Halali Dam,23.4824443,77.4914015,Bhopal,MADHYA PRADESH,Black-tailed Godwit,N,Winter
+Shankheswar Lake,23.5141793,71.7890207,Patan,GUJARAT,Sociable Lapwing,Y,Winter
+Little Rann of Kachchh,23.541775,71.14233,Kachchh,GUJARAT,Little Stint,N,Winter
+Great Rann of Kachchh--Banni Grasslands/Wetlands,23.5822381,69.3151474,Kachchh,GUJARAT,Sociable Lapwing,N,Winter
+Great Rann of Kachchh--Banni Grasslands/Wetlands,23.5822381,69.3151474,Kachchh,GUJARAT,Sociable Lapwing,Y,Winter
+Great Rann of Kachchh--Banni Grasslands/Wetlands,23.5822381,69.3151474,Kachchh,GUJARAT,Greater Flamingo,N,Passage/Summer
+Great Rann of Kachchh--Banni Grasslands/Wetlands,23.5822381,69.3151474,Kachchh,GUJARAT,Greater Flamingo,Y,Passage/Summer
+Great Rann of Kachchh--Banni Grasslands/Wetlands,23.5822381,69.3151474,Kachchh,GUJARAT,Lesser Flamingo,Y,Winter
+Great Rann of Kachchh--Banni Grasslands/Wetlands,23.5822381,69.3151474,Kachchh,GUJARAT,Black-tailed Godwit,Y,Winter
+Great Rann of Kachchh--Banni Grasslands/Wetlands,23.5822381,69.3151474,Kachchh,GUJARAT,Lesser Flamingo,Y,Passage/Summer
+Great Rann of Kachchh--Banni Grasslands/Wetlands,23.5871151,69.2488003,Kachchh,GUJARAT,Sociable Lapwing,N,Winter
+Great Rann of Kachchh--Banni Grasslands/Wetlands,23.5871151,69.2488003,Kachchh,GUJARAT,Sociable Lapwing,Y,Winter
+Great Rann of Kachchh--Banni Grasslands/Wetlands,23.5871151,69.2488003,Kachchh,GUJARAT,Sociable Lapwing,Y,Passage/Summer
+Great Rann of Kachchh--Banni Grasslands/Wetlands,23.587321,69.620047,Kachchh,GUJARAT,Sociable Lapwing,N,Winter
+Great Rann of Kachchh--Banni Grasslands/Wetlands,23.6136994,69.3043327,Kachchh,GUJARAT,Sociable Lapwing,Y,Winter
+Great Rann of Kachchh--Banni Grasslands/Wetlands,23.616547,69.3855286,Kachchh,GUJARAT,Sociable Lapwing,N,Winter
+Great Rann of Kachchh--Banni Grasslands/Wetlands,23.6240926,69.9063599,Kachchh,GUJARAT,Greater Flamingo,N,Winter
+Great Rann of Kachchh--Banni Grasslands/Wetlands,23.628821,70.400987,Kachchh,GUJARAT,Greater Flamingo,N,Winter
+Great Rann of Kachchh--Banni Grasslands/Wetlands,23.6523648,69.5623014,Kachchh,GUJARAT,Sociable Lapwing,N,Winter
+Great Rann of Kachchh--Banni Grasslands/Wetlands,23.6707922,69.6005988,Kachchh,GUJARAT,Sociable Lapwing,N,Winter
+Great Rann of Kachchh--Banni Grasslands/Wetlands,23.6924389,69.4963888,Kachchh,GUJARAT,Sociable Lapwing,N,Winter
+Great Rann of Kachchh--Banni Grasslands/Wetlands,23.6962494,69.3216705,Kachchh,GUJARAT,Sociable Lapwing,N,Winter
+Great Rann of Kachchh--Banni Grasslands/Wetlands,23.713472,69.314142,Kachchh,GUJARAT,Sociable Lapwing,N,Winter
+Great Rann of Kachchh--Banni Grasslands/Wetlands,23.715508,69.312012,Kachchh,GUJARAT,Sociable Lapwing,N,Winter
+Great Rann of Kachchh--Banni Grasslands/Wetlands,23.7440263,69.3314754,Kachchh,GUJARAT,Sociable Lapwing,Y,Winter
+Great Rann of Kachchh--Dholavira/Nanda Bet,23.801798,69.5041466,Kachchh,GUJARAT,Sociable Lapwing,N,Winter
+Great Rann of Kachchh--Dholavira/Nanda Bet,23.8728879,70.1932597,Kachchh,GUJARAT,Greater Flamingo,N,Passage/Summer
+Great Rann of Kachchh--Dholavira/Nanda Bet,23.8784604,70.2110052,Kachchh,GUJARAT,Greater Flamingo,N,Winter
+Great Rann of Kachchh--Dholavira/Nanda Bet,23.897379,70.6212981,Kachchh,GUJARAT,Greater Flamingo,N,Passage/Summer
+Great Rann of Kachchh--Dholavira/Nanda Bet,23.9044919,70.5453935,Kachchh,GUJARAT,Lesser Flamingo,Y,Passage/Summer
+Great Rann of Kachchh--Dholavira/Nanda Bet,23.9075007,70.5348612,Kachchh,GUJARAT,Lesser Flamingo,Y,Winter
+Great Rann of Kachchh--Dholavira/Nanda Bet,23.9075041,70.4779816,Kachchh,GUJARAT,Lesser Flamingo,N,Passage/Summer
+Great Rann of Kachchh--Dholavira/Nanda Bet,23.9077589,70.507284,Kachchh,GUJARAT,Lesser Flamingo,N,Winter
+Great Rann of Kachchh--Dholavira/Nanda Bet,23.9077589,70.507284,Kachchh,GUJARAT,Greater Flamingo,N,Winter
+Great Rann of Kachchh--Dholavira/Nanda Bet,23.9077589,70.507284,Kachchh,GUJARAT,Lesser Flamingo,N,Passage/Summer
+Great Rann of Kachchh--Dholavira/Nanda Bet,23.9077589,70.507284,Kachchh,GUJARAT,Black-tailed Godwit,N,Passage/Summer
+Great Rann of Kachchh--Dholavira/Nanda Bet,23.907886,70.485257,Kachchh,GUJARAT,Lesser Flamingo,N,Passage/Summer
+Korada Sandher,23.9252,71.3992213,Patan,GUJARAT,Common Pochard,Y,Winter
+Korada  Sandher,23.9327634,71.405199,Patan,GUJARAT,Lesser Flamingo,Y,Winter
+Great Rann of Kachchh--Dholavira/Nanda Bet,23.958117,70.624258,Kachchh,GUJARAT,Lesser Flamingo,N,Passage/Summer
+Great Rann of Kachchh--Dholavira/Nanda Bet,24.04588,70.587382,Kachchh,GUJARAT,Greater Flamingo,N,Passage/Summer
+Great Rann of Kachchh--Dholavira/Nanda Bet,24.04588,70.587382,Kachchh,GUJARAT,Lesser Flamingo,N,Passage/Summer
+Great Rann of Kachchh--Dholavira/Nanda Bet,24.0604759,70.0469891,Kachchh,GUJARAT,Greater Flamingo,Y,Winter
+Great Rann of Kachchh--Dholavira/Nanda Bet,24.1481081,71.3167308,Banas Kantha,GUJARAT,Lesser Flamingo,N,Winter
+Great Rann of Kachchh--Dholavira/Nanda Bet,24.1795861,71.2663989,Kachchh,GUJARAT,Lesser Flamingo,N,Winter
+Great Rann of Kachchh--Dholavira/Nanda Bet,24.2602778,70.2213889,Kachchh,GUJARAT,Greater Flamingo,N,Passage/Summer
+Great Rann of Kachchh--Dholavira/Nanda Bet,24.3461192,71.0223198,Kachchh,GUJARAT,Greater Flamingo,N,Winter
+Great Rann of Kachchh--Dholavira/Nanda Bet,24.3461192,71.0223198,Kachchh,GUJARAT,Lesser Flamingo,N,Winter
+Great Rann of Kachchh--Dholavira/Nanda Bet,24.4009576,71.1213044,Kachchh,GUJARAT,Greater Flamingo,N,Winter
+Bhupal Sagar Lake,24.852392,74.201078,Chittaurgarh,RAJASTHAN,Black-tailed Godwit,N,Winter
+Farakka IBA Panchanandapur,24.9578841,87.9770337,Maldah,WEST BENGAL,Common Pochard,N,Winter
+Alania Dam,25.0053504,75.8767748,Kota,RAJASTHAN,Black-tailed Godwit,N,Passage/Summer
+Yamuna River--Karehada,25.376848,81.795082,Prayagraj,UTTAR PRADESH,Indian Skimmer,N,Passage/Summer
+Ganga River--Prayagraj,25.502388,81.854371,Prayagraj,UTTAR PRADESH,Indian Skimmer,N,Winter
+Ganga River--Prayagraj,25.502587,81.854808,Prayagraj,UTTAR PRADESH,Indian Skimmer,N,Winter
+Ganga River--Prayagraj,25.5063568,81.86519,Prayagraj,UTTAR PRADESH,Indian Skimmer,N,Passage/Summer
+Soorwal Lake,26.0808724,76.3401532,Sawai Madhopur,RAJASTHAN,Indian Skimmer,N,Winter
+Deepor Beel,26.1210761,91.6480794,Kamrup Metropolitan,ASSAM,Ferruginous Duck,N,Winter
+Deepor Beel,26.1247256,91.6900728,Kamrup Metropolitan,ASSAM,Ferruginous Duck,N,Winter
+Deepor Beel,26.1288503,91.6538581,Kamrup Metropolitan,ASSAM,Ferruginous Duck,N,Winter
+Deepor Beel,26.1341618,91.6394241,Kamrup Metropolitan,ASSAM,Ferruginous Duck,N,Winter
+Pobitora,26.2343483,92.0352371,Morigaon,ASSAM,Ferruginous Duck,N,Winter
+Pobitora,26.2434898,92.0392939,Morigaon,ASSAM,Ferruginous Duck,N,Winter
+National Chambal Sanctuary--Etawah,26.4842704,79.1905706,Etawah,UTTAR PRADESH,Indian Skimmer,N,Passage/Summer
+National Chambal Sanctuary--Etawah,26.4861815,79.1917002,Etawah,UTTAR PRADESH,Indian Skimmer,N,Passage/Summer
+National Chambal Sanctuary--Etawah,26.491078,79.1967,Etawah,UTTAR PRADESH,Indian Skimmer,N,Passage/Summer
+National Chambal Sanctuary--Etawah,26.49436,79.200171,Etawah,UTTAR PRADESH,Indian Skimmer,N,Winter
+National Chambal Sanctuary--Etawah,26.5293867,79.1710116,Etawah,UTTAR PRADESH,Indian Skimmer,N,Passage/Summer
+National Chambal Sanctuary--Etawah,26.5295304,79.1714496,Etawah,UTTAR PRADESH,Indian Skimmer,N,Passage/Summer
+National Chambal Sanctuary--Etawah,26.529546,79.1717172,Etawah,UTTAR PRADESH,Indian Skimmer,N,Passage/Summer
+Mikir Hills,26.570289,93.4119372,Karbi Anglong,ASSAM,Yellow-breasted Bunting,Y,Winter
+Kaziranga National Park,26.6063326,93.455286,Golaghat,ASSAM,Yellow-breasted Bunting,N,Winter
+National Chambal Gharial Sanctuary--Morena/Dholpur,26.6507301,77.8984653,Morena,MADHYA PRADESH,Indian Skimmer,N,Winter
+National Chambal Sanctuary--Bhind,26.650953,78.999931,Bhind,MADHYA PRADESH,Indian Skimmer,N,Passage/Summer
+Fulbari Wetlands,26.6522174,88.406393,Jalpaiguri,WEST BENGAL,Yellow-breasted Bunting,N,Passage/Summer
+National Chambal Gharial Sanctuary--Morena/Dholpur,26.6563492,77.9011219,Morena,MADHYA PRADESH,Indian Skimmer,N,Winter
+National Chambal Gharial Sanctuary--Morena/Dholpur,26.6574862,77.9067536,Morena,MADHYA PRADESH,Indian Skimmer,N,Winter
+National Chambal Gharial Sanctuary--Morena/Dholpur,26.6574862,77.9067536,Morena,MADHYA PRADESH,Indian Skimmer,N,Passage/Summer
+National Chambal Gharial Sanctuary--Morena/Dholpur,26.6577379,77.9045248,Morena,MADHYA PRADESH,Indian Skimmer,N,Winter
+National Chambal Gharial Sanctuary--Morena/Dholpur,26.6582312,77.9060364,Morena,MADHYA PRADESH,Indian Skimmer,N,Winter
+National Chambal Gharial Sanctuary--Morena/Dholpur,26.6593164,77.9051013,Morena,MADHYA PRADESH,Indian Skimmer,N,Winter
+Fulbari Wetlands,26.6594712,88.4024604,Jalpaiguri,WEST BENGAL,Yellow-breasted Bunting,N,Winter
+National Chambal Gharial Sanctuary--Morena/Dholpur,26.6598857,77.9001045,Dhaulpur,RAJASTHAN,Indian Skimmer,N,Winter
+National Chambal Gharial Sanctuary--Morena/Dholpur,26.6598857,77.9001045,Dhaulpur,RAJASTHAN,Indian Skimmer,Y,Winter
+National Chambal Gharial Sanctuary--Morena/Dholpur,26.6598857,77.9001045,Dhaulpur,RAJASTHAN,Indian Skimmer,Y,Passage/Summer
+Kaziranga National Park,26.6651783,93.5614157,Golaghat,ASSAM,Yellow-breasted Bunting,N,Winter
+National Chambal Gharial Sanctuary--Morena/Dholpur,26.665833,77.909444,Dhaulpur,RAJASTHAN,Indian Skimmer,N,Passage/Summer
+Fulbari Wetlands,26.6681918,88.4079511,Jalpaiguri,WEST BENGAL,Yellow-breasted Bunting,N,Winter
+Fulbari Wetlands,26.6681918,88.4079511,Jalpaiguri,WEST BENGAL,Yellow-breasted Bunting,N,Passage/Summer
+National Chambal Gharial Sanctuary--Morena/Dholpur,26.6704226,77.8725477,Dhaulpur,RAJASTHAN,Indian Skimmer,N,Winter
+National Chambal Gharial Sanctuary--Morena/Dholpur,26.7522315,78.1123772,Dhaulpur,RAJASTHAN,Indian Skimmer,N,Winter
+National Chambal Sanctuary--Agra,26.7680456,78.6493206,Agra,UTTAR PRADESH,Indian Skimmer,Y,Winter
+National Chambal Sanctuary--Agra,26.7867947,78.7519205,Agra,UTTAR PRADESH,Indian Skimmer,N,Winter
+National Chambal Gharial Sanctuary--Morena/Dholpur,26.787996,78.170943,Dhaulpur,RAJASTHAN,Indian Skimmer,N,Winter
+National Chambal Sanctuary--Agra,26.8222886,78.4150898,Agra,UTTAR PRADESH,Indian Skimmer,N,Winter
+National Chambal Sanctuary--Agra,26.872162,78.563969,Agra,UTTAR PRADESH,Indian Skimmer,N,Winter
+National Chambal Sanctuary--Agra,27.1150103,77.7160765,Agra,UTTAR PRADESH,Indian Skimmer,N,Winter
+Keoladeo National Park,27.17184,77.5215375,Bharatpur,RAJASTHAN,Sociable Lapwing,Y,Winter
+Keoladeo National Park,27.1788819,77.5170422,Bharatpur,RAJASTHAN,Sociable Lapwing,Y,Winter
+Keoladeo National Park,27.1788819,77.5170422,Bharatpur,RAJASTHAN,Sociable Lapwing,Y,Passage/Summer
+Maguri Beel,27.5761558,95.3944159,Tinsukia,ASSAM,Ferruginous Duck,Y,Winter
+Tal Chhapar,27.7966035,74.4326306,Churu,RAJASTHAN,Sociable Lapwing,N,Winter
+Jorbeer,27.9636271,73.3899164,Bikaner,RAJASTHAN,Sociable Lapwing,N,Winter
+Jorbeer,27.9659012,73.3764724,Bikaner,RAJASTHAN,Sociable Lapwing,N,Winter
+Jorbeer,27.9660506,73.3765443,Bikaner,RAJASTHAN,Sociable Lapwing,N,Winter
+National Chambal Sanctuary--Agra,28.170722,78.412173,Bulandshahr,UTTAR PRADESH,Indian Skimmer,N,Winter
+Sultanpur National Park,28.4638333,76.8893809,Gurugram,HARYANA,Sociable Lapwing,Y,Winter
+Sultanpur National Park,28.4638333,76.8893809,Gurugram,HARYANA,Black-bellied Tern,Y,Passage/Summer
+Budhera WTP,28.4768398,76.920433,Gurugram,HARYANA,Black-tailed Godwit,N,Winter
+Surajpur Wetlands,28.523697,77.494845,Gautam Buddha Nagar,UTTAR PRADESH,Black-tailed Godwit,N,Winter
+Okhla Bird Sanctuary,28.5458603,77.3105,South East,DELHI,Ferruginous Duck,Y,Winter
+Okhla Bird Sanctuary,28.5668688,77.3063707,Gautam Buddha Nagar,UTTAR PRADESH,Black-tailed Godwit,Y,Winter
+Wazirabad Pumping Station,28.7153087,77.2278145,Central,DELHI,Black-bellied Tern,Y,Passage/Summer
+Wazirabad Pumping Station,28.7153087,77.2278145,Central,DELHI,Black-bellied Tern,Y,Winter
+Wazirabad Pumping Station,28.7375404,77.2298858,Central,DELHI,Black-bellied Tern,Y,Winter
+Haiderpur Wetlands and Bijnor Barrage,29.3781843,78.0296764,Bijnor,UTTAR PRADESH,Indian Skimmer,N,Passage/Summer
+Haiderpur Wetlands and Bijnor Barrage,29.3781843,78.0296764,Bijnor,UTTAR PRADESH,Ferruginous Duck,N,Winter
+Haiderpur Wetlands and Bijnor Barrage,29.3781843,78.0296764,Bijnor,UTTAR PRADESH,Ferruginous Duck,N,Passage/Summer
+Harike Bird Sanctuary,31.1520527,74.9588526,Firozpur,PUNJAB,White-headed Duck,N,Winter
